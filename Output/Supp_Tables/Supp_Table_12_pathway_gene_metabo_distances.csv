@@ -1,0 +1,1001 @@
+"pathway_source","pathway_name","gene","metabo","gene_rxn_id","metabo_rxn_id","metabo_type","dist"
+"kegg","rn00340","Hdc","C6H9N3O2","rn:R01167","rn:R01163","product",1
+"kegg","rn00340","Hdc","C6H9N3O2","rn:R01167","rn:R01164","substrate",1
+"kegg","rn00340","Hdc","C6H9N3O2","rn:R01167","rn:R01166","product",1
+"kegg","rn00340","Hdc","C6H9N3O2","rn:R01167","rn:R01167","substrate",0
+"kegg","rn00340","Hdc","C6H9N3O2","rn:R01167","rn:R01168","substrate",1
+"kegg","rn00340","Hdc","C6H9N3O2","rn:R01167","rn:R01169","substrate",1
+"kegg","rn00340","Hdc","C5H9NO4","rn:R01167","rn:R01161",NA,1
+"kegg","rn00340","Aldh2","C10H15N5O10P2","rn:R04065","rn:R04068",NA,1
+"kegg","rn00340","Hdc","C10H15N5O10P2","rn:R01167","rn:R01164",NA,1
+"kegg","rn00340","Hdc","C5H4O5","rn:R01167","rn:R01161",NA,1
+"kegg","rn00340","Aldh2","H3O4P","rn:R04065","rn:R04068",NA,1
+"kegg","rn00340","Hdc","H3O4P","rn:R01167","rn:R01164",NA,1
+"kegg","rn00340","Aldh2","H4O7P2","rn:R04065","rn:R04068",NA,1
+"kegg","rn00340","Hdc","C5H6O5","rn:R01167","rn:R01161",NA,1
+"kegg","rn00410","Aldh2","C6H9N3O2","rn:R00904","rn:R01164",NA,1
+"kegg","rn00410","Aldh2","C6H9N3O2","rn:R00904","rn:R01166",NA,1
+"kegg","rn00410","Gad1","C6H9N3O2","rn:R00489","rn:R01164",NA,1
+"kegg","rn00410","Gad1","C6H9N3O2","rn:R00489","rn:R01166",NA,1
+"kegg","rn00410","Gad2","C6H9N3O2","rn:R00489","rn:R01164",NA,1
+"kegg","rn00410","Gad2","C6H9N3O2","rn:R00489","rn:R01166",NA,1
+"kegg","rn00410","Csad","C6H9N3O2","rn:R00489","rn:R01164",NA,1
+"kegg","rn00410","Csad","C6H9N3O2","rn:R00489","rn:R01166",NA,1
+"kegg","rn00410","Aldh2","C5H9NO4","rn:R00904","rn:R00908",NA,1
+"kegg","rn00410","Gad1","C5H9NO4","rn:R00489","rn:R00908",NA,1
+"kegg","rn00410","Gad2","C5H9NO4","rn:R00489","rn:R00908",NA,1
+"kegg","rn00410","Csad","C5H9NO4","rn:R00489","rn:R00908",NA,1
+"kegg","rn00410","Aldh2","C10H14N5O7P","rn:R00904","rn:R02473",NA,1
+"kegg","rn00410","Aldh2","C10H14N5O7P","rn:R00904","rn:R09379",NA,1
+"kegg","rn00410","Gad1","C10H14N5O7P","rn:R00489","rn:R02473",NA,1
+"kegg","rn00410","Gad1","C10H14N5O7P","rn:R00489","rn:R09379",NA,1
+"kegg","rn00410","Gad2","C10H14N5O7P","rn:R00489","rn:R02473",NA,1
+"kegg","rn00410","Gad2","C10H14N5O7P","rn:R00489","rn:R09379",NA,1
+"kegg","rn00410","Csad","C10H14N5O7P","rn:R00489","rn:R02473",NA,1
+"kegg","rn00410","Csad","C10H14N5O7P","rn:R00489","rn:R09379",NA,1
+"kegg","rn00410","Aldh2","C5H9NO3","rn:R00904","rn:R00909","substrate",1
+"kegg","rn00410","Aldh2","C10H15N5O10P2","rn:R00904","rn:R00910",NA,1
+"kegg","rn00410","Aldh2","C10H15N5O10P2","rn:R00904","rn:R00912",NA,1
+"kegg","rn00410","Aldh2","C10H15N5O10P2","rn:R00904","rn:R01164",NA,1
+"kegg","rn00410","Aldh2","C10H15N5O10P2","rn:R00904","rn:R03286",NA,1
+"kegg","rn00410","Gad1","C10H15N5O10P2","rn:R00489","rn:R00910",NA,1
+"kegg","rn00410","Gad1","C10H15N5O10P2","rn:R00489","rn:R00912",NA,1
+"kegg","rn00410","Gad1","C10H15N5O10P2","rn:R00489","rn:R01164",NA,1
+"kegg","rn00410","Gad1","C10H15N5O10P2","rn:R00489","rn:R03286",NA,1
+"kegg","rn00410","Gad2","C10H15N5O10P2","rn:R00489","rn:R00910",NA,1
+"kegg","rn00410","Gad2","C10H15N5O10P2","rn:R00489","rn:R00912",NA,1
+"kegg","rn00410","Gad2","C10H15N5O10P2","rn:R00489","rn:R01164",NA,1
+"kegg","rn00410","Gad2","C10H15N5O10P2","rn:R00489","rn:R03286",NA,1
+"kegg","rn00410","Csad","C10H15N5O10P2","rn:R00489","rn:R00910",NA,1
+"kegg","rn00410","Csad","C10H15N5O10P2","rn:R00489","rn:R00912",NA,1
+"kegg","rn00410","Csad","C10H15N5O10P2","rn:R00489","rn:R01164",NA,1
+"kegg","rn00410","Csad","C10H15N5O10P2","rn:R00489","rn:R03286",NA,1
+"kegg","rn00410","Aldh2","C5H4O5","rn:R00904","rn:R00908",NA,1
+"kegg","rn00410","Gad1","C5H4O5","rn:R00489","rn:R00908",NA,1
+"kegg","rn00410","Gad2","C5H4O5","rn:R00489","rn:R00908",NA,1
+"kegg","rn00410","Csad","C5H4O5","rn:R00489","rn:R00908",NA,1
+"kegg","rn00410","Aldh2","C4H9NO2","rn:R02549","rn:R02549","product",0
+"kegg","rn00410","Aldh2","C4H7NO4","rn:R00904","rn:R00489","substrate",1
+"kegg","rn00410","Gad1","C4H7NO4","rn:R00489","rn:R00489","substrate",0
+"kegg","rn00410","Gad2","C4H7NO4","rn:R00489","rn:R00489","substrate",0
+"kegg","rn00410","Csad","C4H7NO4","rn:R00489","rn:R00489","substrate",0
+"kegg","rn00410","Aldh2","C10H16N4O3","rn:R00904","rn:R03286","product",1
+"kegg","rn00410","Gad1","C10H16N4O3","rn:R00489","rn:R03286","product",1
+"kegg","rn00410","Gad2","C10H16N4O3","rn:R00489","rn:R03286","product",1
+"kegg","rn00410","Csad","C10H16N4O3","rn:R00489","rn:R03286","product",1
+"kegg","rn00410","Aldh2","H3O4P","rn:R00904","rn:R00910",NA,1
+"kegg","rn00410","Aldh2","H3O4P","rn:R00904","rn:R00912",NA,1
+"kegg","rn00410","Aldh2","H3O4P","rn:R00904","rn:R01164",NA,1
+"kegg","rn00410","Aldh2","H3O4P","rn:R00904","rn:R03286",NA,1
+"kegg","rn00410","Gad1","H3O4P","rn:R00489","rn:R00910",NA,1
+"kegg","rn00410","Gad1","H3O4P","rn:R00489","rn:R00912",NA,1
+"kegg","rn00410","Gad1","H3O4P","rn:R00489","rn:R01164",NA,1
+"kegg","rn00410","Gad1","H3O4P","rn:R00489","rn:R03286",NA,1
+"kegg","rn00410","Gad2","H3O4P","rn:R00489","rn:R00910",NA,1
+"kegg","rn00410","Gad2","H3O4P","rn:R00489","rn:R00912",NA,1
+"kegg","rn00410","Gad2","H3O4P","rn:R00489","rn:R01164",NA,1
+"kegg","rn00410","Gad2","H3O4P","rn:R00489","rn:R03286",NA,1
+"kegg","rn00410","Csad","H3O4P","rn:R00489","rn:R00910",NA,1
+"kegg","rn00410","Csad","H3O4P","rn:R00489","rn:R00912",NA,1
+"kegg","rn00410","Csad","H3O4P","rn:R00489","rn:R01164",NA,1
+"kegg","rn00410","Csad","H3O4P","rn:R00489","rn:R03286",NA,1
+"kegg","rn00410","Aldh2","H4O7P2","rn:R00904","rn:R02473",NA,1
+"kegg","rn00410","Aldh2","H4O7P2","rn:R00904","rn:R09379",NA,1
+"kegg","rn00410","Gad1","H4O7P2","rn:R00489","rn:R02473",NA,1
+"kegg","rn00410","Gad1","H4O7P2","rn:R00489","rn:R09379",NA,1
+"kegg","rn00410","Gad2","H4O7P2","rn:R00489","rn:R02473",NA,1
+"kegg","rn00410","Gad2","H4O7P2","rn:R00489","rn:R09379",NA,1
+"kegg","rn00410","Csad","H4O7P2","rn:R00489","rn:R02473",NA,1
+"kegg","rn00410","Csad","H4O7P2","rn:R00489","rn:R09379",NA,1
+"kegg","rn00410","Aldh2","C5H6O5","rn:R00904","rn:R00908",NA,1
+"kegg","rn00410","Gad1","C5H6O5","rn:R00489","rn:R00908",NA,1
+"kegg","rn00410","Gad2","C5H6O5","rn:R00489","rn:R00908",NA,1
+"kegg","rn00410","Csad","C5H6O5","rn:R00489","rn:R00908",NA,1
+"kegg","rn00240","Rrm2","C10H15N5O10P2","rn:R02018","rn:R02098",NA,1
+"kegg","rn00240","Rrm2","C10H15N5O10P2","rn:R02018","rn:R02331",NA,1
+"kegg","rn00240","Rrm2","C10H15N5O10P2","rn:R02024","rn:R00512",NA,1
+"kegg","rn00240","Rrm2","C10H15N5O10P2","rn:R02024","rn:R00570",NA,1
+"kegg","rn00240","Rrm2","C10H15N5O10P2","rn:R02024","rn:R01665",NA,1
+"kegg","rn00240","Rrm2","C10H15N5O10P2","rn:R02024","rn:R02326",NA,1
+"kegg","rn00240","Rrm2","H3O4P","rn:R02018","rn:R02330",NA,1
+"kegg","rn00240","Rrm2","H3O4P","rn:R02024","rn:R00514",NA,1
+"kegg","rn00240","Rrm2","H3O4P","rn:R02024","rn:R00569",NA,1
+"kegg","rn00280","Aldh2","C4H6O4","rn:R03869","rn:R03383","substrate",1
+"kegg","rn00280","Aldh2","C4H6O4","rn:R03869","rn:R03869","product",0
+"kegg","rn00280","Acaa2","C4H6O4","rn:R00238","rn:R00410",NA,1
+"kegg","rn00280","Aldh2","C5H9NO4","rn:R03869","rn:R04188",NA,1
+"kegg","rn00280","Aldh2","C10H14N5O7P","rn:R03869","rn:R03383",NA,1
+"kegg","rn00280","Acaa2","C10H14N5O7P","rn:R00238","rn:R01357",NA,1
+"kegg","rn00280","Aldh2","C4H9NO2","rn:R03869","rn:R02050","substrate",1
+"kegg","rn00280","Acaa2","C10H15N5O10P2","rn:R00927","rn:R01859",NA,1
+"kegg","rn00280","Aldh2","C5H4O5","rn:R03869","rn:R04188",NA,1
+"kegg","rn00280","Aldh2","C4H4O4","rn:R03869","rn:R03383","substrate",1
+"kegg","rn00280","Aldh2","C4H4O4","rn:R03869","rn:R03869","product",0
+"kegg","rn00280","Acaa2","H3O4P","rn:R00927","rn:R01859",NA,1
+"kegg","rn00280","Aldh2","H4O7P2","rn:R03869","rn:R03383",NA,1
+"kegg","rn00280","Acaa2","H4O7P2","rn:R00238","rn:R01357",NA,1
+"kegg","rn00280","Aldh2","C5H6O5","rn:R03869","rn:R04188",NA,1
+"kegg","rn00500","Hk1","C6H12O6","rn:R00299","rn:R00299","substrate",0
+"kegg","rn00500","Hk1","C6H12O6","rn:R00299","rn:R00839",NA,1
+"kegg","rn00500","Hk1","C6H12O6","rn:R00299","rn:R00960",NA,1
+"kegg","rn00500","Hk1","C6H12O6","rn:R00760","rn:R00801",NA,1
+"kegg","rn00500","Hk1","C6H12O6","rn:R00760","rn:R00760","substrate",0
+"kegg","rn00500","Hk1","C6H12O6","rn:R00760","rn:R03921",NA,1
+"kegg","rn00500","Hk1","C6H13O9P","rn:R00299","rn:R00299","product",0
+"kegg","rn00500","Hk1","C6H13O9P","rn:R00299","rn:R00839",NA,1
+"kegg","rn00500","Hk1","C6H13O9P","rn:R00299","rn:R00771","product",1
+"kegg","rn00500","Hk1","C6H13O9P","rn:R00299","rn:R00960","substrate",1
+"kegg","rn00500","Hk1","C6H13O9P","rn:R00299","rn:R08639","substrate",1
+"kegg","rn00500","Hk1","C6H13O9P","rn:R00760","rn:R03921",NA,1
+"kegg","rn00500","Hk1","C6H13O9P","rn:R00760","rn:R00760","product",0
+"kegg","rn00500","Hk1","C6H13O9P","rn:R00760","rn:R00771","product",1
+"kegg","rn00500","Hk1","C10H15N5O10P2","rn:R00299","rn:R00299",NA,0
+"kegg","rn00500","Hk1","C10H15N5O10P2","rn:R00760","rn:R00760",NA,0
+"kegg","rn00330","Aldh2","C6H9N3O2","rn:R02549","rn:R01991",NA,1
+"kegg","rn00330","Aldh2","C6H9N3O2","rn:R02549","rn:R01992",NA,1
+"kegg","rn00330","Aldh2","C5H9NO4","rn:R02549","rn:R01155",NA,1
+"kegg","rn00330","Aldh2","C5H9NO4","rn:R02549","rn:R07419",NA,1
+"kegg","rn00330","Arg1","C5H9NO4","rn:R00551","rn:R00667",NA,1
+"kegg","rn00330","Aldh2","C10H15N5O10P2","rn:R02549","rn:R01991",NA,1
+"kegg","rn00330","Arg1","C10H15N5O10P2","rn:R00551","rn:R00554",NA,1
+"kegg","rn00330","Nos1","C10H15N5O10P2","rn:R00558","rn:R00554",NA,1
+"kegg","rn00330","Aldh2","C5H4O5","rn:R02549","rn:R01155",NA,1
+"kegg","rn00330","Arg1","C5H4O5","rn:R00551","rn:R00563",NA,1
+"kegg","rn00330","Arg1","C5H4O5","rn:R00551","rn:R00667",NA,1
+"kegg","rn00330","Arg1","C5H4O5","rn:R00551","rn:R12706",NA,1
+"kegg","rn00330","Nos1","C5H4O5","rn:R00558","rn:R00563",NA,1
+"kegg","rn00330","Nos1","C5H4O5","rn:R00558","rn:R12706",NA,1
+"kegg","rn00330","Aldh2","C4H9NO2","rn:R02549","rn:R01987","product",1
+"kegg","rn00330","Aldh2","C4H9NO2","rn:R02549","rn:R01990","product",1
+"kegg","rn00330","Aldh2","C4H9NO2","rn:R02549","rn:R01992","substrate",1
+"kegg","rn00330","Aldh2","C4H9NO2","rn:R02549","rn:R02549","product",0
+"kegg","rn00330","Aldh2","C4H9NO2","rn:R05050","rn:R01987","product",1
+"kegg","rn00330","Arg1","C5H9NO3","rn:R00551","rn:R00667","product",1
+"kegg","rn00330","Aldh2","H3O4P","rn:R02549","rn:R01991",NA,1
+"kegg","rn00330","Aldh2","C5H6O5","rn:R02549","rn:R01155",NA,1
+"kegg","rn00330","Arg1","C5H6O5","rn:R00551","rn:R00563",NA,1
+"kegg","rn00330","Arg1","C5H6O5","rn:R00551","rn:R00667",NA,1
+"kegg","rn00330","Arg1","C5H6O5","rn:R00551","rn:R12706",NA,1
+"kegg","rn00330","Nos1","C5H6O5","rn:R00558","rn:R00563",NA,1
+"kegg","rn00330","Nos1","C5H6O5","rn:R00558","rn:R12706",NA,1
+"kegg","rn00330","Aldh2","C10H16N4O3","rn:R02549","rn:R01991","product",1
+"kegg","rn00330","Aldh2","C10H16N4O3","rn:R02549","rn:R01992","product",1
+"kegg","rn00380","Aldh2","C4H6O4","rn:R02678","rn:R12501",NA,1
+"kegg","rn00380","Aldh2","C5H4O5","rn:R02678","rn:R12501",NA,1
+"kegg","rn00380","Aldh2","C5H6O5","rn:R02678","rn:R12501",NA,1
+"kegg","rn00250","Gad1","C5H9NO4","rn:R00261","rn:R00243","substrate",1
+"kegg","rn00250","Gad1","C5H9NO4","rn:R00261","rn:R00248","substrate",1
+"kegg","rn00250","Gad1","C5H9NO4","rn:R00261","rn:R00253","substrate",1
+"kegg","rn00250","Gad1","C5H9NO4","rn:R00261","rn:R00256",NA,1
+"kegg","rn00250","Gad1","C5H9NO4","rn:R00261","rn:R00261","substrate",0
+"kegg","rn00250","Gad1","C5H9NO4","rn:R00261","rn:R01648",NA,1
+"kegg","rn00250","Gad2","C5H9NO4","rn:R00261","rn:R00243","substrate",1
+"kegg","rn00250","Gad2","C5H9NO4","rn:R00261","rn:R00248","substrate",1
+"kegg","rn00250","Gad2","C5H9NO4","rn:R00261","rn:R00253","substrate",1
+"kegg","rn00250","Gad2","C5H9NO4","rn:R00261","rn:R00256",NA,1
+"kegg","rn00250","Gad2","C5H9NO4","rn:R00261","rn:R00261","substrate",0
+"kegg","rn00250","Gad2","C5H9NO4","rn:R00261","rn:R01648",NA,1
+"kegg","rn00250","Gad1","C10H15N5O10P2","rn:R00261","rn:R00253",NA,1
+"kegg","rn00250","Gad2","C10H15N5O10P2","rn:R00261","rn:R00253",NA,1
+"kegg","rn00250","Gad1","C5H4O5","rn:R00261","rn:R00093",NA,1
+"kegg","rn00250","Gad1","C5H4O5","rn:R00261","rn:R00114",NA,1
+"kegg","rn00250","Gad1","C5H4O5","rn:R00261","rn:R00243",NA,1
+"kegg","rn00250","Gad1","C5H4O5","rn:R00261","rn:R00248",NA,1
+"kegg","rn00250","Gad1","C5H4O5","rn:R00261","rn:R01648",NA,1
+"kegg","rn00250","Gad2","C5H4O5","rn:R00261","rn:R00093",NA,1
+"kegg","rn00250","Gad2","C5H4O5","rn:R00261","rn:R00114",NA,1
+"kegg","rn00250","Gad2","C5H4O5","rn:R00261","rn:R00243",NA,1
+"kegg","rn00250","Gad2","C5H4O5","rn:R00261","rn:R00248",NA,1
+"kegg","rn00250","Gad2","C5H4O5","rn:R00261","rn:R01648",NA,1
+"kegg","rn00250","Gad1","C4H9NO2","rn:R00261","rn:R00261","product",0
+"kegg","rn00250","Gad1","C4H9NO2","rn:R00261","rn:R01648","substrate",1
+"kegg","rn00250","Gad1","C4H9NO2","rn:R00261","rn:R10178","substrate",1
+"kegg","rn00250","Gad2","C4H9NO2","rn:R00261","rn:R00261","product",0
+"kegg","rn00250","Gad2","C4H9NO2","rn:R00261","rn:R01648","substrate",1
+"kegg","rn00250","Gad2","C4H9NO2","rn:R00261","rn:R10178","substrate",1
+"kegg","rn00250","Gad1","C5H10N2O3","rn:R00261","rn:R00093",NA,1
+"kegg","rn00250","Gad1","C5H10N2O3","rn:R00261","rn:R00114",NA,1
+"kegg","rn00250","Gad1","C5H10N2O3","rn:R00261","rn:R00256","substrate",1
+"kegg","rn00250","Gad2","C5H10N2O3","rn:R00261","rn:R00093",NA,1
+"kegg","rn00250","Gad2","C5H10N2O3","rn:R00261","rn:R00114",NA,1
+"kegg","rn00250","Gad2","C5H10N2O3","rn:R00261","rn:R00256","substrate",1
+"kegg","rn00250","Gad1","H3O4P","rn:R00261","rn:R00253",NA,1
+"kegg","rn00250","Gad2","H3O4P","rn:R00261","rn:R00253",NA,1
+"kegg","rn00250","Gad1","C5H6O5","rn:R00261","rn:R00093",NA,1
+"kegg","rn00250","Gad1","C5H6O5","rn:R00261","rn:R00114",NA,1
+"kegg","rn00250","Gad1","C5H6O5","rn:R00261","rn:R00243",NA,1
+"kegg","rn00250","Gad1","C5H6O5","rn:R00261","rn:R00248",NA,1
+"kegg","rn00250","Gad1","C5H6O5","rn:R00261","rn:R01648",NA,1
+"kegg","rn00250","Gad2","C5H6O5","rn:R00261","rn:R00093",NA,1
+"kegg","rn00250","Gad2","C5H6O5","rn:R00261","rn:R00114",NA,1
+"kegg","rn00250","Gad2","C5H6O5","rn:R00261","rn:R00243",NA,1
+"kegg","rn00250","Gad2","C5H6O5","rn:R00261","rn:R00248",NA,1
+"kegg","rn00250","Gad2","C5H6O5","rn:R00261","rn:R01648",NA,1
+"kegg","rn00010","Hk1","C6H12O6","rn:R01600","rn:R01600","substrate",0
+"kegg","rn00010","Hk1","C6H12O6","rn:R01600","rn:R01602","product",1
+"kegg","rn00010","Hk1","C6H12O6","rn:R01786","rn:R02738","substrate",1
+"kegg","rn00010","Hk1","C6H12O6","rn:R01786","rn:R00947","product",1
+"kegg","rn00010","Hk1","C6H12O6","rn:R01786","rn:R01602","substrate",1
+"kegg","rn00010","Hk1","C6H12O6","rn:R01786","rn:R01786","substrate",0
+"kegg","rn00010","Aldoc","C6H13O9P","rn:R01068","rn:R00762","product",1
+"kegg","rn00010","Aldoc","C6H13O9P","rn:R01068","rn:R00764","substrate",1
+"kegg","rn00010","Aldoc","C6H13O9P","rn:R01068","rn:R05805","substrate",1
+"kegg","rn00010","Hk1","C6H13O9P","rn:R01600","rn:R01600","product",0
+"kegg","rn00010","Hk1","C6H13O9P","rn:R01600","rn:R02739","product",1
+"kegg","rn00010","Hk1","C6H13O9P","rn:R01600","rn:R05133","product",1
+"kegg","rn00010","Hk1","C6H13O9P","rn:R01600","rn:R05134","product",1
+"kegg","rn00010","Hk1","C6H13O9P","rn:R01786","rn:R01786","product",0
+"kegg","rn00010","Hk1","C6H13O9P","rn:R01786","rn:R02739","substrate",1
+"kegg","rn00010","Hk1","C6H13O9P","rn:R01786","rn:R13199","substrate",1
+"kegg","rn00010","Hk1","C6H13O9P","rn:R01786","rn:R00959","substrate",1
+"kegg","rn00010","Aldh2","C10H14N5O7P","rn:R00710","rn:R00235",NA,1
+"kegg","rn00010","Aldoc","C10H14N5O7P","rn:R01068","rn:R05805",NA,1
+"kegg","rn00010","Aldoc","C3H7O6P","rn:R01068","rn:R01015","product",1
+"kegg","rn00010","Aldoc","C3H7O6P","rn:R01068","rn:R01068",NA,0
+"kegg","rn00010","Aldoc","C3H7O6P","rn:R01068","rn:R01015","substrate",1
+"kegg","rn00010","Aldoc","C3H7O6P","rn:R01068","rn:R01058","substrate",1
+"kegg","rn00010","Aldoc","C3H7O6P","rn:R01068","rn:R01061","substrate",1
+"kegg","rn00010","Aldh2","C10H15N5O10P2","rn:R00710","rn:R00229",NA,1
+"kegg","rn00010","Aldoc","C10H15N5O10P2","rn:R01068","rn:R00756",NA,1
+"kegg","rn00010","Aldoc","C10H15N5O10P2","rn:R01068","rn:R05805",NA,1
+"kegg","rn00010","Hk1","C10H15N5O10P2","rn:R01600","rn:R01600",NA,0
+"kegg","rn00010","Hk1","C10H15N5O10P2","rn:R01786","rn:R01786",NA,0
+"kegg","rn00010","Aldh2","H3O4P","rn:R00710","rn:R00229",NA,1
+"kegg","rn00010","Aldoc","H3O4P","rn:R01068","rn:R00762",NA,1
+"kegg","rn00010","Aldoc","H3O4P","rn:R01068","rn:R00764",NA,1
+"kegg","rn00010","Aldoc","H3O4P","rn:R01068","rn:R01061",NA,1
+"kegg","rn00010","Hk1","H3O4P","rn:R01786","rn:R00947",NA,1
+"kegg","rn00010","Aldh2","H4O7P2","rn:R00710","rn:R00235",NA,1
+"kegg","rn00010","Aldoc","H4O7P2","rn:R01068","rn:R00764",NA,1
+"kegg","rn00620","Aldh2","C2H5O5P","rn:R00710","rn:R00315","product",1
+"kegg","rn00620","Aldh2","C2H5O5P","rn:R00710","rn:R00320","product",1
+"kegg","rn00620","Aldh2","C4H6O4","rn:R00710","rn:R10343",NA,1
+"kegg","rn00620","Acaa2","C4H6O4","rn:R00238","rn:R10343",NA,1
+"kegg","rn00620","Acaa2","C5H6O5","rn:R00238","rn:R00271",NA,1
+"kegg","rn00620","Acaa2","C10H14N5O7P","rn:R00238","rn:R00236",NA,1
+"kegg","rn00620","Aldh2","C10H15N5O10P2","rn:R00710","rn:R00229",NA,1
+"kegg","rn00620","Aldh2","C10H15N5O10P2","rn:R00710","rn:R00315",NA,1
+"kegg","rn00620","Acaa2","C10H15N5O10P2","rn:R00238","rn:R00229",NA,1
+"kegg","rn00620","Acaa2","C10H15N5O10P2","rn:R00238","rn:R00742",NA,1
+"kegg","rn00620","Acaa2","C5H4O5","rn:R00238","rn:R00271",NA,1
+"kegg","rn00620","Aldh2","H3O4P","rn:R00710","rn:R00229",NA,1
+"kegg","rn00620","Aldh2","H3O4P","rn:R00710","rn:R00317",NA,1
+"kegg","rn00620","Aldh2","H3O4P","rn:R00710","rn:R00320",NA,1
+"kegg","rn00620","Acaa2","H3O4P","rn:R00238","rn:R00229",NA,1
+"kegg","rn00620","Acaa2","H3O4P","rn:R00238","rn:R00230",NA,1
+"kegg","rn00620","Acaa2","H3O4P","rn:R00238","rn:R00742",NA,1
+"kegg","rn00620","Aldh2","H4O7P2","rn:R00710","rn:R00316",NA,1
+"kegg","rn00620","Aldh2","H4O7P2","rn:R00710","rn:R00320",NA,1
+"kegg","rn00100","Fdft1","H4O7P2","rn:R02872","rn:R02872",NA,0
+"kegg","rn00230","Prps2","C5H9NO4","rn:R01049","rn:R01072",NA,1
+"kegg","rn00230","Prps2","C10H14N5O7P","rn:R01049","rn:R01049",NA,0
+"kegg","rn00230","Prps2","C10H14N5O7P","rn:R01049","rn:R01054",NA,1
+"kegg","rn00230","Rrm2","C10H14N5O7P","rn:R02017","rn:R00127","substrate",1
+"kegg","rn00230","Rrm2","C10H14N5O7P","rn:R02017","rn:R00333","substrate",1
+"kegg","rn00230","Ak7","C10H14N5O7P","rn:R00127","rn:R00087","product",1
+"kegg","rn00230","Ak7","C10H14N5O7P","rn:R00127","rn:R00127","substrate",0
+"kegg","rn00230","Ak7","C10H14N5O7P","rn:R00127","rn:R00181","substrate",1
+"kegg","rn00230","Ak7","C10H14N5O7P","rn:R00127","rn:R00185","product",1
+"kegg","rn00230","Ak7","C10H14N5O7P","rn:R00127","rn:R00190","substrate",1
+"kegg","rn00230","Ak7","C10H14N5O7P","rn:R00127","rn:R01083","product",1
+"kegg","rn00230","Ak7","C10H14N5O7P","rn:R00127","rn:R10836","substrate",1
+"kegg","rn00230","Gda","C5H5N5O","rn:R01676","rn:R01676","substrate",0
+"kegg","rn00230","Gda","C5H5N5O","rn:R01676","rn:R02147","product",1
+"kegg","rn00230","Ak7","C5H5N5","rn:R00127","rn:R00182","product",1
+"kegg","rn00230","Ak7","C5H5N5","rn:R00127","rn:R00190","product",1
+"kegg","rn00230","Prps2","C10H15N5O10P2","rn:R01049","rn:R01053",NA,1
+"kegg","rn00230","Pde1a","C10H15N5O10P2","rn:R01234","rn:R00332",NA,1
+"kegg","rn00230","Pde1a","C10H15N5O10P2","rn:R01234","rn:R01228",NA,1
+"kegg","rn00230","Rrm2","C10H15N5O10P2","rn:R02017","rn:R00086","product",1
+"kegg","rn00230","Rrm2","C10H15N5O10P2","rn:R02017","rn:R00122","substrate",1
+"kegg","rn00230","Rrm2","C10H15N5O10P2","rn:R02017","rn:R01137",NA,1
+"kegg","rn00230","Rrm2","C10H15N5O10P2","rn:R02017","rn:R01547",NA,1
+"kegg","rn00230","Rrm2","C10H15N5O10P2","rn:R02017","rn:R02017","substrate",0
+"kegg","rn00230","Rrm2","C10H15N5O10P2","rn:R02019","rn:R00330",NA,1
+"kegg","rn00230","Rrm2","C10H15N5O10P2","rn:R02019","rn:R00332",NA,1
+"kegg","rn00230","Rrm2","C10H15N5O10P2","rn:R02019","rn:R01857",NA,1
+"kegg","rn00230","Rrm2","C10H15N5O10P2","rn:R02019","rn:R02090",NA,1
+"kegg","rn00230","Rrm2","C10H15N5O10P2","rn:R02019","rn:R02019","product",0
+"kegg","rn00230","Rrm2","C10H15N5O10P2","rn:R02019","rn:R02090","product",1
+"kegg","rn00230","Ak7","C10H15N5O10P2","rn:R01547","rn:R01137",NA,1
+"kegg","rn00230","Ak7","C10H15N5O10P2","rn:R01547","rn:R01547",NA,0
+"kegg","rn00230","Ak7","C10H15N5O10P2","rn:R01547","rn:R02017","substrate",1
+"kegg","rn00230","Ak7","C10H15N5O10P2","rn:R01547","rn:R02089",NA,1
+"kegg","rn00230","Ak7","C10H15N5O10P2","rn:R00127","rn:R00086","product",1
+"kegg","rn00230","Ak7","C10H15N5O10P2","rn:R00127","rn:R00122","substrate",1
+"kegg","rn00230","Ak7","C10H15N5O10P2","rn:R00127","rn:R00127","product",0
+"kegg","rn00230","Ak7","C10H15N5O10P2","rn:R00127","rn:R00185",NA,1
+"kegg","rn00230","Ak7","C10H15N5O10P2","rn:R00127","rn:R00331","substrate",1
+"kegg","rn00230","Gda","C5H4N4O2","rn:R01676","rn:R01676","product",0
+"kegg","rn00230","Gda","C5H4N4O2","rn:R01676","rn:R02103","substrate",1
+"kegg","rn00230","Gda","C5H4N4O2","rn:R01676","rn:R02107","substrate",1
+"kegg","rn00230","Gda","C5H4N4O2","rn:R01676","rn:R02141","substrate",1
+"kegg","rn00230","Gda","C5H4N4O2","rn:R01676","rn:R02142","substrate",1
+"kegg","rn00230","Ak7","C4H4O4","rn:R00127","rn:R01083",NA,1
+"kegg","rn00230","Prps2","C5H10N2O3","rn:R01049","rn:R01072",NA,1
+"kegg","rn00230","Prps2","H3O4P","rn:R01049","rn:R01053",NA,1
+"kegg","rn00230","Gda","H3O4P","rn:R01676","rn:R01969",NA,1
+"kegg","rn00230","Gda","H3O4P","rn:R01676","rn:R02147",NA,1
+"kegg","rn00230","Gda","H3O4P","rn:R01676","rn:R02297",NA,1
+"kegg","rn00230","Pde1a","H3O4P","rn:R01234","rn:R00328",NA,1
+"kegg","rn00230","Pde1a","H3O4P","rn:R01234","rn:R01227",NA,1
+"kegg","rn00230","Rrm2","H3O4P","rn:R02017","rn:R00086",NA,1
+"kegg","rn00230","Rrm2","H3O4P","rn:R02017","rn:R00122",NA,1
+"kegg","rn00230","Rrm2","H3O4P","rn:R02019","rn:R00328",NA,1
+"kegg","rn00230","Rrm2","H3O4P","rn:R02019","rn:R00335",NA,1
+"kegg","rn00230","Ak7","H3O4P","rn:R01547","rn:R02088",NA,1
+"kegg","rn00230","Ak7","H3O4P","rn:R00127","rn:R00086",NA,1
+"kegg","rn00230","Ak7","H3O4P","rn:R00127","rn:R00122",NA,1
+"kegg","rn00230","Ak7","H3O4P","rn:R00127","rn:R00183",NA,1
+"kegg","rn00230","Ak7","H3O4P","rn:R00127","rn:R10836",NA,1
+"kegg","rn00230","Prps2","H4O7P2","rn:R01049","rn:R01072",NA,1
+"kegg","rn00230","Gda","H4O7P2","rn:R01676","rn:R01229",NA,1
+"kegg","rn00230","Gda","H4O7P2","rn:R01676","rn:R02142",NA,1
+"kegg","rn00230","Pde1a","H4O7P2","rn:R01234","rn:R00426",NA,1
+"kegg","rn00230","Pde1a","H4O7P2","rn:R01234","rn:R00434",NA,1
+"kegg","rn00230","Pde1a","H4O7P2","rn:R01234","rn:R01229",NA,1
+"kegg","rn00230","Rrm2","H4O7P2","rn:R02019","rn:R00336",NA,1
+"kegg","rn00230","Ak7","H4O7P2","rn:R00127","rn:R00087",NA,1
+"kegg","rn00230","Ak7","H4O7P2","rn:R00127","rn:R00190",NA,1
+"kegg","rn00650","Acaa2","C4H6O4","rn:R00238","rn:R00410",NA,1
+"kegg","rn00650","Gad1","C5H9NO4","rn:R00261","rn:R00261","substrate",0
+"kegg","rn00650","Gad1","C5H9NO4","rn:R00261","rn:R01648",NA,1
+"kegg","rn00650","Gad2","C5H9NO4","rn:R00261","rn:R00261","substrate",0
+"kegg","rn00650","Gad2","C5H9NO4","rn:R00261","rn:R01648",NA,1
+"kegg","rn00650","Acaa2","C10H14N5O7P","rn:R00238","rn:R01357",NA,1
+"kegg","rn00650","Gad1","C5H4O5","rn:R00261","rn:R01648",NA,1
+"kegg","rn00650","Gad2","C5H4O5","rn:R00261","rn:R01648",NA,1
+"kegg","rn00650","Gad1","C4H9NO2","rn:R00261","rn:R00261","product",0
+"kegg","rn00650","Gad1","C4H9NO2","rn:R00261","rn:R01648","substrate",1
+"kegg","rn00650","Gad2","C4H9NO2","rn:R00261","rn:R00261","product",0
+"kegg","rn00650","Gad2","C4H9NO2","rn:R00261","rn:R01648","substrate",1
+"kegg","rn00650","Acaa2","H4O7P2","rn:R00238","rn:R01357",NA,1
+"kegg","rn00650","Gad1","C5H6O5","rn:R00261","rn:R01648",NA,1
+"kegg","rn00650","Gad2","C5H6O5","rn:R00261","rn:R01648",NA,1
+"kegg","rn00520","Hk1","C6H12O6","rn:R00760","rn:R00760","substrate",0
+"kegg","rn00520","Hk1","C6H12O6","rn:R01326","rn:R01326","substrate",0
+"kegg","rn00520","Hk1","C6H12O6","rn:R01326","rn:R02630","substrate",1
+"kegg","rn00520","Hk1","C6H12O6","rn:R01786","rn:R02738","substrate",1
+"kegg","rn00520","Hk1","C6H12O6","rn:R01786","rn:R01786","substrate",0
+"kegg","rn00520","Hk1","C6H13O9P","rn:R00760","rn:R00760","product",0
+"kegg","rn00520","Hk1","C6H13O9P","rn:R00760","rn:R00772","product",1
+"kegg","rn00520","Hk1","C6H13O9P","rn:R00760","rn:R13199","product",1
+"kegg","rn00520","Hk1","C6H13O9P","rn:R01326","rn:R01818","product",1
+"kegg","rn00520","Hk1","C6H13O9P","rn:R01326","rn:R00772","substrate",1
+"kegg","rn00520","Hk1","C6H13O9P","rn:R01326","rn:R01326","product",0
+"kegg","rn00520","Hk1","C6H13O9P","rn:R01786","rn:R00959","product",1
+"kegg","rn00520","Hk1","C6H13O9P","rn:R01786","rn:R01786","product",0
+"kegg","rn00520","Hk1","C6H13O9P","rn:R01786","rn:R13199","substrate",1
+"kegg","rn00520","Hk1","C6H13O9P","rn:R01961","rn:R00765","product",1
+"kegg","rn00520","Hk1","C6H13O9P","rn:R01961","rn:R00768","product",1
+"kegg","rn00520","Hk1","C5H9NO4","rn:R00760","rn:R00768",NA,1
+"kegg","rn00520","Hk1","C5H9NO4","rn:R01961","rn:R00768",NA,1
+"kegg","rn00520","Hk1","C10H15N5O10P2","rn:R00760","rn:R00760",NA,0
+"kegg","rn00520","Hk1","C10H15N5O10P2","rn:R01326","rn:R01326",NA,0
+"kegg","rn00520","Hk1","C10H15N5O10P2","rn:R01786","rn:R01786",NA,0
+"kegg","rn00520","Hk1","C10H15N5O10P2","rn:R01961","rn:R01961",NA,0
+"kegg","rn00520","Hk1","C5H10N2O3","rn:R00760","rn:R00768",NA,1
+"kegg","rn00520","Hk1","C5H10N2O3","rn:R01961","rn:R00768",NA,1
+"kegg","rn00071","Acsbg1","C10H14N5O7P","rn:R01280","rn:R01280",NA,0
+"kegg","rn00071","Acsbg1","H4O7P2","rn:R01280","rn:R01280",NA,0
+"kegg","rn00052","Hk1","C6H12O6","rn:R01786","rn:R01678",NA,1
+"kegg","rn00052","Hk1","C6H12O6","rn:R01786","rn:R01786","substrate",0
+"kegg","rn00052","Hk1","C6H13O9P","rn:R01786","rn:R00959","product",1
+"kegg","rn00052","Hk1","C6H13O9P","rn:R01786","rn:R01786","product",0
+"kegg","rn00052","Hk1","C6H13O9P","rn:R01786","rn:R00959","substrate",1
+"kegg","rn00052","Hk1","C10H15N5O10P2","rn:R01786","rn:R01786",NA,0
+"kegg","rn00670","Aldh1l1","C6H10N2O4","rn:R00941","rn:R02287",NA,1
+"kegg","rn00670","Aldh1l1","C5H9NO4","rn:R00941","rn:R02287",NA,1
+"kegg","rn00670","Aldh1l1","C5H9NO4","rn:R00941","rn:R03189",NA,1
+"kegg","rn00670","Aldh1l1","C10H15N5O10P2","rn:R00941","rn:R00943",NA,1
+"kegg","rn00670","Aldh1l1","C3H7NO3","rn:R00941","rn:R00945",NA,1
+"kegg","rn00670","Aldh1l1","C4H9NO2","rn:R00941","rn:R01564",NA,1
+"kegg","rn00670","Aldh1l1","C4H9NO2","rn:R00941","rn:R01565",NA,1
+"kegg","rn00670","Aldh1l1","C6H8N2O4","rn:R00941","rn:R02287",NA,1
+"kegg","rn00670","Aldh1l1","H3O4P","rn:R00941","rn:R00943",NA,1
+"kegg","rn00670","Aldh1l1","C6H9NO5","rn:R00941","rn:R03189",NA,1
+"kegg","rn00670","Aldh1l1","C4H9NO3","rn:R00941","rn:R01225",NA,1
+"kegg","rn00860","Gusb","C6H10O7","rn:R04979","rn:R04979",NA,0
+"kegg","rn00480","Prdx6","C5H9NO4","rn:R12578","rn:R00494",NA,1
+"kegg","rn00480","Gpx3","C5H9NO4","rn:R00274","rn:R00494",NA,1
+"kegg","rn00480","Mgst1","C5H9NO4","rn:R03522","rn:R00494",NA,1
+"kegg","rn00480","Mgst1","C5H9NO4","rn:R03522","rn:R03916",NA,1
+"kegg","rn00480","Prdx6","C10H15N5O10P2","rn:R12578","rn:R00497",NA,1
+"kegg","rn00480","Prdx6","C10H15N5O10P2","rn:R12578","rn:R01917",NA,1
+"kegg","rn00480","Prdx6","C10H15N5O10P2","rn:R12578","rn:R08352",NA,1
+"kegg","rn00480","Prdx6","C10H15N5O10P2","rn:R12578","rn:R08354",NA,1
+"kegg","rn00480","Gpx3","C10H15N5O10P2","rn:R00274","rn:R00497",NA,1
+"kegg","rn00480","Gpx3","C10H15N5O10P2","rn:R00274","rn:R01917",NA,1
+"kegg","rn00480","Gpx3","C10H15N5O10P2","rn:R00274","rn:R08352",NA,1
+"kegg","rn00480","Gpx3","C10H15N5O10P2","rn:R00274","rn:R08354",NA,1
+"kegg","rn00480","Rrm2","C10H15N5O10P2","rn:R08364","rn:R03822",NA,1
+"kegg","rn00480","Mgst1","C10H15N5O10P2","rn:R03522","rn:R00497",NA,1
+"kegg","rn00480","Mgst1","C10H15N5O10P2","rn:R03522","rn:R01917",NA,1
+"kegg","rn00480","Mgst1","C10H15N5O10P2","rn:R03522","rn:R08352",NA,1
+"kegg","rn00480","Mgst1","C10H15N5O10P2","rn:R03522","rn:R08354",NA,1
+"kegg","rn00480","Prdx6","C10H17N3O6S","rn:R12578","rn:R00494","substrate",1
+"kegg","rn00480","Prdx6","C10H17N3O6S","rn:R12578","rn:R01262",NA,1
+"kegg","rn00480","Prdx6","C10H17N3O6S","rn:R12578","rn:R01917",NA,1
+"kegg","rn00480","Prdx6","C10H17N3O6S","rn:R12578","rn:R01918",NA,1
+"kegg","rn00480","Prdx6","C10H17N3O6S","rn:R12578","rn:R03522",NA,1
+"kegg","rn00480","Prdx6","C10H17N3O6S","rn:R12578","rn:R08352",NA,1
+"kegg","rn00480","Prdx6","C10H17N3O6S","rn:R12578","rn:R08354",NA,1
+"kegg","rn00480","Prdx6","C10H17N3O6S","rn:R12578","rn:R11861","substrate",1
+"kegg","rn00480","Prdx6","C10H17N3O6S","rn:R12578","rn:R12578","substrate",0
+"kegg","rn00480","Gpx3","C10H17N3O6S","rn:R00274","rn:R00274","substrate",0
+"kegg","rn00480","Gpx3","C10H17N3O6S","rn:R00274","rn:R00494","substrate",1
+"kegg","rn00480","Gpx3","C10H17N3O6S","rn:R00274","rn:R01262",NA,1
+"kegg","rn00480","Gpx3","C10H17N3O6S","rn:R00274","rn:R01917",NA,1
+"kegg","rn00480","Gpx3","C10H17N3O6S","rn:R00274","rn:R01918",NA,1
+"kegg","rn00480","Gpx3","C10H17N3O6S","rn:R00274","rn:R03522",NA,1
+"kegg","rn00480","Gpx3","C10H17N3O6S","rn:R00274","rn:R08352",NA,1
+"kegg","rn00480","Gpx3","C10H17N3O6S","rn:R00274","rn:R08354",NA,1
+"kegg","rn00480","Gpx3","C10H17N3O6S","rn:R00274","rn:R11861","substrate",1
+"kegg","rn00480","Rrm2","C10H17N3O6S","rn:R08364","rn:R03822",NA,1
+"kegg","rn00480","Rrm2","C10H17N3O6S","rn:R08364","rn:R08350",NA,1
+"kegg","rn00480","Mgst1","C10H17N3O6S","rn:R03522","rn:R00115",NA,1
+"kegg","rn00480","Mgst1","C10H17N3O6S","rn:R03522","rn:R00494","substrate",1
+"kegg","rn00480","Mgst1","C10H17N3O6S","rn:R03522","rn:R01111","product",1
+"kegg","rn00480","Mgst1","C10H17N3O6S","rn:R03522","rn:R01262",NA,1
+"kegg","rn00480","Mgst1","C10H17N3O6S","rn:R03522","rn:R01917",NA,1
+"kegg","rn00480","Mgst1","C10H17N3O6S","rn:R03522","rn:R01918",NA,1
+"kegg","rn00480","Mgst1","C10H17N3O6S","rn:R03522","rn:R03522",NA,0
+"kegg","rn00480","Mgst1","C10H17N3O6S","rn:R03522","rn:R03984","product",1
+"kegg","rn00480","Mgst1","C10H17N3O6S","rn:R03522","rn:R04039","product",1
+"kegg","rn00480","Mgst1","C10H17N3O6S","rn:R03522","rn:R08352",NA,1
+"kegg","rn00480","Mgst1","C10H17N3O6S","rn:R03522","rn:R08354",NA,1
+"kegg","rn00480","Mgst1","C10H17N3O6S","rn:R03522","rn:R11861","substrate",1
+"kegg","rn00480","Prdx6","C5H7NO3","rn:R12578","rn:R11861",NA,1
+"kegg","rn00480","Gpx3","C5H7NO3","rn:R00274","rn:R11861",NA,1
+"kegg","rn00480","Mgst1","C5H7NO3","rn:R03522","rn:R11861",NA,1
+"kegg","rn00480","Prdx6","H3O4P","rn:R12578","rn:R00497",NA,1
+"kegg","rn00480","Prdx6","H3O4P","rn:R12578","rn:R01917",NA,1
+"kegg","rn00480","Prdx6","H3O4P","rn:R12578","rn:R08352",NA,1
+"kegg","rn00480","Prdx6","H3O4P","rn:R12578","rn:R08354",NA,1
+"kegg","rn00480","Gpx3","H3O4P","rn:R00274","rn:R00497",NA,1
+"kegg","rn00480","Gpx3","H3O4P","rn:R00274","rn:R01917",NA,1
+"kegg","rn00480","Gpx3","H3O4P","rn:R00274","rn:R08352",NA,1
+"kegg","rn00480","Gpx3","H3O4P","rn:R00274","rn:R08354",NA,1
+"kegg","rn00480","Rrm2","H3O4P","rn:R08364","rn:R03822",NA,1
+"kegg","rn00480","Mgst1","H3O4P","rn:R03522","rn:R00497",NA,1
+"kegg","rn00480","Mgst1","H3O4P","rn:R03522","rn:R01917",NA,1
+"kegg","rn00480","Mgst1","H3O4P","rn:R03522","rn:R08352",NA,1
+"kegg","rn00480","Mgst1","H3O4P","rn:R03522","rn:R08354",NA,1
+"kegg","rn00480","Mgst1","C6H6O6","rn:R03522","rn:R01108",NA,1
+"kegg","rn00480","Mgst1","C6H8O6","rn:R03522","rn:R01108",NA,1
+"kegg","rn00480","Mgst1","C6H7O6","rn:R03522","rn:R01108",NA,1
+"kegg","rn00562","Inpp4b","C6H13O9P","rn:R04372","rn:R01187","substrate",1
+"kegg","rn00562","Inpp4b","C6H13O9P","rn:R04372","rn:R04372","product",0
+"kegg","rn00562","Inpp4b","C6H13O9P","rn:R04372","rn:R07279","product",1
+"kegg","rn00562","Inpp4b","C6H13O9P","rn:R04372","rn:R07324","product",1
+"kegg","rn00562","Inpp4b","C6H13O9P","rn:R04372","rn:R09670",NA,1
+"kegg","rn00562","Plce1","C6H13O9P","rn:R03332","rn:R03330","product",1
+"kegg","rn00562","Plce1","C6H13O9P","rn:R03332","rn:R03332","product",0
+"kegg","rn00562","Plce1","C6H12O6","rn:R03332","rn:R01185","product",1
+"kegg","rn00562","Plce1","C6H12O6","rn:R03332","rn:R01802","substrate",1
+"kegg","rn00562","Inpp4b","C10H15N5O10P2","rn:R04372","rn:R07279",NA,1
+"kegg","rn00562","Inpp4b","C10H15N5O10P2","rn:R07299","rn:R03362",NA,1
+"kegg","rn00562","Inpp4b","C10H15N5O10P2","rn:R07299","rn:R05795",NA,1
+"kegg","rn00562","Inpp4b","C10H15N5O10P2","rn:R07299","rn:R05802",NA,1
+"kegg","rn00562","Plce1","C10H15N5O10P2","rn:R03332","rn:R03361",NA,1
+"kegg","rn00562","Plce1","C10H15N5O10P2","rn:R03332","rn:R03362",NA,1
+"kegg","rn00562","Plce1","C10H15N5O10P2","rn:R03435","rn:R03433",NA,1
+"kegg","rn00562","Plce1","C10H15N5O10P2","rn:R03435","rn:R03469",NA,1
+"kegg","rn00562","Plce1","C10H15N5O10P2","rn:R03435","rn:R04545",NA,1
+"kegg","rn00562","Plce1","C10H15N5O10P2","rn:R03435","rn:R05800",NA,1
+"kegg","rn00562","Plce1","C10H15N5O10P2","rn:R03435","rn:R05803",NA,1
+"kegg","rn00562","Inpp4b","H3O4P","rn:R04372","rn:R01187",NA,1
+"kegg","rn00562","Inpp4b","H3O4P","rn:R04372","rn:R03427",NA,1
+"kegg","rn00562","Inpp4b","H3O4P","rn:R04372","rn:R04372",NA,0
+"kegg","rn00562","Inpp4b","H3O4P","rn:R07299","rn:R03363",NA,1
+"kegg","rn00562","Inpp4b","H3O4P","rn:R07299","rn:R07299",NA,0
+"kegg","rn00562","Inpp4b","H3O4P","rn:R07299","rn:R09827",NA,1
+"kegg","rn00562","Inpp4b","H3O4P","rn:R07299","rn:R12124",NA,1
+"kegg","rn00562","Plce1","H3O4P","rn:R03332","rn:R01185",NA,1
+"kegg","rn00562","Plce1","H3O4P","rn:R03332","rn:R03330",NA,1
+"kegg","rn00562","Plce1","H3O4P","rn:R03332","rn:R03363",NA,1
+"kegg","rn00562","Plce1","H3O4P","rn:R03332","rn:R11680",NA,1
+"kegg","rn00562","Plce1","H3O4P","rn:R03435","rn:R03394",NA,1
+"kegg","rn00562","Plce1","H3O4P","rn:R03435","rn:R03434",NA,1
+"kegg","rn00562","Plce1","H3O4P","rn:R03435","rn:R04404",NA,1
+"kegg","rn00562","Plce1","H3O4P","rn:R03435","rn:R04513",NA,1
+"kegg","rn00562","Inpp4b","H4O7P2","rn:R04372","rn:R09669",NA,1
+"kegg","rn00564","Ache","C3H9O6P","rn:R01026","rn:R01030",NA,1
+"kegg","rn00564","Etnppl","C3H10NO4P","rn:R00748","rn:R02037","product",1
+"kegg","rn00564","Ache","C10H15N5O10P2","rn:R01026","rn:R01021",NA,1
+"kegg","rn00564","Etnppl","C10H15N5O10P2","rn:R00748","rn:R01468",NA,1
+"kegg","rn00564","Etnppl","C3H7NO3","rn:R00748","rn:R02817",NA,1
+"kegg","rn00564","Etnppl","C2H8NO4P","rn:R00748","rn:R00748","substrate",0
+"kegg","rn00564","Etnppl","C2H8NO4P","rn:R00748","rn:R02038","substrate",1
+"kegg","rn00564","Etnppl","C2H8NO4P","rn:R00748","rn:R06870","substrate",1
+"kegg","rn00564","Ache","H3O4P","rn:R01026","rn:R06871",NA,1
+"kegg","rn00564","Etnppl","H3O4P","rn:R00748","rn:R00748",NA,0
+"kegg","rn00564","Etnppl","H3O4P","rn:R00748","rn:R06870",NA,1
+"kegg","rn00564","Etnppl","H4O7P2","rn:R00748","rn:R02038",NA,1
+"kegg","rn00051","Aldoc","C6H12O6","rn:R02568","rn:R00866","substrate",1
+"kegg","rn00051","Aldoc","C6H12O6","rn:R02568","rn:R03232","substrate",1
+"kegg","rn00051","Hk1","C6H12O6","rn:R00760","rn:R00877","substrate",1
+"kegg","rn00051","Hk1","C6H12O6","rn:R00760","rn:R00878","substrate",1
+"kegg","rn00051","Hk1","C6H12O6","rn:R00760","rn:R00760","substrate",0
+"kegg","rn00051","Hk1","C6H12O6","rn:R00760","rn:R00865","product",1
+"kegg","rn00051","Hk1","C6H12O6","rn:R00760","rn:R00866","substrate",1
+"kegg","rn00051","Hk1","C6H12O6","rn:R00760","rn:R00875","product",1
+"kegg","rn00051","Hk1","C6H12O6","rn:R00760","rn:R03232","substrate",1
+"kegg","rn00051","Hk1","C6H12O6","rn:R01326","rn:R00877","substrate",1
+"kegg","rn00051","Hk1","C6H12O6","rn:R01326","rn:R01326","substrate",0
+"kegg","rn00051","Hk1","C6H12O6","rn:R01326","rn:R05816","product",1
+"kegg","rn00051","Aldoc","C6H13O9P","rn:R02568","rn:R02568","substrate",0
+"kegg","rn00051","Aldoc","C6H13O9P","rn:R01068","rn:R00756","substrate",1
+"kegg","rn00051","Aldoc","C6H13O9P","rn:R01068","rn:R00762","product",1
+"kegg","rn00051","Aldoc","C6H13O9P","rn:R01068","rn:R00764","substrate",1
+"kegg","rn00051","Aldoc","C6H13O9P","rn:R01068","rn:R13203","substrate",1
+"kegg","rn00051","Hk1","C6H13O9P","rn:R00760","rn:R00872","substrate",1
+"kegg","rn00051","Hk1","C6H13O9P","rn:R00760","rn:R00758","product",1
+"kegg","rn00051","Hk1","C6H13O9P","rn:R00760","rn:R00760","product",0
+"kegg","rn00051","Hk1","C6H13O9P","rn:R00760","rn:R00762","product",1
+"kegg","rn00051","Hk1","C6H13O9P","rn:R00760","rn:R00763","product",1
+"kegg","rn00051","Hk1","C6H13O9P","rn:R00760","rn:R00772","product",1
+"kegg","rn00051","Hk1","C6H13O9P","rn:R00760","rn:R07133","product",1
+"kegg","rn00051","Hk1","C6H13O9P","rn:R00760","rn:R09031","substrate",1
+"kegg","rn00051","Hk1","C6H13O9P","rn:R01326","rn:R00772","product",1
+"kegg","rn00051","Hk1","C6H13O9P","rn:R01326","rn:R01818","product",1
+"kegg","rn00051","Hk1","C6H13O9P","rn:R01326","rn:R01326","product",0
+"kegg","rn00051","Hk1","C6H13O9P","rn:R01326","rn:R02630","product",1
+"kegg","rn00051","Aldoc","C3H7O6P","rn:R02568","rn:R01015","product",1
+"kegg","rn00051","Aldoc","C3H7O6P","rn:R02568","rn:R02262",NA,1
+"kegg","rn00051","Aldoc","C3H7O6P","rn:R02568","rn:R02263",NA,1
+"kegg","rn00051","Aldoc","C3H7O6P","rn:R02568","rn:R02568",NA,0
+"kegg","rn00051","Aldoc","C3H7O6P","rn:R02568","rn:R01015","substrate",1
+"kegg","rn00051","Aldoc","C3H7O6P","rn:R02568","rn:R01059","product",1
+"kegg","rn00051","Aldoc","C3H7O6P","rn:R01068","rn:R01015","product",1
+"kegg","rn00051","Aldoc","C3H7O6P","rn:R01068","rn:R01068",NA,0
+"kegg","rn00051","Aldoc","C3H7O6P","rn:R01068","rn:R01015","substrate",1
+"kegg","rn00051","Aldoc","C3H7O6P","rn:R01068","rn:R01068","product",0
+"kegg","rn00051","Aldoc","C10H15N5O10P2","rn:R02568","rn:R00866",NA,1
+"kegg","rn00051","Aldoc","C10H15N5O10P2","rn:R02568","rn:R01059",NA,1
+"kegg","rn00051","Aldoc","C10H15N5O10P2","rn:R02568","rn:R13203",NA,1
+"kegg","rn00051","Aldoc","C10H15N5O10P2","rn:R01068","rn:R00756",NA,1
+"kegg","rn00051","Aldoc","C10H15N5O10P2","rn:R01068","rn:R01059",NA,1
+"kegg","rn00051","Aldoc","C10H15N5O10P2","rn:R01068","rn:R13203",NA,1
+"kegg","rn00051","Hk1","C10H15N5O10P2","rn:R00760","rn:R00756",NA,1
+"kegg","rn00051","Hk1","C10H15N5O10P2","rn:R00760","rn:R00760",NA,0
+"kegg","rn00051","Hk1","C10H15N5O10P2","rn:R00760","rn:R00866",NA,1
+"kegg","rn00051","Hk1","C10H15N5O10P2","rn:R00760","rn:R13202",NA,1
+"kegg","rn00051","Hk1","C10H15N5O10P2","rn:R01326","rn:R01326",NA,0
+"kegg","rn00051","Aldoc","H3O4P","rn:R01068","rn:R00762",NA,1
+"kegg","rn00051","Aldoc","H3O4P","rn:R01068","rn:R00764",NA,1
+"kegg","rn00051","Hk1","H3O4P","rn:R00760","rn:R00762",NA,1
+"kegg","rn00051","Hk1","H3O4P","rn:R00760","rn:R00763",NA,1
+"kegg","rn00051","Hk1","H3O4P","rn:R00760","rn:R00764",NA,1
+"kegg","rn00051","Hk1","H3O4P","rn:R00760","rn:R00872",NA,1
+"kegg","rn00051","Aldoc","H4O7P2","rn:R01068","rn:R00764",NA,1
+"kegg","rn00051","Hk1","H4O7P2","rn:R00760","rn:R00764",NA,1
+"kegg","rn00561","Aldh2","C10H15N5O10P2","rn:R01752","rn:R01514",NA,1
+"kegg","rn00561","Aldh2","C10H15N5O10P2","rn:R01752","rn:R08572",NA,1
+"kegg","rn00561","Lpl","C10H15N5O10P2","rn:R01350","rn:R02240",NA,1
+"kegg","rn00561","Lpl","H3O4P","rn:R01350","rn:R02239",NA,1
+"kegg","rn00310","Aldh2","C4H6O4","rn:R03283","rn:R02397",NA,1
+"kegg","rn00310","Mecom","C4H6O4","rn:R03875","rn:R03376",NA,1
+"kegg","rn00310","Aldh2","C5H6O5","rn:R03283","rn:R02397",NA,1
+"kegg","rn00310","Mecom","C5H6O5","rn:R03875","rn:R03376",NA,1
+"kegg","rn00310","Aldh2","C5H4O5","rn:R03283","rn:R02397",NA,1
+"kegg","rn00310","Mecom","C5H4O5","rn:R03875","rn:R03376",NA,1
+"kegg","rn00430","Gad1","C4H6O4","rn:R01682","rn:R05320",NA,1
+"kegg","rn00430","Gad2","C4H6O4","rn:R01682","rn:R05320",NA,1
+"kegg","rn00430","Csad","C4H6O4","rn:R01682","rn:R05320",NA,1
+"kegg","rn00430","Gad1","C2H7NO3S","rn:R01682","rn:R01682","product",0
+"kegg","rn00430","Gad1","C2H7NO3S","rn:R01682","rn:R01684",NA,1
+"kegg","rn00430","Gad1","C2H7NO3S","rn:R01682","rn:R01685","substrate",1
+"kegg","rn00430","Gad1","C2H7NO3S","rn:R01682","rn:R05320","substrate",1
+"kegg","rn00430","Gad1","C2H7NO3S","rn:R01682","rn:R05652",NA,1
+"kegg","rn00430","Gad1","C2H7NO3S","rn:R01682","rn:R12959","product",1
+"kegg","rn00430","Gad2","C2H7NO3S","rn:R01682","rn:R01682","product",0
+"kegg","rn00430","Gad2","C2H7NO3S","rn:R01682","rn:R01684",NA,1
+"kegg","rn00430","Gad2","C2H7NO3S","rn:R01682","rn:R01685","substrate",1
+"kegg","rn00430","Gad2","C2H7NO3S","rn:R01682","rn:R05320","substrate",1
+"kegg","rn00430","Gad2","C2H7NO3S","rn:R01682","rn:R05652",NA,1
+"kegg","rn00430","Gad2","C2H7NO3S","rn:R01682","rn:R12959","product",1
+"kegg","rn00430","Csad","C2H7NO3S","rn:R01682","rn:R01682","product",0
+"kegg","rn00430","Csad","C2H7NO3S","rn:R01682","rn:R01684",NA,1
+"kegg","rn00430","Csad","C2H7NO3S","rn:R01682","rn:R01685","substrate",1
+"kegg","rn00430","Csad","C2H7NO3S","rn:R01682","rn:R05320","substrate",1
+"kegg","rn00430","Csad","C2H7NO3S","rn:R01682","rn:R05652",NA,1
+"kegg","rn00430","Csad","C2H7NO3S","rn:R01682","rn:R12959","product",1
+"kegg","rn00430","Gad1","C5H9NO4","rn:R01682","rn:R01684",NA,1
+"kegg","rn00430","Gad2","C5H9NO4","rn:R01682","rn:R01684",NA,1
+"kegg","rn00430","Csad","C5H9NO4","rn:R01682","rn:R01684",NA,1
+"kegg","rn00430","Gad1","C5H4O5","rn:R01682","rn:R01684",NA,1
+"kegg","rn00430","Gad1","C5H4O5","rn:R01682","rn:R05320",NA,1
+"kegg","rn00430","Gad2","C5H4O5","rn:R01682","rn:R01684",NA,1
+"kegg","rn00430","Gad2","C5H4O5","rn:R01682","rn:R05320",NA,1
+"kegg","rn00430","Csad","C5H4O5","rn:R01682","rn:R01684",NA,1
+"kegg","rn00430","Csad","C5H4O5","rn:R01682","rn:R05320",NA,1
+"kegg","rn00430","Gad1","C5H6O5","rn:R01682","rn:R01684",NA,1
+"kegg","rn00430","Gad1","C5H6O5","rn:R01682","rn:R05320",NA,1
+"kegg","rn00430","Gad2","C5H6O5","rn:R01682","rn:R01684",NA,1
+"kegg","rn00430","Gad2","C5H6O5","rn:R01682","rn:R05320",NA,1
+"kegg","rn00430","Csad","C5H6O5","rn:R01682","rn:R01684",NA,1
+"kegg","rn00430","Csad","C5H6O5","rn:R01682","rn:R05320",NA,1
+"kegg","rn00030","Aldoc","C2H5O5P","rn:R01068","rn:R01621",NA,1
+"kegg","rn00030","Aldoc","C6H13O9P","rn:R01068","rn:R00762","product",1
+"kegg","rn00030","Aldoc","C6H13O9P","rn:R01068","rn:R00764","substrate",1
+"kegg","rn00030","Aldoc","C6H13O9P","rn:R01068","rn:R01067",NA,1
+"kegg","rn00030","Aldoc","C6H13O9P","rn:R01068","rn:R05805","substrate",1
+"kegg","rn00030","Aldoc","C6H13O9P","rn:R01068","rn:R08575",NA,1
+"kegg","rn00030","Prps2","C10H14N5O7P","rn:R01049","rn:R01049",NA,0
+"kegg","rn00030","Aldoc","C10H14N5O7P","rn:R01068","rn:R05805",NA,1
+"kegg","rn00030","Prps2","C3H7O6P","rn:R01049","rn:R01641",NA,1
+"kegg","rn00030","Aldoc","C3H7O6P","rn:R01068","rn:R01068",NA,0
+"kegg","rn00030","Aldoc","C3H7O6P","rn:R01068","rn:R01066","product",1
+"kegg","rn00030","Aldoc","C3H7O6P","rn:R01068","rn:R01067",NA,1
+"kegg","rn00030","Aldoc","C3H7O6P","rn:R01068","rn:R01068","product",0
+"kegg","rn00030","Aldoc","C3H7O6P","rn:R01068","rn:R01621","product",1
+"kegg","rn00030","Aldoc","C3H7O6P","rn:R01068","rn:R01641",NA,1
+"kegg","rn00030","Aldoc","C3H7O6P","rn:R01068","rn:R08575",NA,1
+"kegg","rn00030","Prps2","C10H15N5O10P2","rn:R01049","rn:R01051",NA,1
+"kegg","rn00030","Prps2","C10H15N5O10P2","rn:R01049","rn:R06836",NA,1
+"kegg","rn00030","Aldoc","C10H15N5O10P2","rn:R01068","rn:R00756",NA,1
+"kegg","rn00030","Aldoc","C10H15N5O10P2","rn:R01068","rn:R05805",NA,1
+"kegg","rn00030","Aldoc","H3O4P","rn:R01068","rn:R00762",NA,1
+"kegg","rn00030","Aldoc","H3O4P","rn:R01068","rn:R00764",NA,1
+"kegg","rn00030","Aldoc","H3O4P","rn:R01068","rn:R01621",NA,1
+"kegg","rn00030","Aldoc","H4O7P2","rn:R01068","rn:R00764",NA,1
+"kegg","rn00600","Hexb","C6H12O6","rn:R03492","rn:R03355",NA,1
+"kegg","rn00600","Hexb","C6H12O6","rn:R03492","rn:R03618",NA,1
+"kegg","rn00600","Hexb","C6H12O6","rn:R03492","rn:R05112",NA,1
+"kegg","rn00600","Hexb","C6H12O6","rn:R04184","rn:R03618",NA,1
+"kegg","rn00600","Hexb","C6H12O6","rn:R04586","rn:R04633",NA,1
+"kegg","rn00600","Hexb","C10H15N5O10P2","rn:R03492","rn:R12960",NA,1
+"kegg","rn00600","Hexb","C10H15N5O10P2","rn:R12963","rn:R12960",NA,1
+"kegg","rn00600","Hexb","C11H19NO9","rn:R03492","rn:R03491",NA,1
+"reactome","Synthesis of IP2, IP, and Ins in the cytosol","Inpp4b","C6H13O9P","R-MMU-1855202","R-MMU-1855202",NA,0
+"reactome","Synthesis of IP2, IP, and Ins in the cytosol","Inpp4b","C6H13O9P","R-MMU-1855202","R-MMU-1855210",NA,1
+"reactome","Synthesis of IP2, IP, and Ins in the cytosol","Inpp4b","C6H12O6","R-MMU-1855202","R-MMU-1855210",NA,1
+"reactome","Lysosomal oligosaccharide catabolism","Man2b1","C6H12O6","R-MMU-8853686","R-MMU-6799581",NA,1
+"reactome","Lysosomal oligosaccharide catabolism","Man2b1","C6H12O6","R-MMU-8853686","R-MMU-8853686",NA,0
+"reactome","G alpha (q) signalling events","Trh","C18H34O2","R-MMU-379048","R-MMU-379048",NA,0
+"reactome","G alpha (q) signalling events","Trh","C18H34O2","R-MMU-379048","R-MMU-749448",NA,1
+"reactome","G alpha (q) signalling events","Trh","C18H34O2","R-MMU-379048","R-MMU-749452",NA,1
+"reactome","G alpha (q) signalling events","Trh","C18H34O2","R-MMU-444498","R-MMU-749448",NA,1
+"reactome","G alpha (q) signalling events","Trh","C18H34O2","R-MMU-749448","R-MMU-379048",NA,1
+"reactome","G alpha (q) signalling events","Trh","C18H34O2","R-MMU-749448","R-MMU-444202",NA,1
+"reactome","G alpha (q) signalling events","Trh","C18H34O2","R-MMU-749448","R-MMU-749448",NA,0
+"reactome","G alpha (q) signalling events","Trh","C18H34O2","R-MMU-749452","R-MMU-379048",NA,1
+"reactome","G alpha (q) signalling events","Trh","C18H34O2","R-MMU-749452","R-MMU-749452",NA,0
+"reactome","G alpha (q) signalling events","Trh","C21H41O7P","R-MMU-379048","R-MMU-379048",NA,0
+"reactome","G alpha (q) signalling events","Trh","C21H41O7P","R-MMU-379048","R-MMU-749448",NA,1
+"reactome","G alpha (q) signalling events","Trh","C21H41O7P","R-MMU-379048","R-MMU-749452",NA,1
+"reactome","G alpha (q) signalling events","Trh","C21H41O7P","R-MMU-444498","R-MMU-749448",NA,1
+"reactome","G alpha (q) signalling events","Trh","C21H41O7P","R-MMU-749448","R-MMU-379048",NA,1
+"reactome","G alpha (q) signalling events","Trh","C21H41O7P","R-MMU-749448","R-MMU-417820",NA,1
+"reactome","G alpha (q) signalling events","Trh","C21H41O7P","R-MMU-749448","R-MMU-417842",NA,1
+"reactome","G alpha (q) signalling events","Trh","C21H41O7P","R-MMU-749448","R-MMU-417890",NA,1
+"reactome","G alpha (q) signalling events","Trh","C21H41O7P","R-MMU-749448","R-MMU-749448",NA,0
+"reactome","G alpha (q) signalling events","Trh","C21H41O7P","R-MMU-749452","R-MMU-379048",NA,1
+"reactome","G alpha (q) signalling events","Trh","C21H41O7P","R-MMU-749452","R-MMU-749452",NA,0
+"reactome","Neurotransmitter release cycle","Slc17a7","C5H4O5","R-MMU-210444","R-MMU-70723",NA,1
+"reactome","Neurotransmitter release cycle","Slc17a7","C5H10N2O3","R-MMU-210444","R-MMU-70609",NA,1
+"reactome","Neurotransmitter release cycle","Slc6a1","C4H9NO2","R-MMU-444007","R-MMU-444007",NA,0
+"reactome","Neurotransmitter release cycle","Slc6a1","C4H9NO2","R-MMU-444007","R-MMU-888592",NA,1
+"reactome","Neurotransmitter release cycle","Gad1","C4H9NO2","R-MMU-888577","R-MMU-888577",NA,0
+"reactome","Neurotransmitter release cycle","Gad1","C4H9NO2","R-MMU-888577","R-MMU-888592",NA,1
+"reactome","Neurotransmitter release cycle","Gad1","C4H9NO2","R-MMU-888589","R-MMU-888589",NA,0
+"reactome","Neurotransmitter release cycle","Gad1","C4H9NO2","R-MMU-888589","R-MMU-917744",NA,1
+"reactome","Neurotransmitter release cycle","Gad1","C4H9NO2","R-MMU-917744","R-MMU-888589",NA,1
+"reactome","Neurotransmitter release cycle","Gad1","C4H9NO2","R-MMU-917744","R-MMU-888592",NA,1
+"reactome","Neurotransmitter release cycle","Gad1","C4H9NO2","R-MMU-917744","R-MMU-917744",NA,0
+"reactome","Neurotransmitter release cycle","Gad2","C4H9NO2","R-MMU-888577","R-MMU-888577",NA,0
+"reactome","Neurotransmitter release cycle","Gad2","C4H9NO2","R-MMU-888577","R-MMU-888592",NA,1
+"reactome","Neurotransmitter release cycle","Gad2","C4H9NO2","R-MMU-888589","R-MMU-888589",NA,0
+"reactome","Neurotransmitter release cycle","Gad2","C4H9NO2","R-MMU-888589","R-MMU-917744",NA,1
+"reactome","Neurotransmitter release cycle","Gad2","C4H9NO2","R-MMU-917744","R-MMU-888589",NA,1
+"reactome","Neurotransmitter release cycle","Gad2","C4H9NO2","R-MMU-917744","R-MMU-888592",NA,1
+"reactome","Neurotransmitter release cycle","Gad2","C4H9NO2","R-MMU-917744","R-MMU-917744",NA,0
+"reactome","Purine catabolism","Gda","C5H5N5O","R-MMU-74255","R-MMU-74249",NA,1
+"reactome","Purine catabolism","Gda","C5H5N5O","R-MMU-74255","R-MMU-74255",NA,0
+"reactome","Purine catabolism","Gda","C5H5N5O","R-MMU-74255","R-MMU-8953339",NA,1
+"reactome","Purine catabolism","Gda","C5H4N4O2","R-MMU-74255","R-MMU-74255",NA,0
+"reactome","Purine catabolism","Gda","C5H4N4O2","R-MMU-74255","R-MMU-74258",NA,1
+"reactome","Purine catabolism","Gda","C5H4N4O2","R-MMU-74255","R-MMU-9727349",NA,1
+"reactome","Purine catabolism","Gda","C5H9O7P","R-MMU-74255","R-MMU-74249",NA,1
+"reactome","Purine catabolism","Gda","C5H9O7P","R-MMU-74255","R-MMU-8953339",NA,1
+"reactome","G alpha (i) signalling events","Pdyn","C5H4O5","R-MMU-374298","R-MMU-749456",NA,1
+"reactome","G alpha (i) signalling events","Pdyn","C5H4O5","R-MMU-380073","R-MMU-380073",NA,0
+"reactome","G alpha (i) signalling events","Pdyn","C5H4O5","R-MMU-380073","R-MMU-749454",NA,1
+"reactome","G alpha (i) signalling events","Pdyn","C5H4O5","R-MMU-380073","R-MMU-749456",NA,1
+"reactome","G alpha (i) signalling events","Pdyn","C5H4O5","R-MMU-749454","R-MMU-380073",NA,1
+"reactome","G alpha (i) signalling events","Pdyn","C5H4O5","R-MMU-749454","R-MMU-749454",NA,0
+"reactome","G alpha (i) signalling events","Pdyn","C5H4O5","R-MMU-749456","R-MMU-380073",NA,1
+"reactome","G alpha (i) signalling events","Pdyn","C5H4O5","R-MMU-749456","R-MMU-749456",NA,0
+"reactome","G alpha (i) signalling events","Pdyn","C5H4O5","R-MMU-749456","R-MMU-964773",NA,1
+"reactome","G alpha (i) signalling events","Npy","C5H4O5","R-MMU-380073","R-MMU-380073",NA,0
+"reactome","G alpha (i) signalling events","Npy","C5H4O5","R-MMU-380073","R-MMU-749454",NA,1
+"reactome","G alpha (i) signalling events","Npy","C5H4O5","R-MMU-380073","R-MMU-749456",NA,1
+"reactome","G alpha (i) signalling events","Npy","C5H4O5","R-MMU-749454","R-MMU-380073",NA,1
+"reactome","G alpha (i) signalling events","Npy","C5H4O5","R-MMU-749454","R-MMU-749454",NA,0
+"reactome","G alpha (i) signalling events","Npy","C5H4O5","R-MMU-749456","R-MMU-380073",NA,1
+"reactome","G alpha (i) signalling events","Npy","C5H4O5","R-MMU-749456","R-MMU-749456",NA,0
+"reactome","G alpha (i) signalling events","Npy","C5H4O5","R-MMU-749456","R-MMU-964773",NA,1
+"reactome","G alpha (i) signalling events","Sst","C5H4O5","R-MMU-374758","R-MMU-749456",NA,1
+"reactome","G alpha (i) signalling events","Sst","C5H4O5","R-MMU-380073","R-MMU-380073",NA,0
+"reactome","G alpha (i) signalling events","Sst","C5H4O5","R-MMU-380073","R-MMU-749454",NA,1
+"reactome","G alpha (i) signalling events","Sst","C5H4O5","R-MMU-380073","R-MMU-749456",NA,1
+"reactome","G alpha (i) signalling events","Sst","C5H4O5","R-MMU-749454","R-MMU-380073",NA,1
+"reactome","G alpha (i) signalling events","Sst","C5H4O5","R-MMU-749454","R-MMU-749454",NA,0
+"reactome","G alpha (i) signalling events","Sst","C5H4O5","R-MMU-749456","R-MMU-380073",NA,1
+"reactome","G alpha (i) signalling events","Sst","C5H4O5","R-MMU-749456","R-MMU-749456",NA,0
+"reactome","G alpha (i) signalling events","Sst","C5H4O5","R-MMU-749456","R-MMU-964773",NA,1
+"reactome","G alpha (i) signalling events","Npy2r","C5H4O5","R-MMU-380073","R-MMU-380073",NA,0
+"reactome","G alpha (i) signalling events","Npy2r","C5H4O5","R-MMU-380073","R-MMU-749454",NA,1
+"reactome","G alpha (i) signalling events","Npy2r","C5H4O5","R-MMU-380073","R-MMU-749456",NA,1
+"reactome","G alpha (i) signalling events","Npy2r","C5H4O5","R-MMU-749454","R-MMU-380073",NA,1
+"reactome","G alpha (i) signalling events","Npy2r","C5H4O5","R-MMU-749454","R-MMU-749454",NA,0
+"reactome","G alpha (i) signalling events","Npy2r","C5H4O5","R-MMU-749456","R-MMU-380073",NA,1
+"reactome","G alpha (i) signalling events","Npy2r","C5H4O5","R-MMU-749456","R-MMU-749456",NA,0
+"reactome","G alpha (i) signalling events","Npy2r","C5H4O5","R-MMU-749456","R-MMU-964773",NA,1
+"reactome","G alpha (i) signalling events","Psap","C5H4O5","R-MMU-380073","R-MMU-380073",NA,0
+"reactome","G alpha (i) signalling events","Psap","C5H4O5","R-MMU-380073","R-MMU-749454",NA,1
+"reactome","G alpha (i) signalling events","Psap","C5H4O5","R-MMU-380073","R-MMU-749456",NA,1
+"reactome","G alpha (i) signalling events","Psap","C5H4O5","R-MMU-5336182","R-MMU-749456",NA,1
+"reactome","G alpha (i) signalling events","Psap","C5H4O5","R-MMU-5336184","R-MMU-749456",NA,1
+"reactome","G alpha (i) signalling events","Psap","C5H4O5","R-MMU-749454","R-MMU-380073",NA,1
+"reactome","G alpha (i) signalling events","Psap","C5H4O5","R-MMU-749454","R-MMU-749454",NA,0
+"reactome","G alpha (i) signalling events","Psap","C5H4O5","R-MMU-749456","R-MMU-380073",NA,1
+"reactome","G alpha (i) signalling events","Psap","C5H4O5","R-MMU-749456","R-MMU-749456",NA,0
+"reactome","G alpha (i) signalling events","Psap","C5H4O5","R-MMU-749456","R-MMU-964773",NA,1
+"reactome","G alpha (i) signalling events","Pdyn","C6H12O6","R-MMU-374298","R-MMU-749456",NA,1
+"reactome","G alpha (i) signalling events","Pdyn","C6H12O6","R-MMU-380073","R-MMU-380073",NA,0
+"reactome","G alpha (i) signalling events","Pdyn","C6H12O6","R-MMU-380073","R-MMU-749454",NA,1
+"reactome","G alpha (i) signalling events","Pdyn","C6H12O6","R-MMU-380073","R-MMU-749456",NA,1
+"reactome","G alpha (i) signalling events","Pdyn","C6H12O6","R-MMU-749454","R-MMU-380073",NA,1
+"reactome","G alpha (i) signalling events","Pdyn","C6H12O6","R-MMU-749454","R-MMU-749454",NA,0
+"reactome","G alpha (i) signalling events","Pdyn","C6H12O6","R-MMU-749456","R-MMU-380073",NA,1
+"reactome","G alpha (i) signalling events","Pdyn","C6H12O6","R-MMU-749456","R-MMU-444606",NA,1
+"reactome","G alpha (i) signalling events","Pdyn","C6H12O6","R-MMU-749456","R-MMU-749456",NA,0
+"reactome","G alpha (i) signalling events","Npy","C6H12O6","R-MMU-380073","R-MMU-380073",NA,0
+"reactome","G alpha (i) signalling events","Npy","C6H12O6","R-MMU-380073","R-MMU-749454",NA,1
+"reactome","G alpha (i) signalling events","Npy","C6H12O6","R-MMU-380073","R-MMU-749456",NA,1
+"reactome","G alpha (i) signalling events","Npy","C6H12O6","R-MMU-749454","R-MMU-380073",NA,1
+"reactome","G alpha (i) signalling events","Npy","C6H12O6","R-MMU-749454","R-MMU-749454",NA,0
+"reactome","G alpha (i) signalling events","Npy","C6H12O6","R-MMU-749456","R-MMU-380073",NA,1
+"reactome","G alpha (i) signalling events","Npy","C6H12O6","R-MMU-749456","R-MMU-444606",NA,1
+"reactome","G alpha (i) signalling events","Npy","C6H12O6","R-MMU-749456","R-MMU-749456",NA,0
+"reactome","G alpha (i) signalling events","Sst","C6H12O6","R-MMU-374758","R-MMU-749456",NA,1
+"reactome","G alpha (i) signalling events","Sst","C6H12O6","R-MMU-380073","R-MMU-380073",NA,0
+"reactome","G alpha (i) signalling events","Sst","C6H12O6","R-MMU-380073","R-MMU-749454",NA,1
+"reactome","G alpha (i) signalling events","Sst","C6H12O6","R-MMU-380073","R-MMU-749456",NA,1
+"reactome","G alpha (i) signalling events","Sst","C6H12O6","R-MMU-749454","R-MMU-380073",NA,1
+"reactome","G alpha (i) signalling events","Sst","C6H12O6","R-MMU-749454","R-MMU-749454",NA,0
+"reactome","G alpha (i) signalling events","Sst","C6H12O6","R-MMU-749456","R-MMU-380073",NA,1
+"reactome","G alpha (i) signalling events","Sst","C6H12O6","R-MMU-749456","R-MMU-444606",NA,1
+"reactome","G alpha (i) signalling events","Sst","C6H12O6","R-MMU-749456","R-MMU-749456",NA,0
+"reactome","G alpha (i) signalling events","Npy2r","C6H12O6","R-MMU-380073","R-MMU-380073",NA,0
+"reactome","G alpha (i) signalling events","Npy2r","C6H12O6","R-MMU-380073","R-MMU-749454",NA,1
+"reactome","G alpha (i) signalling events","Npy2r","C6H12O6","R-MMU-380073","R-MMU-749456",NA,1
+"reactome","G alpha (i) signalling events","Npy2r","C6H12O6","R-MMU-749454","R-MMU-380073",NA,1
+"reactome","G alpha (i) signalling events","Npy2r","C6H12O6","R-MMU-749454","R-MMU-749454",NA,0
+"reactome","G alpha (i) signalling events","Npy2r","C6H12O6","R-MMU-749456","R-MMU-380073",NA,1
+"reactome","G alpha (i) signalling events","Npy2r","C6H12O6","R-MMU-749456","R-MMU-444606",NA,1
+"reactome","G alpha (i) signalling events","Npy2r","C6H12O6","R-MMU-749456","R-MMU-749456",NA,0
+"reactome","G alpha (i) signalling events","Psap","C6H12O6","R-MMU-380073","R-MMU-380073",NA,0
+"reactome","G alpha (i) signalling events","Psap","C6H12O6","R-MMU-380073","R-MMU-749454",NA,1
+"reactome","G alpha (i) signalling events","Psap","C6H12O6","R-MMU-380073","R-MMU-749456",NA,1
+"reactome","G alpha (i) signalling events","Psap","C6H12O6","R-MMU-5336182","R-MMU-749456",NA,1
+"reactome","G alpha (i) signalling events","Psap","C6H12O6","R-MMU-5336184","R-MMU-749456",NA,1
+"reactome","G alpha (i) signalling events","Psap","C6H12O6","R-MMU-749454","R-MMU-380073",NA,1
+"reactome","G alpha (i) signalling events","Psap","C6H12O6","R-MMU-749454","R-MMU-749454",NA,0
+"reactome","G alpha (i) signalling events","Psap","C6H12O6","R-MMU-749456","R-MMU-380073",NA,1
+"reactome","G alpha (i) signalling events","Psap","C6H12O6","R-MMU-749456","R-MMU-444606",NA,1
+"reactome","G alpha (i) signalling events","Psap","C6H12O6","R-MMU-749456","R-MMU-749456",NA,0
+"reactome","G alpha (i) signalling events","Pdyn","C4H4O4","R-MMU-374298","R-MMU-749456",NA,1
+"reactome","G alpha (i) signalling events","Pdyn","C4H4O4","R-MMU-380073","R-MMU-380073",NA,0
+"reactome","G alpha (i) signalling events","Pdyn","C4H4O4","R-MMU-380073","R-MMU-749454",NA,1
+"reactome","G alpha (i) signalling events","Pdyn","C4H4O4","R-MMU-380073","R-MMU-749456",NA,1
+"reactome","G alpha (i) signalling events","Pdyn","C4H4O4","R-MMU-749454","R-MMU-380073",NA,1
+"reactome","G alpha (i) signalling events","Pdyn","C4H4O4","R-MMU-749454","R-MMU-749454",NA,0
+"reactome","G alpha (i) signalling events","Pdyn","C4H4O4","R-MMU-749456","R-MMU-3296244",NA,1
+"reactome","G alpha (i) signalling events","Pdyn","C4H4O4","R-MMU-749456","R-MMU-380073",NA,1
+"reactome","G alpha (i) signalling events","Pdyn","C4H4O4","R-MMU-749456","R-MMU-749456",NA,0
+"reactome","G alpha (i) signalling events","Npy","C4H4O4","R-MMU-380073","R-MMU-380073",NA,0
+"reactome","G alpha (i) signalling events","Npy","C4H4O4","R-MMU-380073","R-MMU-749454",NA,1
+"reactome","G alpha (i) signalling events","Npy","C4H4O4","R-MMU-380073","R-MMU-749456",NA,1
+"reactome","G alpha (i) signalling events","Npy","C4H4O4","R-MMU-749454","R-MMU-380073",NA,1
+"reactome","G alpha (i) signalling events","Npy","C4H4O4","R-MMU-749454","R-MMU-749454",NA,0
+"reactome","G alpha (i) signalling events","Npy","C4H4O4","R-MMU-749456","R-MMU-3296244",NA,1
+"reactome","G alpha (i) signalling events","Npy","C4H4O4","R-MMU-749456","R-MMU-380073",NA,1
+"reactome","G alpha (i) signalling events","Npy","C4H4O4","R-MMU-749456","R-MMU-749456",NA,0
+"reactome","G alpha (i) signalling events","Sst","C4H4O4","R-MMU-374758","R-MMU-749456",NA,1
+"reactome","G alpha (i) signalling events","Sst","C4H4O4","R-MMU-380073","R-MMU-380073",NA,0
+"reactome","G alpha (i) signalling events","Sst","C4H4O4","R-MMU-380073","R-MMU-749454",NA,1
+"reactome","G alpha (i) signalling events","Sst","C4H4O4","R-MMU-380073","R-MMU-749456",NA,1
+"reactome","G alpha (i) signalling events","Sst","C4H4O4","R-MMU-749454","R-MMU-380073",NA,1
+"reactome","G alpha (i) signalling events","Sst","C4H4O4","R-MMU-749454","R-MMU-749454",NA,0
+"reactome","G alpha (i) signalling events","Sst","C4H4O4","R-MMU-749456","R-MMU-3296244",NA,1
+"reactome","G alpha (i) signalling events","Sst","C4H4O4","R-MMU-749456","R-MMU-380073",NA,1
+"reactome","G alpha (i) signalling events","Sst","C4H4O4","R-MMU-749456","R-MMU-749456",NA,0
+"reactome","G alpha (i) signalling events","Npy2r","C4H4O4","R-MMU-380073","R-MMU-380073",NA,0
+"reactome","G alpha (i) signalling events","Npy2r","C4H4O4","R-MMU-380073","R-MMU-749454",NA,1
+"reactome","G alpha (i) signalling events","Npy2r","C4H4O4","R-MMU-380073","R-MMU-749456",NA,1
+"reactome","G alpha (i) signalling events","Npy2r","C4H4O4","R-MMU-749454","R-MMU-380073",NA,1
+"reactome","G alpha (i) signalling events","Npy2r","C4H4O4","R-MMU-749454","R-MMU-749454",NA,0
+"reactome","G alpha (i) signalling events","Npy2r","C4H4O4","R-MMU-749456","R-MMU-3296244",NA,1
+"reactome","G alpha (i) signalling events","Npy2r","C4H4O4","R-MMU-749456","R-MMU-380073",NA,1
+"reactome","G alpha (i) signalling events","Npy2r","C4H4O4","R-MMU-749456","R-MMU-749456",NA,0
+"reactome","G alpha (i) signalling events","Psap","C4H4O4","R-MMU-380073","R-MMU-380073",NA,0
+"reactome","G alpha (i) signalling events","Psap","C4H4O4","R-MMU-380073","R-MMU-749454",NA,1
+"reactome","G alpha (i) signalling events","Psap","C4H4O4","R-MMU-380073","R-MMU-749456",NA,1
+"reactome","G alpha (i) signalling events","Psap","C4H4O4","R-MMU-5336182","R-MMU-749456",NA,1
+"reactome","G alpha (i) signalling events","Psap","C4H4O4","R-MMU-5336184","R-MMU-749456",NA,1
+"reactome","G alpha (i) signalling events","Psap","C4H4O4","R-MMU-749454","R-MMU-380073",NA,1
+"reactome","G alpha (i) signalling events","Psap","C4H4O4","R-MMU-749454","R-MMU-749454",NA,0
+"reactome","G alpha (i) signalling events","Psap","C4H4O4","R-MMU-749456","R-MMU-3296244",NA,1
+"reactome","G alpha (i) signalling events","Psap","C4H4O4","R-MMU-749456","R-MMU-380073",NA,1
+"reactome","G alpha (i) signalling events","Psap","C4H4O4","R-MMU-749456","R-MMU-749456",NA,0
+"reactome","G alpha (i) signalling events","Pdyn","C21H41O7P","R-MMU-374298","R-MMU-749456",NA,1
+"reactome","G alpha (i) signalling events","Pdyn","C21H41O7P","R-MMU-380073","R-MMU-380073",NA,0
+"reactome","G alpha (i) signalling events","Pdyn","C21H41O7P","R-MMU-380073","R-MMU-749454",NA,1
+"reactome","G alpha (i) signalling events","Pdyn","C21H41O7P","R-MMU-380073","R-MMU-749456",NA,1
+"reactome","G alpha (i) signalling events","Pdyn","C21H41O7P","R-MMU-749454","R-MMU-380073",NA,1
+"reactome","G alpha (i) signalling events","Pdyn","C21H41O7P","R-MMU-749454","R-MMU-749454",NA,0
+"reactome","G alpha (i) signalling events","Pdyn","C21H41O7P","R-MMU-749456","R-MMU-380073",NA,1
+"reactome","G alpha (i) signalling events","Pdyn","C21H41O7P","R-MMU-749456","R-MMU-749456",NA,0
+"reactome","G alpha (i) signalling events","Npy","C21H41O7P","R-MMU-380073","R-MMU-380073",NA,0
+"reactome","G alpha (i) signalling events","Npy","C21H41O7P","R-MMU-380073","R-MMU-749454",NA,1
+"reactome","G alpha (i) signalling events","Npy","C21H41O7P","R-MMU-380073","R-MMU-749456",NA,1
+"reactome","G alpha (i) signalling events","Npy","C21H41O7P","R-MMU-749454","R-MMU-380073",NA,1
+"reactome","G alpha (i) signalling events","Npy","C21H41O7P","R-MMU-749454","R-MMU-749454",NA,0
+"reactome","G alpha (i) signalling events","Npy","C21H41O7P","R-MMU-749456","R-MMU-380073",NA,1
+"reactome","G alpha (i) signalling events","Npy","C21H41O7P","R-MMU-749456","R-MMU-749456",NA,0
+"reactome","G alpha (i) signalling events","Sst","C21H41O7P","R-MMU-374758","R-MMU-749456",NA,1
+"reactome","G alpha (i) signalling events","Sst","C21H41O7P","R-MMU-380073","R-MMU-380073",NA,0
+"reactome","G alpha (i) signalling events","Sst","C21H41O7P","R-MMU-380073","R-MMU-749454",NA,1
+"reactome","G alpha (i) signalling events","Sst","C21H41O7P","R-MMU-380073","R-MMU-749456",NA,1
+"reactome","G alpha (i) signalling events","Sst","C21H41O7P","R-MMU-749454","R-MMU-380073",NA,1
+"reactome","G alpha (i) signalling events","Sst","C21H41O7P","R-MMU-749454","R-MMU-749454",NA,0
+"reactome","G alpha (i) signalling events","Sst","C21H41O7P","R-MMU-749456","R-MMU-380073",NA,1
+"reactome","G alpha (i) signalling events","Sst","C21H41O7P","R-MMU-749456","R-MMU-749456",NA,0
+"reactome","G alpha (i) signalling events","Npy2r","C21H41O7P","R-MMU-380073","R-MMU-380073",NA,0
+"reactome","G alpha (i) signalling events","Npy2r","C21H41O7P","R-MMU-380073","R-MMU-749454",NA,1
+"reactome","G alpha (i) signalling events","Npy2r","C21H41O7P","R-MMU-380073","R-MMU-749456",NA,1
+"reactome","G alpha (i) signalling events","Npy2r","C21H41O7P","R-MMU-749454","R-MMU-380073",NA,1
+"reactome","G alpha (i) signalling events","Npy2r","C21H41O7P","R-MMU-749454","R-MMU-749454",NA,0
+"reactome","G alpha (i) signalling events","Npy2r","C21H41O7P","R-MMU-749456","R-MMU-380073",NA,1
+"reactome","G alpha (i) signalling events","Npy2r","C21H41O7P","R-MMU-749456","R-MMU-749456",NA,0
+"reactome","G alpha (i) signalling events","Psap","C21H41O7P","R-MMU-380073","R-MMU-380073",NA,0
+"reactome","G alpha (i) signalling events","Psap","C21H41O7P","R-MMU-380073","R-MMU-749454",NA,1
+"reactome","G alpha (i) signalling events","Psap","C21H41O7P","R-MMU-380073","R-MMU-749456",NA,1
+"reactome","G alpha (i) signalling events","Psap","C21H41O7P","R-MMU-5336182","R-MMU-749456",NA,1
+"reactome","G alpha (i) signalling events","Psap","C21H41O7P","R-MMU-5336184","R-MMU-749456",NA,1
+"reactome","G alpha (i) signalling events","Psap","C21H41O7P","R-MMU-749454","R-MMU-380073",NA,1
+"reactome","G alpha (i) signalling events","Psap","C21H41O7P","R-MMU-749454","R-MMU-749454",NA,0
+"reactome","G alpha (i) signalling events","Psap","C21H41O7P","R-MMU-749456","R-MMU-380073",NA,1
+"reactome","G alpha (i) signalling events","Psap","C21H41O7P","R-MMU-749456","R-MMU-749456",NA,0
+"reactome","G alpha (i) signalling events","Pdyn","C4H9NO2","R-MMU-374298","R-MMU-749456",NA,1
+"reactome","G alpha (i) signalling events","Pdyn","C4H9NO2","R-MMU-380073","R-MMU-380073",NA,0
+"reactome","G alpha (i) signalling events","Pdyn","C4H9NO2","R-MMU-380073","R-MMU-749454",NA,1
+"reactome","G alpha (i) signalling events","Pdyn","C4H9NO2","R-MMU-380073","R-MMU-749456",NA,1
+"reactome","G alpha (i) signalling events","Pdyn","C4H9NO2","R-MMU-749454","R-MMU-380073",NA,1
+"reactome","G alpha (i) signalling events","Pdyn","C4H9NO2","R-MMU-749454","R-MMU-749454",NA,0
+"reactome","G alpha (i) signalling events","Pdyn","C4H9NO2","R-MMU-749456","R-MMU-380073",NA,1
+"reactome","G alpha (i) signalling events","Pdyn","C4H9NO2","R-MMU-749456","R-MMU-420688",NA,1
+"reactome","G alpha (i) signalling events","Pdyn","C4H9NO2","R-MMU-749456","R-MMU-749456",NA,0
+"reactome","G alpha (i) signalling events","Npy","C4H9NO2","R-MMU-380073","R-MMU-380073",NA,0
+"reactome","G alpha (i) signalling events","Npy","C4H9NO2","R-MMU-380073","R-MMU-749454",NA,1
+"reactome","G alpha (i) signalling events","Npy","C4H9NO2","R-MMU-380073","R-MMU-749456",NA,1
+"reactome","G alpha (i) signalling events","Npy","C4H9NO2","R-MMU-749454","R-MMU-380073",NA,1
+"reactome","G alpha (i) signalling events","Npy","C4H9NO2","R-MMU-749454","R-MMU-749454",NA,0
+"reactome","G alpha (i) signalling events","Npy","C4H9NO2","R-MMU-749456","R-MMU-380073",NA,1
+"reactome","G alpha (i) signalling events","Npy","C4H9NO2","R-MMU-749456","R-MMU-420688",NA,1
+"reactome","G alpha (i) signalling events","Npy","C4H9NO2","R-MMU-749456","R-MMU-749456",NA,0
+"reactome","G alpha (i) signalling events","Sst","C4H9NO2","R-MMU-374758","R-MMU-749456",NA,1
+"reactome","G alpha (i) signalling events","Sst","C4H9NO2","R-MMU-380073","R-MMU-380073",NA,0
+"reactome","G alpha (i) signalling events","Sst","C4H9NO2","R-MMU-380073","R-MMU-749454",NA,1
+"reactome","G alpha (i) signalling events","Sst","C4H9NO2","R-MMU-380073","R-MMU-749456",NA,1
+"reactome","G alpha (i) signalling events","Sst","C4H9NO2","R-MMU-749454","R-MMU-380073",NA,1
+"reactome","G alpha (i) signalling events","Sst","C4H9NO2","R-MMU-749454","R-MMU-749454",NA,0
+"reactome","G alpha (i) signalling events","Sst","C4H9NO2","R-MMU-749456","R-MMU-380073",NA,1
+"reactome","G alpha (i) signalling events","Sst","C4H9NO2","R-MMU-749456","R-MMU-420688",NA,1
+"reactome","G alpha (i) signalling events","Sst","C4H9NO2","R-MMU-749456","R-MMU-749456",NA,0
+"reactome","G alpha (i) signalling events","Npy2r","C4H9NO2","R-MMU-380073","R-MMU-380073",NA,0
+"reactome","G alpha (i) signalling events","Npy2r","C4H9NO2","R-MMU-380073","R-MMU-749454",NA,1
+"reactome","G alpha (i) signalling events","Npy2r","C4H9NO2","R-MMU-380073","R-MMU-749456",NA,1
+"reactome","G alpha (i) signalling events","Npy2r","C4H9NO2","R-MMU-749454","R-MMU-380073",NA,1
+"reactome","G alpha (i) signalling events","Npy2r","C4H9NO2","R-MMU-749454","R-MMU-749454",NA,0
+"reactome","G alpha (i) signalling events","Npy2r","C4H9NO2","R-MMU-749456","R-MMU-380073",NA,1
+"reactome","G alpha (i) signalling events","Npy2r","C4H9NO2","R-MMU-749456","R-MMU-420688",NA,1
+"reactome","G alpha (i) signalling events","Npy2r","C4H9NO2","R-MMU-749456","R-MMU-749456",NA,0
+"reactome","G alpha (i) signalling events","Psap","C4H9NO2","R-MMU-380073","R-MMU-380073",NA,0
+"reactome","G alpha (i) signalling events","Psap","C4H9NO2","R-MMU-380073","R-MMU-749454",NA,1
+"reactome","G alpha (i) signalling events","Psap","C4H9NO2","R-MMU-380073","R-MMU-749456",NA,1
+"reactome","G alpha (i) signalling events","Psap","C4H9NO2","R-MMU-5336182","R-MMU-749456",NA,1
+"reactome","G alpha (i) signalling events","Psap","C4H9NO2","R-MMU-5336184","R-MMU-749456",NA,1
+"reactome","G alpha (i) signalling events","Psap","C4H9NO2","R-MMU-749454","R-MMU-380073",NA,1
+"reactome","G alpha (i) signalling events","Psap","C4H9NO2","R-MMU-749454","R-MMU-749454",NA,0
+"reactome","G alpha (i) signalling events","Psap","C4H9NO2","R-MMU-749456","R-MMU-380073",NA,1
+"reactome","G alpha (i) signalling events","Psap","C4H9NO2","R-MMU-749456","R-MMU-420688",NA,1
+"reactome","G alpha (i) signalling events","Psap","C4H9NO2","R-MMU-749456","R-MMU-749456",NA,0
+"reactome","Gluconeogenesis","Aldoc","C6H11O9P","R-MMU-71495","R-MMU-70479",NA,1
+"reactome","Gluconeogenesis","Aldoc","C3H5O6P","R-MMU-71495","R-MMU-70481",NA,1
+"reactome","Gluconeogenesis","Aldoc","C3H5O6P","R-MMU-71495","R-MMU-71495",NA,0
+"reactome","Gluconeogenesis","Aldoc","C3H5O6P","R-MMU-71495","R-MMU-70482",NA,1
+"reactome","Glutathione conjugation","Mgst1","C10H17N3O6S","R-MMU-176059","R-MMU-176059",NA,0
+"reactome","Detoxification of Reactive Oxygen Species","Gpx3","C10H17N3O6S","R-MMU-3341397","R-MMU-3341397",NA,0
+"reactome","Synthesis of PE","Etnppl","C2H8NO4P","R-MMU-5696415","R-MMU-1483222",NA,1
+"reactome","Synthesis of PE","Etnppl","C2H8NO4P","R-MMU-5696415","R-MMU-5696415",NA,0
+"reactome","Glycolysis","Hk1","C6H12O6","R-MMU-70420","R-MMU-70420",NA,0
+"reactome","Glycolysis","Aldoc","C6H11O9P","R-MMU-71496","R-MMU-70467",NA,1
+"reactome","Glycolysis","Hk1","C6H11O9P","R-MMU-70420","R-MMU-70471",NA,1
+"reactome","Glycolysis","Hk1","C6H11O9P","R-MMU-70420","R-MMU-70420",NA,0
+"reactome","Glycolysis","Hk1","C6H11O9P","R-MMU-70420","R-MMU-8955760",NA,1
+"reactome","Glycolysis","Aldoc","C3H5O6P","R-MMU-71496","R-MMU-70454",NA,1
+"reactome","Glycolysis","Aldoc","C3H5O6P","R-MMU-71496","R-MMU-71496",NA,0
+"reactome","HS-GAG degradation","Gusb","C6H12O6","R-MMU-1678854","R-MMU-2090079",NA,1
+"reactome","Metabolism of folate and pterines","Aldh1l1","C3H7NO3","R-MMU-6808496","R-MMU-200735",NA,1
+"reactome","RAF/MAP kinase cascade","Egfr","C3H7NO3","R-MMU-177936","R-MMU-5672965",NA,1
+"reactome","RAF/MAP kinase cascade","Egfr","C3H7NO3","R-MMU-177943","R-MMU-5672965",NA,1
+"reactome","RAF/MAP kinase cascade","Egfr","C3H7NO3","R-MMU-2179415","R-MMU-5672965",NA,1
+"reactome","RAF/MAP kinase cascade","Egfr","C3H7NO3","R-MMU-5672965","R-MMU-5672965",NA,0
+"reactome","Glycerophospholipid biosynthesis","Etnppl","C2H8NO4P","R-MMU-5696415","R-MMU-1483222",NA,1
+"reactome","Glycerophospholipid biosynthesis","Etnppl","C2H8NO4P","R-MMU-5696415","R-MMU-5696415",NA,0
+"reactome","Pentose phosphate pathway","Hk1","C6H12O6","R-MMU-70420","R-MMU-70420",NA,0
+"reactome","Pentose phosphate pathway","Hk1","C6H11O9P","R-MMU-70420","R-MMU-70377",NA,1
+"reactome","Pentose phosphate pathway","Hk1","C6H11O9P","R-MMU-70420","R-MMU-70420",NA,0
+"reactome","Glutamate Neurotransmitter Release Cycle","Slc17a7","C5H4O5","R-MMU-210444","R-MMU-70723",NA,1
+"reactome","Glutamate Neurotransmitter Release Cycle","Slc17a7","C5H10N2O3","R-MMU-210444","R-MMU-70609",NA,1
+"reactome","GABA synthesis, release, reuptake and degradation","Slc6a1","C4H9NO2","R-MMU-444007","R-MMU-444007",NA,0
+"reactome","GABA synthesis, release, reuptake and degradation","Slc6a1","C4H9NO2","R-MMU-444007","R-MMU-888592",NA,1
+"reactome","GABA synthesis, release, reuptake and degradation","Gad1","C4H9NO2","R-MMU-888577","R-MMU-888577",NA,0
+"reactome","GABA synthesis, release, reuptake and degradation","Gad1","C4H9NO2","R-MMU-888577","R-MMU-888592",NA,1
+"reactome","GABA synthesis, release, reuptake and degradation","Gad1","C4H9NO2","R-MMU-888589","R-MMU-888589",NA,0
+"reactome","GABA synthesis, release, reuptake and degradation","Gad1","C4H9NO2","R-MMU-888589","R-MMU-917744",NA,1
+"reactome","GABA synthesis, release, reuptake and degradation","Gad1","C4H9NO2","R-MMU-917744","R-MMU-888589",NA,1
+"reactome","GABA synthesis, release, reuptake and degradation","Gad1","C4H9NO2","R-MMU-917744","R-MMU-888592",NA,1
+"reactome","GABA synthesis, release, reuptake and degradation","Gad1","C4H9NO2","R-MMU-917744","R-MMU-917744",NA,0
+"reactome","GABA synthesis, release, reuptake and degradation","Gad2","C4H9NO2","R-MMU-888577","R-MMU-888577",NA,0
+"reactome","GABA synthesis, release, reuptake and degradation","Gad2","C4H9NO2","R-MMU-888577","R-MMU-888592",NA,1
+"reactome","GABA synthesis, release, reuptake and degradation","Gad2","C4H9NO2","R-MMU-888589","R-MMU-888589",NA,0
+"reactome","GABA synthesis, release, reuptake and degradation","Gad2","C4H9NO2","R-MMU-888589","R-MMU-917744",NA,1
+"reactome","GABA synthesis, release, reuptake and degradation","Gad2","C4H9NO2","R-MMU-917744","R-MMU-888589",NA,1
+"reactome","GABA synthesis, release, reuptake and degradation","Gad2","C4H9NO2","R-MMU-917744","R-MMU-888592",NA,1
+"reactome","GABA synthesis, release, reuptake and degradation","Gad2","C4H9NO2","R-MMU-917744","R-MMU-917744",NA,0
+"hmdb","Aspartate Metabolism","Gad1","C10H14N5O7P","Q99259","P08243","substrate",1
+"hmdb","Aspartate Metabolism","Gad1","C10H14N5O7P","Q99259","P14868","substrate",1
+"hmdb","Aspartate Metabolism","Gad1","CH4NO5P","Q99259","P27708","substrate",1
+"hmdb","Aspartate Metabolism","Gad1","C4H7NO4","Q99259","P08243","substrate",1
+"hmdb","Aspartate Metabolism","Gad1","C4H7NO4","Q99259","P14868","substrate",1
+"hmdb","Aspartate Metabolism","Gad1","C4H7NO4","Q99259","P27708","substrate",1
+"hmdb","Aspartate Metabolism","Gad1","C4H7NO4","Q99259","P45381","substrate",1
+"hmdb","Aspartate Metabolism","Gad1","C4H7NO4","Q99259","Q8N142","substrate",1
+"hmdb","Aspartate Metabolism","Gad1","C4H7NO4","Q99259","Q99259","substrate",0
+"hmdb","Aspartate Metabolism","Gad1","C4H8N2O3","Q99259","P08243","substrate",1
+"hmdb","Aspartate Metabolism","Gad1","C5H9NO4","Q99259","P08243","substrate",1
+"hmdb","Aspartate Metabolism","Gad1","C5H10N2O3","Q99259","P08243","substrate",1
+"hmdb","Aspartate Metabolism","Gad1","C6H9NO5","Q99259","P45381","substrate",1
+"hmdb","Ethanol Degradation","Aldh2","C10H14N5O7P","P05091","Q9NR19","product",1
+"hmdb","Ethanol Degradation","Aldh2","C10H14N5O7P","P05091","Q9NUB1","product",1
+"hmdb","Glutamate Metabolism","Gad1","C5H10N2O3","Q99259","P27708","substrate",1
+"hmdb","Glutamate Metabolism","Gad1","C5H10N2O3","Q99259","P49915","substrate",1
+"hmdb","Glutamate Metabolism","Gad1","C5H10N2O3","Q99259","Q06203","substrate",1
+"hmdb","Glutamate Metabolism","Gad1","C5H10N2O3","Q99259","Q06210","substrate",1
+"hmdb","Glutamate Metabolism","Gad1","C6H13O9P","Q99259","Q06210","substrate",1
+"hmdb","Glutamate Metabolism","Gad1","C4H7NO4","Q99259","P00505","substrate",1
+"hmdb","Glutamate Metabolism","Gad1","C5H9NO4","Q99259","P00505","substrate",1
+"hmdb","Glutamate Metabolism","Gad1","C5H9NO4","Q99259","P24298","substrate",1
+"hmdb","Glutamate Metabolism","Gad1","C5H9NO4","Q99259","P80404","substrate",1
+"hmdb","Glutamate Metabolism","Gad1","C5H9NO4","Q99259","Q06203","substrate",1
+"hmdb","Glutamate Metabolism","Gad1","C5H9NO4","Q99259","Q99259","substrate",0
+"hmdb","Glutamate Metabolism","Gad1","C5H9NO4","Q99259","P80404","product",1
+"hmdb","Glutamate Metabolism","Gad1","C5H6O5","Q99259","P00505","substrate",1
+"hmdb","Glutamate Metabolism","Gad1","C5H6O5","Q99259","P24298","substrate",1
+"hmdb","Glutamate Metabolism","Gad1","C5H6O5","Q99259","P80404","substrate",1
+"hmdb","Glutamate Metabolism","Gad1","C5H6O5","Q99259","P80404","product",1
+"hmdb","Glutamate Metabolism","Gad1","C4H9NO2","Q99259","P80404","product",1
+"hmdb","Glutamate Metabolism","Gad1","C4H9NO2","Q99259","Q99259","product",0
+"hmdb","Glutamate Metabolism","Gad1","C4H9NO2","Q99259","P80404","substrate",1
+"hmdb","Mitochondrial Beta-Oxidation of Medium Chain Saturated Fatty Acids","Acaa2","C10H14N5O7P","P42765","Q08AH1","product",1
+"hmdb","Mitochondrial Beta-Oxidation of Short Chain Saturated Fatty Acids","Acaa2","C10H14N5O7P","P42765","Q9H6R3","product",1
+"hmdb","Phosphatidylinositol Phosphate Metabolism","Inpp4b","C10H15N5O10P2","O15327","P48426","product",1
+"hmdb","Phospholipid Biosynthesis","Chat","C5H14NO6P","P28329","Q9NZC3","substrate",1
+"hmdb","Porphyrin Metabolism","Gusb","C5H9NO3","P08236","P13716","substrate",1
+"hmdb","Taurine and Hypotaurine Metabolism","Csad","C2H7NO3S","Q9Y600","Q9Y600","product",0
+"hmdb","Taurine and Hypotaurine Metabolism","Gad1","C2H7NO3S","Q99259","Q99259","product",0

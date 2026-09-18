@@ -1,0 +1,7 @@
+#!/usr/bin/env julia
+import Baysor: run_cli
+
+# Set to your own cluster storage path
+cluster_base_dir = get(ENV, "SPATIAL_OMICS_CLUSTER_DIR", "/path/to/your/cluster/storage/Spatial_omics")
+
+run_cli("run --n-clusters 4 -p --force-2d --save-polygons geojson --exclude-genes='Fev,Slc6a4,Slc6a5,Tph1' -o $(cluster_base_dir)/Results/Baysor_segmentation/Baysor_run_w_segmask_out_dev --prior-segmentation-confidence 0.2 -c seg_run_config.toml $(cluster_base_dir)/Data/Data_Delivery_32753_S1_D1/32753-Slide1_submission/32753_Slide1_A1_spots.csv $(cluster_base_dir)/Results/QuPath/32753-Slide1_A1_DAPI-detections.tif")

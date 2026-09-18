@@ -1,0 +1,64 @@
+"acronym","id","name","parent_structure_id","structure_id_path","depth"
+"Isocortex",315,"Isocortex",695,"/997/8/567/688/695/315/",5
+"OLF",698,"Olfactory areas",695,"/997/8/567/688/695/698/",5
+"CA1so",399,"Field CA1, stratum oriens",382,"/997/8/567/688/695/1089/1080/375/382/399/",9
+"CA1sp",407,"Field CA1, pyramidal layer",382,"/997/8/567/688/695/1089/1080/375/382/407/",9
+"CA1sr",415,"Field CA1, stratum radiatum",382,"/997/8/567/688/695/1089/1080/375/382/415/",9
+"CA2so",438,"Field CA2, stratum oriens",423,"/997/8/567/688/695/1089/1080/375/423/438/",9
+"CA2sp",446,"Field CA2, pyramidal layer",423,"/997/8/567/688/695/1089/1080/375/423/446/",9
+"CA2sr",454,"Field CA2, stratum radiatum",423,"/997/8/567/688/695/1089/1080/375/423/454/",9
+"CA3slu",479,"Field CA3, stratum lucidum",463,"/997/8/567/688/695/1089/1080/375/463/479/",9
+"CA3so",486,"Field CA3, stratum oriens",463,"/997/8/567/688/695/1089/1080/375/463/486/",9
+"CA3sp",495,"Field CA3, pyramidal layer",463,"/997/8/567/688/695/1089/1080/375/463/495/",9
+"CA3sr",504,"Field CA3, stratum radiatum",463,"/997/8/567/688/695/1089/1080/375/463/504/",9
+"DG-mo",10703,"Dentate gyrus, molecular layer",726,"/997/8/567/688/695/1089/1080/726/10703/",8
+"DG-po",10704,"Dentate gyrus, polymorph layer",726,"/997/8/567/688/695/1089/1080/726/10704/",8
+"DG-sg",632,"Dentate gyrus, granule cell layer",726,"/997/8/567/688/695/1089/1080/726/632/",8
+"RHP",822,"Retrohippocampal region",1089,"/997/8/567/688/695/1089/822/",6
+"CTXsp",703,"Cortical subplate",688,"/997/8/567/688/703/",4
+"CP",672,"Caudoputamen",485,"/997/8/567/623/477/485/672/",6
+"CEAc",544,"Central amygdalar nucleus, capsular part",536,"/997/8/567/623/477/278/536/544/",7
+"CEAl",551,"Central amygdalar nucleus, lateral part",536,"/997/8/567/623/477/278/536/551/",7
+"CEAm",559,"Central amygdalar nucleus, medial part",536,"/997/8/567/623/477/278/536/559/",7
+"MEAad",411,"Medial amygdalar nucleus, anterodorsal part",403,"/997/8/567/623/477/278/403/411/",7
+"MEAav",418,"Medial amygdalar nucleus, anteroventral part",403,"/997/8/567/623/477/278/403/418/",7
+"GPe",1022,"Globus pallidus, external segment",818,"/997/8/567/623/803/818/1022/",6
+"GPi",1031,"Globus pallidus, internal segment",818,"/997/8/567/623/803/818/1031/",6
+"SI",342,"Substantia innominata",835,"/997/8/567/623/803/835/342/",6
+"VAL",629,"Ventral anterior-lateral complex of the thalamus",637,"/997/8/343/1129/549/864/637/629/",7
+"VM",685,"Ventral medial nucleus of the thalamus",637,"/997/8/343/1129/549/864/637/685/",7
+"VPL",718,"Ventral posterolateral nucleus of the thalamus",709,"/997/8/343/1129/549/864/637/709/718/",8
+"VPM",733,"Ventral posteromedial nucleus of the thalamus",709,"/997/8/343/1129/549/864/637/709/733/",8
+"PO",1020,"Posterior complex of the thalamus",138,"/997/8/343/1129/549/856/138/1020/",7
+"LD",155,"Lateral dorsal nucleus of thalamus",239,"/997/8/343/1129/549/856/239/155/",7
+"IMD",59,"Intermediodorsal nucleus of the thalamus",444,"/997/8/343/1129/549/856/444/59/",7
+"MDc",617,"Mediodorsal nucleus of the thalamus, central part",362,"/997/8/343/1129/549/856/444/362/617/",8
+"MDl",626,"Mediodorsal nucleus of the thalamus, lateral part",362,"/997/8/343/1129/549/856/444/362/626/",8
+"MDm",636,"Mediodorsal nucleus of the thalamus, medial part",362,"/997/8/343/1129/549/856/444/362/636/",8
+"SMT",366,"Submedial nucleus of the thalamus",444,"/997/8/343/1129/549/856/444/366/",7
+"PR",1077,"Perireunensis nucleus",444,"/997/8/343/1129/549/856/444/1077/",7
+"PVT",149,"Paraventricular nucleus of the thalamus",571,"/997/8/343/1129/549/856/571/149/",7
+"RE",181,"Nucleus of reuniens",571,"/997/8/343/1129/549/856/571/181/",7
+"CM",599,"Central medial nucleus of the thalamus",51,"/997/8/343/1129/549/856/51/599/",7
+"PCN",907,"Paracentral nucleus",51,"/997/8/343/1129/549/856/51/907/",7
+"CL",575,"Central lateral nucleus of the thalamus",51,"/997/8/343/1129/549/856/51/575/",7
+"RT",262,"Reticular nucleus of the thalamus",856,"/997/8/343/1129/549/856/262/",6
+"MH",483,"Medial habenula",958,"/997/8/343/1129/549/856/958/483/",7
+"LH",186,"Lateral habenula",958,"/997/8/343/1129/549/856/958/186/",7
+"ARH",223,"Arcuate hypothalamic nucleus",157,"/997/8/343/1129/1097/157/223/",6
+"DMHa",668,"Dorsomedial nucleus of the hypothalamus, anterior part",830,"/997/8/343/1129/1097/141/830/668/",7
+"DMHp",676,"Dorsomedial nucleus of the hypothalamus, posterior part",830,"/997/8/343/1129/1097/141/830/676/",7
+"VMHc",769,"Ventromedial hypothalamic nucleus, central part",693,"/997/8/343/1129/1097/467/693/769/",7
+"VMHdm",777,"Ventromedial hypothalamic nucleus, dorsomedial part",693,"/997/8/343/1129/1097/467/693/777/",7
+"VMHvl",785,"Ventromedial hypothalamic nucleus, ventrolateral part",693,"/997/8/343/1129/1097/467/693/785/",7
+"LHA",194,"Lateral hypothalamic area",290,"/997/8/343/1129/1097/290/194/",6
+"TU",614,"Tuberal nucleus",290,"/997/8/343/1129/1097/290/614/",6
+"ZI",797,"Zona incerta",290,"/997/8/343/1129/1097/290/797/",6
+"A13",796,"Dopaminergic A13 group",797,"/997/8/343/1129/1097/290/797/796/",7
+"ME",10671,"Median eminence",1097,"/997/8/343/1129/1097/10671/",5
+"cc",776,"corpus callosum",983,"/997/1009/983/776/",3
+"ec",579,"external capsule",956,"/997/1009/983/776/956/579/",5
+"amc",884,"amygdalar capsule",768,"/997/1009/991/768/884/",4
+"alv",466,"alveus",1099,"/997/1009/991/768/1099/466/",5
+"fi",603,"fimbria",1099,"/997/1009/991/768/1099/603/",5
+"VL",81,"lateral ventricle",73,"/997/73/81/",2

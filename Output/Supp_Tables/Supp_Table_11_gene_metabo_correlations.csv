@@ -1,0 +1,997 @@
+"Context","feat_A","feat_B","coef","n_cells_cor","feat_A_type","feat_B_type","Region","Cell_type","Metabotype","Niche","CT_Region"
+"All_cells","rna_Chat","metabo_C2H7NO3S-H",0.539270930391406,309,"RNA","Metabo",NA,NA,NA,NA,NA
+"All_cells","rna_Gpx3","metabo_C6H12O6+Cl",0.523352612689275,8331,"RNA","Metabo",NA,NA,NA,NA,NA
+"All_cells","rna_Gpx3","metabo_C2H7NO3S-H",-0.603649971610011,8333,"RNA","Metabo",NA,NA,NA,NA,NA
+"Region","rna_Ache","metabo_C6H12O6+Cl",-0.509642683845546,33,"RNA","Metabo","TU",NA,NA,NA,NA
+"Region","rna_Ache","metabo_C4H6O5-H",0.521630256467097,31,"RNA","Metabo","TU",NA,NA,NA,NA
+"Region","rna_Npy2r","metabo_C2H7NO3S-H",-0.501992030351074,48,"RNA","Metabo","CA3so",NA,NA,NA,NA
+"Region","rna_Npy2r","metabo_C5H10N2O3-H",0.609821535816154,48,"RNA","Metabo","CA3so",NA,NA,NA,NA
+"Region","rna_Rbfox3","metabo_C4H7NO4-H",0.542084879440891,82,"RNA","Metabo","CA3so",NA,NA,NA,NA
+"Region","rna_Tubb3","metabo_C6H12O9S-H",0.505008692059821,41,"RNA","Metabo","CA3so",NA,NA,NA,NA
+"Region","rna_Ndnf","metabo_C2H5O6P+Cl",0.628179354419441,31,"RNA","Metabo","OLF",NA,NA,NA,NA
+"Region","rna_Enpp2","metabo_C6H10O6-H",0.506544353785303,45,"RNA","Metabo","CTXsp",NA,NA,NA,NA
+"Region","rna_Gusb","metabo_C8H12N2O4-H",0.51763347309054,30,"RNA","Metabo","CTXsp",NA,NA,NA,NA
+"Region","rna_Hcn1","metabo_C19H37O6P-H",0.502475621749002,33,"RNA","Metabo","CTXsp",NA,NA,NA,NA
+"Region","rna_Gad2","metabo_C5H9NO3-H",-0.505499965590938,47,"RNA","Metabo","DMHp",NA,NA,NA,NA
+"Region","rna_Nefh","metabo_C7H14OS2+Cl",-0.551671428277728,33,"RNA","Metabo","DMHp",NA,NA,NA,NA
+"Region","rna_Ache","metabo_C5H9NO3-H",0.522676566715652,32,"RNA","Metabo","VMHc",NA,NA,NA,NA
+"Region","rna_Aldh2","metabo_C21H43O7P-H",0.586382835054605,40,"RNA","Metabo","VMHc",NA,NA,NA,NA
+"Region","rna_Pde7b","metabo_C28H38O4-H",0.580764741495743,32,"RNA","Metabo","VMHc",NA,NA,NA,NA
+"Region","rna_Ust","metabo_C5H4N4O2-H",0.506278094897498,43,"RNA","Metabo","VMHc",NA,NA,NA,NA
+"Region","rna_Adcyap1","metabo_C28H39NO4-H",-0.529336464480263,32,"RNA","Metabo","LHA",NA,NA,NA,NA
+"Region","rna_Pde1a","metabo_C21H43O7P-H",0.534567963028602,30,"RNA","Metabo","LHA",NA,NA,NA,NA
+"Region","rna_Plce1","metabo_C6H6O6-H",0.536530253955952,45,"RNA","Metabo","LHA",NA,NA,NA,NA
+"Region","rna_Nos1","metabo_C4H8N2O3-H",0.523929139286601,36,"RNA","Metabo","DMHa",NA,NA,NA,NA
+"Region","rna_Ogt","metabo_C6H12O7-H",-0.519361168703131,36,"RNA","Metabo","DMHa",NA,NA,NA,NA
+"Region","rna_Plce1","metabo_C6H10O7-H",0.507914066100973,31,"RNA","Metabo","DMHa",NA,NA,NA,NA
+"Region","rna_Acsbg1","metabo_C6H5IO-H",0.500893237181118,31,"RNA","Metabo","Isocortex",NA,NA,NA,NA
+"Region","rna_Gja1","metabo_C19H37O6P-H",0.505438393984874,30,"RNA","Metabo","Isocortex",NA,NA,NA,NA
+"Region","rna_Gusb","metabo_C5H9NO4-H",-0.517528159989617,30,"RNA","Metabo","CP",NA,NA,NA,NA
+"Region","rna_Slc17a7","metabo_C6H12O6+Cl",-0.506865326724263,42,"RNA","Metabo","CEAm",NA,NA,NA,NA
+"Region","rna_Sst","metabo_C2H6O8P2-H",-0.583828850989241,35,"RNA","Metabo","MEAad",NA,NA,NA,NA
+"Region","rna_Ak7","metabo_C4H7NO4-H",-0.623490237372574,42,"RNA","Metabo","VMHdm",NA,NA,NA,NA
+"Region","rna_Nefh","metabo_C5H12NO6P-H",-0.506302271563444,32,"RNA","Metabo","VMHdm",NA,NA,NA,NA
+"Region","rna_Slc17a6","metabo_C5H9O5P-H",-0.585167593718932,32,"RNA","Metabo","VMHdm",NA,NA,NA,NA
+"Region","rna_Prdx6","metabo_C6H9NO5-H",-0.504940488395451,59,"RNA","Metabo","DG-mo",NA,NA,NA,NA
+"Region","rna_Prdx6","metabo_C2H7NO3S-H",-0.543760389348047,59,"RNA","Metabo","DG-mo",NA,NA,NA,NA
+"Region","rna_Map2","metabo_C21H43O7P-H",-0.547490380321326,38,"RNA","Metabo","SMT",NA,NA,NA,NA
+"Region","rna_Soat1","metabo_H3O4P+Cl",0.504586398853006,33,"RNA","Metabo","SMT",NA,NA,NA,NA
+"Region","rna_Gja1","metabo_C2H7NO3S-H",-0.584005017339791,30,"RNA","Metabo","ARH",NA,NA,NA,NA
+"Region","rna_Gja1","metabo_C5H10N2O3-H",-0.552754435850849,30,"RNA","Metabo","ARH",NA,NA,NA,NA
+"Region","rna_Enpp2","metabo_C4H7NO4-H",0.547375631671558,78,"RNA","Metabo","VL",NA,NA,NA,NA
+"Region","rna_Gad2","metabo_C3H7NO3-H",0.54498230907372,30,"RNA","Metabo","VL",NA,NA,NA,NA
+"Region","rna_Pcp4","metabo_C4H7NO4-H",-0.511094518971431,46,"RNA","Metabo","VL",NA,NA,NA,NA
+"Region","rna_Plp1","metabo_C4H7NO3-H",-0.597473433377148,32,"RNA","Metabo","VL",NA,NA,NA,NA
+"Region","rna_B3gat1","metabo_C4H9O6P-H",-0.557006235195075,32,"RNA","Metabo","VMHvl",NA,NA,NA,NA
+"Region","rna_Plp1","metabo_C6H9NO5-H",0.521824128609973,30,"RNA","Metabo","MDc",NA,NA,NA,NA
+"Region","rna_Prdx6","metabo_C3H7O4P-H",0.531637439536173,31,"RNA","Metabo","MDc",NA,NA,NA,NA
+"Region","rna_Pcp4","metabo_C6H8O6-H",-0.5624639383985,37,"RNA","Metabo","CEAl",NA,NA,NA,NA
+"Region","rna_Pde1a","metabo_C6H9NO5-H",-0.515187652135337,127,"RNA","Metabo","RHP",NA,NA,NA,NA
+"Region","rna_Prdx6","metabo_C5H4O5-H",0.501346127642143,36,"RNA","Metabo","CA3sp",NA,NA,NA,NA
+"Region","rna_Nefh","metabo_C3H8O7P2-H",0.541262497017659,50,"RNA","Metabo","GPe",NA,NA,NA,NA
+"Region","rna_Adcyap1","metabo_C6H9NO5-H",0.507166487723677,45,"RNA","Metabo","MH",NA,NA,NA,NA
+"Region","rna_Enpp2","metabo_C6H9NO5-H",-0.623344377971986,43,"RNA","Metabo","MH",NA,NA,NA,NA
+"Region","rna_Enpp2","metabo_C2H7NO3S-H",-0.662387811017561,43,"RNA","Metabo","MH",NA,NA,NA,NA
+"Region","rna_Enpp2","metabo_C5H10N2O3-H",0.573059977764657,43,"RNA","Metabo","MH",NA,NA,NA,NA
+"Region","rna_Enpp2","metabo_C4H7NO4-H",0.566331327269983,43,"RNA","Metabo","MH",NA,NA,NA,NA
+"Region","rna_Enpp2","metabo_C5H5N5-H",0.540335241910477,42,"RNA","Metabo","MH",NA,NA,NA,NA
+"Region","rna_Enpp2","metabo_C4H6O4-H",0.530156403819206,42,"RNA","Metabo","MH",NA,NA,NA,NA
+"Region","rna_Nos1","metabo_C5H6O4-H",-0.523196987918528,39,"RNA","Metabo","MH",NA,NA,NA,NA
+"Region","rna_Prdx6","metabo_C5H10N2O3-H",0.523459816800046,104,"RNA","Metabo","MH",NA,NA,NA,NA
+"Region","rna_Hmgcr","metabo_C2H5O5P-H",0.505407971258245,32,"RNA","Metabo","DG-po",NA,NA,NA,NA
+"Region","rna_Rbfox3","metabo_C4H9N3O2-H",0.564004215290035,38,"RNA","Metabo","DG-po",NA,NA,NA,NA
+"Region","rna_Dhcr24","metabo_C6H11O9P-H",-0.518544802181073,35,"RNA","Metabo","DG-sg",NA,NA,NA,NA
+"Region","rna_Hexb","metabo_C6H8O6-H",-0.532911981170872,34,"RNA","Metabo","DG-sg",NA,NA,NA,NA
+"Region","rna_Aldh2","metabo_C2H7NO3S-H",0.553475554461828,43,"RNA","Metabo","LH",NA,NA,NA,NA
+"Region","rna_B3gat1","metabo_H3O4P+Cl",-0.528498568397564,32,"RNA","Metabo","LH",NA,NA,NA,NA
+"Region","rna_Inpp4b","metabo_C5H7NO3-H",-0.511298344036772,35,"RNA","Metabo","LH",NA,NA,NA,NA
+"Region","rna_Psap","metabo_C3H8NO5P-H",-0.529538600003219,31,"RNA","Metabo","LH",NA,NA,NA,NA
+"Region","rna_Aldoc","metabo_H3O4P+Cl",0.736996616731439,32,"RNA","Metabo","ME",NA,NA,NA,NA
+"Region","rna_Aldoc","metabo_C6H9NO5-H",-0.518637733741101,32,"RNA","Metabo","ME",NA,NA,NA,NA
+"Region","rna_Aldoc","metabo_C5H9NO4-H",-0.656482313022843,32,"RNA","Metabo","ME",NA,NA,NA,NA
+"Region","rna_Aldoc","metabo_C6H10O6+Cl",0.571223046854194,32,"RNA","Metabo","ME",NA,NA,NA,NA
+"Region","rna_Aldoc","metabo_C5H10N2O3-H",-0.570003034754907,32,"RNA","Metabo","ME",NA,NA,NA,NA
+"Region","rna_Aldoc","metabo_C4H7NO4-H",-0.595530856892308,32,"RNA","Metabo","ME",NA,NA,NA,NA
+"Region","rna_Aldoc","metabo_C2H5O4P-H",0.779953702474872,32,"RNA","Metabo","ME",NA,NA,NA,NA
+"Region","rna_Aldoc","metabo_C3H7O4P-H",0.689896660060144,32,"RNA","Metabo","ME",NA,NA,NA,NA
+"Region","rna_Aldoc","metabo_C3H7O5P-H",0.560041812610008,32,"RNA","Metabo","ME",NA,NA,NA,NA
+"Region","rna_Gad1","metabo_C2H7NO3S-H",0.595328638919548,30,"RNA","Metabo","ME",NA,NA,NA,NA
+"Region","rna_Gpx3","metabo_H3O4P+Cl",-0.512117211059575,32,"RNA","Metabo","ME",NA,NA,NA,NA
+"Region","rna_Gpx3","metabo_C5H9O7P-H",0.514989773147941,32,"RNA","Metabo","ME",NA,NA,NA,NA
+"Region","rna_Ogt","metabo_C2H5O4P-H",-0.569214632512736,31,"RNA","Metabo","ME",NA,NA,NA,NA
+"Region","rna_Syn1","metabo_C3H7O5P-H",-0.506881183207681,31,"RNA","Metabo","ME",NA,NA,NA,NA
+"Region","rna_Tubb3","metabo_H3O4P+Cl",-0.537807628320221,33,"RNA","Metabo","ME",NA,NA,NA,NA
+"Region","rna_Tubb3","metabo_C5H10N2O3-H",0.53487489525809,33,"RNA","Metabo","ME",NA,NA,NA,NA
+"Region","rna_Tubb3","metabo_C4H4O4-H",-0.584387769759881,33,"RNA","Metabo","ME",NA,NA,NA,NA
+"Region","rna_Tubb3","metabo_C2H5O4P-H",-0.508305557967424,33,"RNA","Metabo","ME",NA,NA,NA,NA
+"Region","rna_Tubb3","metabo_C3H7O5P-H",-0.600838695850543,33,"RNA","Metabo","ME",NA,NA,NA,NA
+"Region","rna_Soat1","metabo_C3H7O5P-H",-0.506968904342948,58,"RNA","Metabo","VPM",NA,NA,NA,NA
+"Region","rna_Aldh2","metabo_C10H17N3O6S-H",-0.503791475020692,34,"RNA","Metabo","RE",NA,NA,NA,NA
+"Region","rna_Hk1","metabo_C4H6O4-H",-0.535789247771954,48,"RNA","Metabo","RE",NA,NA,NA,NA
+"Region","rna_Ntrk2","metabo_C4H10NO5P-H",-0.510066581360553,55,"RNA","Metabo","RE",NA,NA,NA,NA
+"Region","rna_Dhcr24","metabo_C11H19NO9-H",0.522649907073856,40,"RNA","Metabo","VAL",NA,NA,NA,NA
+"Region","rna_Gpx3","metabo_C5H7NO3-H",0.511573792884296,34,"RNA","Metabo","VAL",NA,NA,NA,NA
+"Region","rna_Hmgcr","metabo_C21H41O7P-H",0.580957052662085,37,"RNA","Metabo","VAL",NA,NA,NA,NA
+"Region","rna_Nefh","metabo_C3H9O5P-H",0.571805307195948,46,"RNA","Metabo","VAL",NA,NA,NA,NA
+"Region","rna_Gphn","metabo_C23H46NO7P-H",0.61230191691208,31,"RNA","Metabo","SI",NA,NA,NA,NA
+"Region","rna_Map2","metabo_C2H7NO3S-H",-0.509917397070763,35,"RNA","Metabo","SI",NA,NA,NA,NA
+"Region","rna_Slc6a1","metabo_C3H8NO6P-H",-0.556976112565421,31,"RNA","Metabo","SI",NA,NA,NA,NA
+"Region","rna_Tubb3","metabo_C5H9NO4-H",0.549216392194554,30,"RNA","Metabo","SI",NA,NA,NA,NA
+"Region","rna_Tubb3","metabo_C2H8NO4P-H",-0.532215381160403,30,"RNA","Metabo","SI",NA,NA,NA,NA
+"Region","rna_Aldh2","metabo_C4H9N3O2-H",0.517462175617054,34,"RNA","Metabo","ec",NA,NA,NA,NA
+"Region","rna_Dhcr24","metabo_C4H8NO7P+Cl",0.68583069240942,36,"RNA","Metabo","RT",NA,NA,NA,NA
+"Region","rna_Acaa2","metabo_C5H9NO4-H",-0.549262607118862,57,"RNA","Metabo","MEAav",NA,NA,NA,NA
+"Region","rna_Acaa2","metabo_C6H10O6+Cl",-0.533643042392195,57,"RNA","Metabo","MEAav",NA,NA,NA,NA
+"Region","rna_Acsbg1","metabo_C6H8O7-H",0.507320389403018,41,"RNA","Metabo","MEAav",NA,NA,NA,NA
+"Region","rna_Csad","metabo_C4H10NO5P-H",0.515112397877288,34,"RNA","Metabo","MEAav",NA,NA,NA,NA
+"Region","rna_Enpp2","metabo_H3O4P+Cl",-0.506926409339555,55,"RNA","Metabo","MEAav",NA,NA,NA,NA
+"Region","rna_Enpp2","metabo_C4H7NO4-H",-0.528735930961831,56,"RNA","Metabo","MEAav",NA,NA,NA,NA
+"Region","rna_Enpp2","metabo_C5H9NO3-H",0.500567759453275,47,"RNA","Metabo","MEAav",NA,NA,NA,NA
+"Region","rna_Gad1","metabo_C5H5N5O+Cl",-0.505873003359453,36,"RNA","Metabo","MEAav",NA,NA,NA,NA
+"Region","rna_Gfap","metabo_C5H9NO4-H",-0.523629006474469,59,"RNA","Metabo","MEAav",NA,NA,NA,NA
+"Region","rna_Gfap","metabo_C4H7NO4-H",-0.645873357580596,59,"RNA","Metabo","MEAav",NA,NA,NA,NA
+"Region","rna_Gfap","metabo_C4H6O4-H",0.510043087139119,58,"RNA","Metabo","MEAav",NA,NA,NA,NA
+"Region","rna_Plce1","metabo_C5H7O6P-H",0.519054095656341,31,"RNA","Metabo","MEAav",NA,NA,NA,NA
+"Region","rna_Map2","metabo_H4O7P2+Cl",0.540846341138611,30,"RNA","Metabo","VM",NA,NA,NA,NA
+"Region","rna_Psap","metabo_C5H10N2O3-H",0.552772302910945,32,"RNA","Metabo","CA2sr",NA,NA,NA,NA
+"Region","rna_Nefh","metabo_C6H10O6+Cl",0.545235733401413,34,"RNA","Metabo","CA1so",NA,NA,NA,NA
+"Region","rna_Nefh","metabo_C2H5O4P-H",0.587577777011571,36,"RNA","Metabo","CA1so",NA,NA,NA,NA
+"Region","rna_Nefh","metabo_C7H14OS2+Cl",0.560178910486361,33,"RNA","Metabo","CA1so",NA,NA,NA,NA
+"Region","rna_Ust","metabo_C11H17NO8-H",-0.533861081231813,34,"RNA","Metabo","CA1so",NA,NA,NA,NA
+"Region","rna_Ogt","metabo_C5H5N5-H",0.616381565492786,41,"RNA","Metabo","amc",NA,NA,NA,NA
+"Region","rna_Acsbg1","metabo_C6H8O7-H",0.545840017019374,33,"RNA","Metabo","MDm",NA,NA,NA,NA
+"Region","rna_Pcp4","metabo_C6H12O6+Cl",-0.529009426614401,277,"RNA","Metabo","MDm",NA,NA,NA,NA
+"Region","rna_Enpp2","metabo_H3O4P+Cl",-0.605530184351544,32,"RNA","Metabo","fi",NA,NA,NA,NA
+"Region","rna_Enpp2","metabo_C5H9NO4-H",0.545270433182069,32,"RNA","Metabo","fi",NA,NA,NA,NA
+"Region","rna_Enpp2","metabo_C5H10N2O3-H",0.801180418730961,32,"RNA","Metabo","fi",NA,NA,NA,NA
+"Region","rna_Enpp2","metabo_C4H7NO4-H",0.761974465517728,31,"RNA","Metabo","fi",NA,NA,NA,NA
+"Region","rna_Enpp2","metabo_C5H5N5-H",0.63943289545969,32,"RNA","Metabo","fi",NA,NA,NA,NA
+"Region","rna_Enpp2","metabo_C2H8NO4P-H",-0.580705916925594,32,"RNA","Metabo","fi",NA,NA,NA,NA
+"Region","rna_Enpp2","metabo_C3H7O5P-H",-0.645158719434672,31,"RNA","Metabo","fi",NA,NA,NA,NA
+"Region","rna_Psap","metabo_C5H10N2O3-H",0.666014116704504,126,"RNA","Metabo","fi",NA,NA,NA,NA
+"Region","rna_Psap","metabo_C4H7NO4-H",0.515926965189789,122,"RNA","Metabo","fi",NA,NA,NA,NA
+"Region","rna_Psap","metabo_C4H6O5-H",0.514023734625136,73,"RNA","Metabo","fi",NA,NA,NA,NA
+"Region","rna_Gad2","metabo_C7H14OS2+Cl",0.535487213204258,33,"RNA","Metabo","A13",NA,NA,NA,NA
+"Region","rna_Aldoc","metabo_C8H13NO5-H",-0.505840156596653,33,"RNA","Metabo","LD",NA,NA,NA,NA
+"Region","rna_Ogt","metabo_C6H6O6-H",-0.657458114431568,31,"RNA","Metabo","LD",NA,NA,NA,NA
+"Region","rna_Map2","metabo_C30H41NO4-H",-0.510968173110411,51,"RNA","Metabo","PO",NA,NA,NA,NA
+"Region","rna_Slc17a7","metabo_C4H12NO4P-H",0.56368243835392,30,"RNA","Metabo","PO",NA,NA,NA,NA
+"Region","rna_Hmgcr","metabo_C6H9NO5-H",0.576513028626834,54,"RNA","Metabo","PVT",NA,NA,NA,NA
+"Region","rna_Hmgcr","metabo_C4H7NO4-H",-0.616627598991381,54,"RNA","Metabo","PVT",NA,NA,NA,NA
+"Region","rna_Hmgcr","metabo_C3H8NO6P+Cl",0.55975038266436,52,"RNA","Metabo","PVT",NA,NA,NA,NA
+"Region","rna_Pcp4","metabo_H3O4P+Cl",0.572608817063153,41,"RNA","Metabo","PVT",NA,NA,NA,NA
+"Region","rna_Pcp4","metabo_C6H9NO5-H",-0.783016629290187,41,"RNA","Metabo","PVT",NA,NA,NA,NA
+"Region","rna_Pcp4","metabo_C2H7NO3S-H",0.654334562591559,41,"RNA","Metabo","PVT",NA,NA,NA,NA
+"Region","rna_Pcp4","metabo_C6H8O7+Cl",-0.623818647257068,41,"RNA","Metabo","PVT",NA,NA,NA,NA
+"Region","rna_Pcp4","metabo_C4H7NO4-H",0.709250126829409,41,"RNA","Metabo","PVT",NA,NA,NA,NA
+"Region","rna_Pcp4","metabo_C5H9NO3-H",-0.599448254496634,38,"RNA","Metabo","PVT",NA,NA,NA,NA
+"Region","rna_Pcp4","metabo_C3H9O6P-H",0.547671441226922,41,"RNA","Metabo","PVT",NA,NA,NA,NA
+"Region","rna_Pcp4","metabo_C10H17NO7+Cl",-0.730146660605836,41,"RNA","Metabo","PVT",NA,NA,NA,NA
+"Region","rna_Pcp4","metabo_C7H14OS2+Cl",0.563665178111954,40,"RNA","Metabo","PVT",NA,NA,NA,NA
+"Region","rna_Slc17a6","metabo_C6H9NO5-H",0.745968326695208,55,"RNA","Metabo","PVT",NA,NA,NA,NA
+"Region","rna_Slc17a6","metabo_C6H8O7+Cl",0.551824967353381,55,"RNA","Metabo","PVT",NA,NA,NA,NA
+"Region","rna_Slc17a6","metabo_C4H7NO4-H",-0.664771040732001,55,"RNA","Metabo","PVT",NA,NA,NA,NA
+"Region","rna_Tubb3","metabo_C6H9NO5-H",0.600051819053738,60,"RNA","Metabo","PVT",NA,NA,NA,NA
+"Region","rna_Tubb3","metabo_C10H17NO7+Cl",0.525600795167615,60,"RNA","Metabo","PVT",NA,NA,NA,NA
+"Region","rna_Galntl6","metabo_C28H38O4-H",0.503841016289121,35,"RNA","Metabo","CA1sp",NA,NA,NA,NA
+"Region","rna_Nos1","metabo_C5H7NO4-H",0.56358630340036,40,"RNA","Metabo","CA1sp",NA,NA,NA,NA
+"Region","rna_Npy2r","metabo_C5H6O5-H",0.674055714575462,30,"RNA","Metabo","CA1sp",NA,NA,NA,NA
+"Region","rna_Aldh2","metabo_C6H10N2O4-H",0.538308378374389,33,"RNA","Metabo","CA2sp",NA,NA,NA,NA
+"Region","rna_Ntrk2","metabo_C6H9NO4-H",0.507621079313005,32,"RNA","Metabo","CA2sp",NA,NA,NA,NA
+"Region","rna_Pde1a","metabo_C8H12N2O4-H",0.504447678380649,43,"RNA","Metabo","CA2sp",NA,NA,NA,NA
+"Region","rna_Gphn","metabo_C4H9NO2-H",0.504627049431756,42,"RNA","Metabo","CM",NA,NA,NA,NA
+"Region","rna_Rbfox3","metabo_C6H8O6-H",0.53401269574204,31,"RNA","Metabo","CM",NA,NA,NA,NA
+"Celltype","rna_Pdyn","metabo_C6H9NO5-H",-0.506048524105582,46,"RNA","Metabo",NA,"Astrocytes",NA,NA,NA
+"Celltype","rna_Pdyn","metabo_CH3O5P+Cl",0.524166400257993,48,"RNA","Metabo",NA,"Astrocytes",NA,NA,NA
+"Celltype","rna_B3galt1","metabo_C5H4N4-H",0.523828044601574,32,"RNA","Metabo",NA,"Excit_HPF",NA,NA,NA
+"Celltype","rna_Chat","metabo_C2H7NO3S-H",0.582557496926705,72,"RNA","Metabo",NA,"Inhib_CTX",NA,NA,NA
+"Celltype","rna_Gpx3","metabo_C2H7NO3S-H",-0.537630379775737,2779,"RNA","Metabo",NA,"Inhib_CTX",NA,NA,NA
+"Celltype","rna_Gpx3","metabo_C4H7NO4-H",0.515393970973093,2767,"RNA","Metabo",NA,"Inhib_CTX",NA,NA,NA
+"Celltype","rna_Pcp4","metabo_C6H12O6+Cl",-0.505013666889472,4093,"RNA","Metabo",NA,"Inhib_CTX",NA,NA,NA
+"Celltype","rna_Pcp4","metabo_C2H7NO3S-H",0.501717440078244,4095,"RNA","Metabo",NA,"Inhib_CTX",NA,NA,NA
+"Celltype","rna_Pde7b","metabo_C2H7NO3S-H",0.607152851000501,2834,"RNA","Metabo",NA,"Inhib_CTX",NA,NA,NA
+"Celltype","rna_Pde7b","metabo_C4H7NO4-H",-0.555133447384292,2746,"RNA","Metabo",NA,"Inhib_CTX",NA,NA,NA
+"Celltype","rna_Rrm2","metabo_C4H9N3O2+Cl",0.552000035139609,30,"RNA","Metabo",NA,"Inhib_CTX",NA,NA,NA
+"Celltype","rna_Chat","metabo_C2H7NO3S-H",0.529994178017456,194,"RNA","Metabo",NA,"Excit_VGLUT2",NA,NA,NA
+"Celltype","rna_Neurod1","metabo_C4H7NO4-H",0.637241198025402,465,"RNA","Metabo",NA,"Excit_VGLUT2",NA,NA,NA
+"Celltype","rna_Neurod1","metabo_C5H5N5-H",0.524764648338773,462,"RNA","Metabo",NA,"Excit_VGLUT2",NA,NA,NA
+"Celltype","rna_Neurod1","metabo_C10H17NO7+Cl",-0.520659864057195,406,"RNA","Metabo",NA,"Excit_VGLUT2",NA,NA,NA
+"Celltype","rna_Plce1","metabo_C7H11N3O4-H",-0.546061893659054,38,"RNA","Metabo",NA,"Excit_VGLUT2",NA,NA,NA
+"Celltype","rna_Slc17a7","metabo_C2H7NO3S-H",0.546342013068572,506,"RNA","Metabo",NA,"Excit_VGLUT2",NA,NA,NA
+"Celltype","rna_B3galt1","metabo_C10H14N5O7P-H",0.54545375053715,37,"RNA","Metabo",NA,"Ventricular systems Glial cells",NA,NA,NA
+"Celltype","rna_Hdc","metabo_H4O7P2+Cl",0.50711483633891,32,"RNA","Metabo",NA,"Ventricular systems Glial cells",NA,NA,NA
+"Celltype","rna_Ache","metabo_C5H9NO4-H",-0.625028439063994,55,"RNA","Metabo",NA,"Excit_CTX",NA,NA,NA
+"Celltype","rna_Ache","metabo_C3H9O6P-H",0.523937057382652,51,"RNA","Metabo",NA,"Excit_CTX",NA,NA,NA
+"Celltype","rna_Man1a","metabo_C7H14OS2+Cl",0.516086184220558,31,"RNA","Metabo",NA,"Inhib_Interneurons",NA,NA,NA
+"Celltype","rna_Acaa2","metabo_C6H8O7+Cl",0.512175307360606,36,"RNA","Metabo",NA,"Thalamic Neurons",NA,NA,NA
+"Celltype","rna_Acaa2","metabo_CH5O4P-H",-0.506263933028401,32,"RNA","Metabo",NA,"Thalamic Neurons",NA,NA,NA
+"Celltype","rna_Gad1","metabo_H3O4P+Cl",-0.50590310655067,30,"RNA","Metabo",NA,"Thalamic Neurons",NA,NA,NA
+"Celltype","rna_Galntl6","metabo_C6H12O6+Cl",0.577907147429254,57,"RNA","Metabo",NA,"Thalamic Neurons",NA,NA,NA
+"Celltype","rna_Gda","metabo_C6H8O7+Cl",0.514561085764588,33,"RNA","Metabo",NA,"Thalamic Neurons",NA,NA,NA
+"Celltype","rna_Gda","metabo_C5H5N5-H",0.510121678958794,37,"RNA","Metabo",NA,"Thalamic Neurons",NA,NA,NA
+"Celltype","rna_Gpx3","metabo_C6H12O6+Cl",0.567286940699239,248,"RNA","Metabo",NA,"Thalamic Neurons",NA,NA,NA
+"Celltype","rna_Gpx3","metabo_C11H16N2O8-H",0.52573130074251,69,"RNA","Metabo",NA,"Thalamic Neurons",NA,NA,NA
+"Celltype","rna_Neurod1","metabo_C5H5N5-H",0.525625367579204,53,"RNA","Metabo",NA,"Thalamic Neurons",NA,NA,NA
+"Celltype","rna_P2rx3","metabo_C23H48NO7P-H",0.518937236214176,30,"RNA","Metabo",NA,"Thalamic Neurons",NA,NA,NA
+"Celltype","rna_Pde1a","metabo_C6H12O6+Cl",0.514730588184689,94,"RNA","Metabo",NA,"Thalamic Neurons",NA,NA,NA
+"Celltype","rna_Enpp2","metabo_C23H46NO7P-H",0.506619769643986,31,"RNA","Metabo",NA,"Microglia",NA,NA,NA
+"Celltype","rna_Gpx3","metabo_C2H7NO3S-H",-0.56575892105576,197,"RNA","Metabo",NA,"Microglia",NA,NA,NA
+"Celltype","rna_Gpx3","metabo_C5H9NO4-H",-0.584391187257708,196,"RNA","Metabo",NA,"Microglia",NA,NA,NA
+"Celltype","rna_Gusb","metabo_C6H10O8S-H",0.54581256622556,49,"RNA","Metabo",NA,"Microglia",NA,NA,NA
+"Celltype","rna_Nos1","metabo_C6H12O9S-H",0.566980399309151,67,"RNA","Metabo",NA,"Microglia",NA,NA,NA
+"Celltype","rna_Pde7b","metabo_C8H15NO9S-H",0.572232977209393,31,"RNA","Metabo",NA,"Microglia",NA,NA,NA
+"Celltype","rna_Pde7b","metabo_C6H10O8S-H",0.52816206923173,32,"RNA","Metabo",NA,"Microglia",NA,NA,NA
+"Celltype","rna_Slc17a6","metabo_C2H7NO3S-H",-0.593512827628779,90,"RNA","Metabo",NA,"Microglia",NA,NA,NA
+"Celltype","rna_Slc17a6","metabo_C5H9NO4-H",-0.556828534294832,89,"RNA","Metabo",NA,"Microglia",NA,NA,NA
+"Metabotype","rna_Ptgs2","metabo_C4H7NO4-H",-0.524478643816657,37,"RNA","Metabo",NA,NA,"Met.2",NA,NA
+"Metabotype","rna_Slc17a7","metabo_C2H7NO3S-H",0.688048309127192,294,"RNA","Metabo",NA,NA,"Met.2",NA,NA
+"Metabotype","rna_Sncg","metabo_H3O4P+Cl",-0.500231804298422,47,"RNA","Metabo",NA,NA,"Met.9",NA,NA
+"Metabotype","rna_Arg1","metabo_C2H8NO4P-H",-0.548978824376099,32,"RNA","Metabo",NA,NA,"Met.7",NA,NA
+"Metabotype","rna_Gja1","metabo_C3H7O5P-H",0.597502794567011,30,"RNA","Metabo",NA,NA,"Met.7",NA,NA
+"Metabotype","rna_Hcn1","metabo_C5H4N4O2-H",0.503575958181209,38,"RNA","Metabo",NA,NA,"Met.7",NA,NA
+"Metabotype","rna_Ak7","metabo_C3H9O6P-H",0.58517112873374,34,"RNA","Metabo",NA,NA,"Met.1",NA,NA
+"Metabotype","rna_Ak7","metabo_C10H17NO7+Cl",-0.51824090290997,37,"RNA","Metabo",NA,NA,"Met.1",NA,NA
+"Metabotype","rna_Gusb","metabo_C6H10O8S-H",0.532083669030762,33,"RNA","Metabo",NA,NA,"Met.1",NA,NA
+"Metabotype","rna_Lpl","metabo_C2H4O5S-H",0.571347679550628,31,"RNA","Metabo",NA,NA,"Met.1",NA,NA
+"Metabotype","rna_Slc17a6","metabo_C2H7NO3S-H",-0.525500798101771,644,"RNA","Metabo",NA,NA,"Met.1",NA,NA
+"Metabotype","rna_Gad1","metabo_C6H9NO5-H",0.52145401156344,66,"RNA","Metabo",NA,NA,"Met.10",NA,NA
+"Metabotype","rna_Galntl6","metabo_C12H10O4S-H",0.523189302470211,33,"RNA","Metabo",NA,NA,"Met.10",NA,NA
+"Metabotype","rna_Gfap","metabo_C4H7NO4-H",-0.558926555899712,204,"RNA","Metabo",NA,NA,"Met.10",NA,NA
+"Metabotype","rna_Laptm5","metabo_C3H8NO6P+Cl",0.52145969280303,30,"RNA","Metabo",NA,NA,"Met.10",NA,NA
+"Metabotype","rna_Aldh2","metabo_C2H7NO3S-H",0.597907388337571,284,"RNA","Metabo",NA,NA,"Met.12",NA,NA
+"Metabotype","rna_Aldh2","metabo_C4H7NO4-H",-0.513940217779413,284,"RNA","Metabo",NA,NA,"Met.12",NA,NA
+"Metabotype","rna_Gfap","metabo_C11H19NO9-H",0.51210578303676,36,"RNA","Metabo",NA,NA,"Met.12",NA,NA
+"Metabotype","rna_Map2","metabo_C2H7NO3S-H",-0.642290083644779,297,"RNA","Metabo",NA,NA,"Met.12",NA,NA
+"Metabotype","rna_Map2","metabo_C4H7NO4-H",0.543851188473771,297,"RNA","Metabo",NA,NA,"Met.12",NA,NA
+"Metabotype","rna_Nos1","metabo_C10H17N3O6S-H",0.526944490648232,52,"RNA","Metabo",NA,NA,"Met.12",NA,NA
+"Metabotype","rna_Nos1","metabo_C12H13N5O2S-H",0.502466975438495,41,"RNA","Metabo",NA,NA,"Met.12",NA,NA
+"Metabotype","rna_Syn1","metabo_C2H7NO3S-H",-0.56902924372457,146,"RNA","Metabo",NA,NA,"Met.12",NA,NA
+"Metabotype","rna_Etnppl","metabo_C6H12O6+Cl",0.560173900424699,33,"RNA","Metabo",NA,NA,"Met.3",NA,NA
+"Metabotype","rna_Etnppl","metabo_C2H8NO4P-H",0.559698153593079,33,"RNA","Metabo",NA,NA,"Met.3",NA,NA
+"Metabotype","rna_Pdyn","metabo_C5H5N5+Cl",-0.518476936287078,41,"RNA","Metabo",NA,NA,"Met.3",NA,NA
+"Metabotype","rna_Pdyn","metabo_C3H8O7P2-H",-0.507956266393747,38,"RNA","Metabo",NA,NA,"Met.3",NA,NA
+"Metabotype","rna_Plce1","metabo_C7H12N2O3-H",0.642286176654479,38,"RNA","Metabo",NA,NA,"Met.3",NA,NA
+"Metabotype","rna_Trh","metabo_C6H12O9S-H",0.556080088464939,57,"RNA","Metabo",NA,NA,"Met.3",NA,NA
+"Metabotype","rna_Cyp51","metabo_C2H6O8P2-H",-0.530485720716196,37,"RNA","Metabo",NA,NA,"Met.8",NA,NA
+"Metabotype","rna_Gpx3","metabo_C2H7NO3S-H",-0.546672683419558,357,"RNA","Metabo",NA,NA,"Met.8",NA,NA
+"Metabotype","rna_Pvalb","metabo_C2H7NO3S-H",0.534094870942966,111,"RNA","Metabo",NA,NA,"Met.8",NA,NA
+"Metabotype","rna_Slc17a7","metabo_C2H7NO3S-H",0.58698285616246,648,"RNA","Metabo",NA,NA,"Met.8",NA,NA
+"Metabotype","rna_Trh","metabo_C5H14NO6P-H",0.521660337326764,51,"RNA","Metabo",NA,NA,"Met.8",NA,NA
+"Metabotype","rna_Adcyap1","metabo_C6H12O6+Cl",0.511625063488,70,"RNA","Metabo",NA,NA,"Met.4",NA,NA
+"Metabotype","rna_Adcyap1","metabo_C5H9NO4-H",-0.585796432427961,69,"RNA","Metabo",NA,NA,"Met.4",NA,NA
+"Metabotype","rna_Calca","metabo_H4O7P2+Cl",0.554132194331457,32,"RNA","Metabo",NA,NA,"Met.4",NA,NA
+"Metabotype","rna_Pvalb","metabo_C2H7NO3S-H",0.606678538913433,301,"RNA","Metabo",NA,NA,"Met.4",NA,NA
+"Metabotype","rna_Rbfox3","metabo_C2H7NO3S-H",0.523490658465323,2069,"RNA","Metabo",NA,NA,"Met.4",NA,NA
+"Metabotype","rna_Slc17a7","metabo_C2H7NO3S-H",0.647160231346112,1952,"RNA","Metabo",NA,NA,"Met.4",NA,NA
+"Metabotype","rna_Sncg","metabo_C4H7NO3-H",0.51804397679787,41,"RNA","Metabo",NA,NA,"Met.4",NA,NA
+"Metabotype","rna_Sst","metabo_C5H5N5-H",-0.563809945731485,65,"RNA","Metabo",NA,NA,"Met.4",NA,NA
+"Metabotype","rna_Cyp51","metabo_C4H8NO7P+Cl",0.53746524936597,33,"RNA","Metabo",NA,NA,"Met.6",NA,NA
+"Metabotype","rna_Gda","metabo_C6H5IO-H",-0.568116732313612,34,"RNA","Metabo",NA,NA,"Met.6",NA,NA
+"Metabotype","rna_Ndst4","metabo_C2H7NO3S-H",0.518996541682495,41,"RNA","Metabo",NA,NA,"Met.6",NA,NA
+"Metabotype","rna_Pde7b","metabo_C2H7NO3S-H",0.641880706271567,534,"RNA","Metabo",NA,NA,"Met.6",NA,NA
+"Metabotype","rna_Pde7b","metabo_C4H7NO4-H",-0.534584866231406,533,"RNA","Metabo",NA,NA,"Met.6",NA,NA
+"Metabotype","rna_Slc17a7","metabo_C2H7NO3S-H",0.693035661121104,398,"RNA","Metabo",NA,NA,"Met.6",NA,NA
+"Metabotype","rna_Adcyap1","metabo_C6H12O6+Cl",0.506992427198144,127,"RNA","Metabo",NA,NA,"Met.5",NA,NA
+"Metabotype","rna_Egfr","metabo_C5H14NO6P-H",0.535172794739081,38,"RNA","Metabo",NA,NA,"Met.5",NA,NA
+"Metabotype","rna_Gpx3","metabo_C6H12O6+Cl",0.516291321804039,538,"RNA","Metabo",NA,NA,"Met.5",NA,NA
+"Metabotype","rna_Gpx3","metabo_C2H7NO3S-H",-0.529871903755411,539,"RNA","Metabo",NA,NA,"Met.5",NA,NA
+"Metabotype","rna_Ndnf","metabo_C4H7NO4-H",-0.644239799456654,35,"RNA","Metabo",NA,NA,"Met.5",NA,NA
+"Metabotype","rna_Rdh5","metabo_C3H7O4P-H",0.500733713325093,32,"RNA","Metabo",NA,NA,"Met.5",NA,NA
+"Metabotype","rna_Trh","metabo_C5H9NO4-H",-0.524720088770647,74,"RNA","Metabo",NA,NA,"Met.5",NA,NA
+"Metabotype","rna_Hsd11b1","metabo_C10H17NO7+Cl",0.561080142863988,31,"RNA","Metabo",NA,NA,"Met.11",NA,NA
+"Metabotype","rna_Hk1","metabo_C4H6O5-H",-0.538061868531835,33,"RNA","Metabo",NA,NA,"Met.13",NA,NA
+"Niches","rna_Gphn","metabo_C6H8O7+Cl",0.520338644091028,32,"RNA","Metabo",NA,NA,NA,"CA3so_1",NA
+"Niches","rna_Gphn","metabo_C5H7NO3-H",0.568228800176803,33,"RNA","Metabo",NA,NA,NA,"CA3so_1",NA
+"Niches","rna_Psap","metabo_C6H13O9P-H",0.710106465925829,33,"RNA","Metabo",NA,NA,NA,"CA3so_1",NA
+"Niches","rna_Soat1","metabo_C4H9N3O2+Cl",-0.509980913336988,31,"RNA","Metabo",NA,NA,NA,"OLF_1",NA
+"Niches","rna_Psap","metabo_C6H10N2O4-H",0.633409879837037,35,"RNA","Metabo",NA,NA,NA,"CEAc_1",NA
+"Niches","rna_Gda","metabo_C8H7O4-H",-0.530169058114975,37,"RNA","Metabo",NA,NA,NA,"CTXsp_1",NA
+"Niches","rna_Slc17a6","metabo_C5H12NO4P-H",-0.514745594324639,30,"RNA","Metabo",NA,NA,NA,"DMHp_1",NA
+"Niches","rna_Slc6a1","metabo_C4H6O5-H",-0.509729074358344,37,"RNA","Metabo",NA,NA,NA,"DMHp_1",NA
+"Niches","rna_Sncg","metabo_H3O4P+Cl",-0.508852534498577,32,"RNA","Metabo",NA,NA,NA,"VMHc_1",NA
+"Niches","rna_Gad1","metabo_C7H12N2O3-H",0.545668833452306,31,"RNA","Metabo",NA,NA,NA,"LHA_1",NA
+"Niches","rna_Nefh","metabo_C5H7NO3-H",-0.600638128473542,35,"RNA","Metabo",NA,NA,NA,"DMHa_1",NA
+"Niches","rna_Slc17a6","metabo_C5H7NO4-H",-0.543911981763293,35,"RNA","Metabo",NA,NA,NA,"DMHa_1",NA
+"Niches","rna_Hsd11b1","metabo_C6H8O6-H",0.530160326923974,30,"RNA","Metabo",NA,NA,NA,"Isocortex_1",NA
+"Niches","rna_Lpl","metabo_C4H9N3O2+Cl",0.525973880939805,35,"RNA","Metabo",NA,NA,NA,"Isocortex_1",NA
+"Niches","rna_Man2b1","metabo_C2H8NO4P+Cl",-0.534260182061664,37,"RNA","Metabo",NA,NA,NA,"Isocortex_1",NA
+"Niches","rna_Pcp4","metabo_C3H7O6P-H",0.568059134340814,33,"RNA","Metabo",NA,NA,NA,"Isocortex_1",NA
+"Niches","rna_Soat1","metabo_C3H8NO5P-H",0.557840592978534,42,"RNA","Metabo",NA,NA,NA,"Isocortex_1",NA
+"Niches","rna_Pcp4","metabo_C4H8N2O3-H",-0.543262781644709,30,"RNA","Metabo",NA,NA,NA,"Isocortex_11",NA
+"Niches","rna_Psap","metabo_C21H39O6P-H",-0.670247866251093,34,"RNA","Metabo",NA,NA,NA,"Isocortex_11",NA
+"Niches","rna_Soat1","metabo_C10H17NO7+Cl",0.533454153045791,30,"RNA","Metabo",NA,NA,NA,"Isocortex_11",NA
+"Niches","rna_Gda","metabo_C5H8O6-H",0.500306428112133,33,"RNA","Metabo",NA,NA,NA,"CEAm_1",NA
+"Niches","rna_Gpx3","metabo_C4H12NO4P-H",0.521228577158871,32,"RNA","Metabo",NA,NA,NA,"CEAm_1",NA
+"Niches","rna_Ntrk2","metabo_C6H12O6+Cl",0.510362364405279,96,"RNA","Metabo",NA,NA,NA,"CEAm_1",NA
+"Niches","rna_Soat1","metabo_C6H9NO5-H",0.627769424287083,34,"RNA","Metabo",NA,NA,NA,"CEAm_1",NA
+"Niches","rna_Aldh1l1","metabo_C6H12O6+Cl",0.515983042963104,32,"RNA","Metabo",NA,NA,NA,"Isocortex_14",NA
+"Niches","rna_Rbfox3","metabo_C10H15N5O10P2-H",0.50570587426053,32,"RNA","Metabo",NA,NA,NA,"Isocortex_14",NA
+"Niches","rna_Slc17a7","metabo_C10H15N5O10P2-H",0.531801038094305,32,"RNA","Metabo",NA,NA,NA,"Isocortex_14",NA
+"Niches","rna_Nos1","metabo_C5H10NO7P-H",-0.539549070529779,30,"RNA","Metabo",NA,NA,NA,"MEAad_1",NA
+"Niches","rna_Psap","metabo_C5H4N4O2-H",-0.509457210021245,30,"RNA","Metabo",NA,NA,NA,"MEAad_1",NA
+"Niches","rna_Gad2","metabo_C6H8O7-H",0.508084135355607,32,"RNA","Metabo",NA,NA,NA,"VMHdm_1",NA
+"Niches","rna_Soat1","metabo_C4H9N3O2-H",0.584354250943476,30,"RNA","Metabo",NA,NA,NA,"VMHdm_1",NA
+"Niches","rna_Hmgcr","metabo_C6H9NO4-H",0.538472088380683,30,"RNA","Metabo",NA,NA,NA,"CTXsp_8",NA
+"Niches","rna_Man1a","metabo_C5H9NO4-H",0.508540335443724,43,"RNA","Metabo",NA,NA,NA,"CTXsp_8",NA
+"Niches","rna_Soat1","metabo_C7H14OS2+Cl",-0.530431026424862,33,"RNA","Metabo",NA,NA,NA,"CTXsp_8",NA
+"Niches","rna_Tubb3","metabo_C4H10NO5P-H",0.538142286980524,30,"RNA","Metabo",NA,NA,NA,"SMT_1",NA
+"Niches","rna_Aldh2","metabo_C6H9NO5-H",-0.526891862740443,31,"RNA","Metabo",NA,NA,NA,"CP_2",NA
+"Niches","rna_Aldh2","metabo_C6H12O6+Cl",0.509687917284644,31,"RNA","Metabo",NA,NA,NA,"CP_2",NA
+"Niches","rna_Aldh2","metabo_C2H8NO4P-H",0.555747781289959,31,"RNA","Metabo",NA,NA,NA,"CP_2",NA
+"Niches","rna_Pcp4","metabo_C23H48NO7P-H",-0.51160485326054,32,"RNA","Metabo",NA,NA,NA,"CP_2",NA
+"Niches","rna_Dhcr24","metabo_C4H9NO2-H",0.525689049129237,31,"RNA","Metabo",NA,NA,NA,"ARH_1",NA
+"Niches","rna_Fdft1","metabo_C6H10O6+Cl",0.524428023085395,31,"RNA","Metabo",NA,NA,NA,"ARH_1",NA
+"Niches","rna_Prdx6","metabo_C2H7NO3S-H",0.500435076888567,82,"RNA","Metabo",NA,NA,NA,"ARH_1",NA
+"Niches","rna_Sst","metabo_C6H10O6+Cl",0.541218208004344,30,"RNA","Metabo",NA,NA,NA,"ARH_1",NA
+"Niches","rna_Map2","metabo_C6H7O6-H",0.550743958523765,34,"RNA","Metabo",NA,NA,NA,"ARH_2",NA
+"Niches","rna_Prdx6","metabo_C7H12N2O3-H",-0.523414838786565,56,"RNA","Metabo",NA,NA,NA,"ARH_2",NA
+"Niches","rna_Sst","metabo_C7H14OS2+Cl",0.520268129156255,31,"RNA","Metabo",NA,NA,NA,"ARH_2",NA
+"Niches","rna_Slc17a6","metabo_H2Na2O7P2+Cl",-0.508717722411761,34,"RNA","Metabo",NA,NA,NA,"ARH_3",NA
+"Niches","rna_Aldh2","metabo_C2H7NO3S-H",-0.512243654061024,93,"RNA","Metabo",NA,NA,NA,"OLF_2",NA
+"Niches","rna_Aldh2","metabo_C4H7NO4-H",-0.508873872720135,93,"RNA","Metabo",NA,NA,NA,"OLF_2",NA
+"Niches","rna_Gfap","metabo_C10H17NO7+Cl",0.520018998667126,36,"RNA","Metabo",NA,NA,NA,"OLF_2",NA
+"Niches","rna_Ndst4","metabo_C3H8NO6P+Cl",0.514075830308635,40,"RNA","Metabo",NA,NA,NA,"OLF_2",NA
+"Niches","rna_Pde1a","metabo_C8H7O4-H",-0.508210952606324,34,"RNA","Metabo",NA,NA,NA,"OLF_2",NA
+"Niches","rna_Ust","metabo_C3H8NO6P-H",0.615789361439514,35,"RNA","Metabo",NA,NA,NA,"OLF_2",NA
+"Niches","rna_Acsbg1","metabo_H3O4P+Cl",0.500369469026573,40,"RNA","Metabo",NA,NA,NA,"OLF_3",NA
+"Niches","rna_Acsbg1","metabo_C2H7NO3S-H",-0.64469933702994,40,"RNA","Metabo",NA,NA,NA,"OLF_3",NA
+"Niches","rna_Acsbg1","metabo_C2H8NO4P-H",0.577204876562446,40,"RNA","Metabo",NA,NA,NA,"OLF_3",NA
+"Niches","rna_Acsbg1","metabo_C5H9NO3-H",-0.550693980479985,40,"RNA","Metabo",NA,NA,NA,"OLF_3",NA
+"Niches","rna_Acsbg1","metabo_H4O7P2-H",0.661362031037646,40,"RNA","Metabo",NA,NA,NA,"OLF_3",NA
+"Niches","rna_Acsbg1","metabo_C2H5O4P-H",0.536821678101247,40,"RNA","Metabo",NA,NA,NA,"OLF_3",NA
+"Niches","rna_Acsbg1","metabo_C3H7O4P-H",0.569391684680336,37,"RNA","Metabo",NA,NA,NA,"OLF_3",NA
+"Niches","rna_Acsbg1","metabo_C3H5O5P-H",0.502781371124661,30,"RNA","Metabo",NA,NA,NA,"OLF_3",NA
+"Niches","rna_Aldh1l1","metabo_C2H7NO3S-H",-0.632210821173143,53,"RNA","Metabo",NA,NA,NA,"OLF_3",NA
+"Niches","rna_Aldh1l1","metabo_H4O7P2-H",0.518760483963929,53,"RNA","Metabo",NA,NA,NA,"OLF_3",NA
+"Niches","rna_Aldh1l1","metabo_C10H17NO7+Cl",0.678747434992853,34,"RNA","Metabo",NA,NA,NA,"OLF_3",NA
+"Niches","rna_Aldh2","metabo_C2H7NO3S-H",0.59028165100613,77,"RNA","Metabo",NA,NA,NA,"OLF_3",NA
+"Niches","rna_Aldh2","metabo_H4O7P2-H",-0.583486697799655,77,"RNA","Metabo",NA,NA,NA,"OLF_3",NA
+"Niches","rna_Aldh2","metabo_C5H12NO4P-H",-0.541227734409474,35,"RNA","Metabo",NA,NA,NA,"OLF_3",NA
+"Niches","rna_Dhcr24","metabo_C6H8O5-H",-0.573379962049187,38,"RNA","Metabo",NA,NA,NA,"OLF_3",NA
+"Niches","rna_Gfap","metabo_C10H17NO7+Cl",-0.52828613732125,47,"RNA","Metabo",NA,NA,NA,"OLF_3",NA
+"Niches","rna_Gfap","metabo_C5H12NO4P-H",-0.531458611539141,40,"RNA","Metabo",NA,NA,NA,"OLF_3",NA
+"Niches","rna_Hmgcr","metabo_C6H13O9P-H",0.520281399591492,42,"RNA","Metabo",NA,NA,NA,"OLF_3",NA
+"Niches","rna_Map2","metabo_C2H7NO3S-H",-0.5287420619895,77,"RNA","Metabo",NA,NA,NA,"OLF_3",NA
+"Niches","rna_Map2","metabo_C5H9NO4-H",0.604113879499051,77,"RNA","Metabo",NA,NA,NA,"OLF_3",NA
+"Niches","rna_Ntrk2","metabo_C2H8NO4P+Cl",0.519766196445414,56,"RNA","Metabo",NA,NA,NA,"OLF_3",NA
+"Niches","rna_Ntrk2","metabo_CH5O4P-H",0.501201841066517,41,"RNA","Metabo",NA,NA,NA,"OLF_3",NA
+"Niches","rna_Ntrk2","metabo_C6H5O4+Cl",0.525310091966974,54,"RNA","Metabo",NA,NA,NA,"OLF_3",NA
+"Niches","rna_Pde1a","metabo_C5H5N5O-H",-0.573659098537935,31,"RNA","Metabo",NA,NA,NA,"CTXsp_3",NA
+"Niches","rna_Tubb3","metabo_C5H5N5-H",0.538273268886812,55,"RNA","Metabo",NA,NA,NA,"LHA_2",NA
+"Niches","rna_Pcp4","metabo_C2H8NO4P-H",-0.511528972976734,33,"RNA","Metabo",NA,NA,NA,"MEAad_3",NA
+"Niches","rna_Tubb3","metabo_C5H6O5-H",-0.566462975622791,32,"RNA","Metabo",NA,NA,NA,"MEAad_3",NA
+"Niches","rna_Aldh2","metabo_C10H17NO7+Cl",0.521104318119897,31,"RNA","Metabo",NA,NA,NA,"TU_2",NA
+"Niches","rna_Ntrk2","metabo_C30H41NO4-H",-0.589970020463536,40,"RNA","Metabo",NA,NA,NA,"TU_2",NA
+"Niches","rna_Gda","metabo_C5H9NO4-H",-0.533009023548843,33,"RNA","Metabo",NA,NA,NA,"DMHa_2",NA
+"Niches","rna_Tubb3","metabo_C4H7NO3-H",0.515677074087573,42,"RNA","Metabo",NA,NA,NA,"DMHa_2",NA
+"Niches","rna_Map2","metabo_C8H7O4-H",0.549871535297891,37,"RNA","Metabo",NA,NA,NA,"CTXsp_10",NA
+"Niches","rna_Pcp4","metabo_C2H7NO3S-H",0.509462725215247,35,"RNA","Metabo",NA,NA,NA,"CTXsp_9",NA
+"Niches","rna_Pde7b","metabo_C4H9NO2-H",0.526504051961628,37,"RNA","Metabo",NA,NA,NA,"CTXsp_9",NA
+"Niches","rna_Aldh1l1","metabo_C6H10N2O4-H",0.510292786269063,31,"RNA","Metabo",NA,NA,NA,"Isocortex_13",NA
+"Niches","rna_Fos","metabo_C3H9O6P-H",-0.529466457677665,47,"RNA","Metabo",NA,NA,NA,"Isocortex_13",NA
+"Niches","rna_Ntrk2","metabo_C21H39O6P-H",0.651553517431763,31,"RNA","Metabo",NA,NA,NA,"Isocortex_13",NA
+"Niches","rna_Dhcr24","metabo_C2H8NO4P+Cl",0.503024818666293,30,"RNA","Metabo",NA,NA,NA,"TU_3",NA
+"Niches","rna_Dhcr24","metabo_C6H5O4+Cl",0.503024818666293,30,"RNA","Metabo",NA,NA,NA,"TU_3",NA
+"Niches","rna_Hmgcr","metabo_C5H10N2O3-H",-0.516201690279565,31,"RNA","Metabo",NA,NA,NA,"TU_3",NA
+"Niches","rna_Hmgcr","metabo_C5H7NO3-H",0.511337965391439,31,"RNA","Metabo",NA,NA,NA,"TU_3",NA
+"Niches","rna_Syn1","metabo_C3H9O6P-H",0.531038039863047,37,"RNA","Metabo",NA,NA,NA,"TU_3",NA
+"Niches","rna_Pvalb","metabo_C5H10N2O3-H",0.569813768322682,31,"RNA","Metabo",NA,NA,NA,"Isocortex_20",NA
+"Niches","rna_Hk1","metabo_C5H10NO7P-H",-0.532588019085611,34,"RNA","Metabo",NA,NA,NA,"CP_4",NA
+"Niches","rna_Rbfox3","metabo_C5H10NO7P-H",0.522365059350298,43,"RNA","Metabo",NA,NA,NA,"CP_4",NA
+"Niches","rna_Nefh","metabo_C4H10NO5P-H",0.504432469039088,46,"RNA","Metabo",NA,NA,NA,"LHA_3",NA
+"Niches","rna_Aldh2","metabo_C6H8O7+Cl",0.543423550455855,32,"RNA","Metabo",NA,NA,NA,"Isocortex_21",NA
+"Niches","rna_Gad1","metabo_C4H8NO7P+Cl",-0.519075358140677,34,"RNA","Metabo",NA,NA,NA,"Isocortex_21",NA
+"Niches","rna_Map2","metabo_C3H7O5P-H",0.509400812738729,30,"RNA","Metabo",NA,NA,NA,"MDc_2",NA
+"Niches","rna_Plp1","metabo_C2H5O4P-H",-0.521598647636829,46,"RNA","Metabo",NA,NA,NA,"LHA_4",NA
+"Niches","rna_Aldh2","metabo_C3H8O7P2-H",0.538728211804856,33,"RNA","Metabo",NA,NA,NA,"VMHc_2",NA
+"Niches","rna_Slc6a1","metabo_C6H6O6-H",0.573070266368548,46,"RNA","Metabo",NA,NA,NA,"VMHc_2",NA
+"Niches","rna_Slc17a6","metabo_C6H12O6+Cl",0.55418978226467,65,"RNA","Metabo",NA,NA,NA,"OLF_4",NA
+"Niches","rna_Pdyn","metabo_C3H5O5P-H",0.506302025849324,50,"RNA","Metabo",NA,NA,NA,"VMHdm_2",NA
+"Niches","rna_Tubb3","metabo_C5H4N4O2-H",0.51124467547388,36,"RNA","Metabo",NA,NA,NA,"VMHdm_2",NA
+"Niches","rna_Enpp2","metabo_C7H12N2O3-H",0.516650484382306,30,"RNA","Metabo",NA,NA,NA,"OLF_5",NA
+"Niches","rna_Hcn1","metabo_C10H17N3O6S-H",-0.521179786467045,31,"RNA","Metabo",NA,NA,NA,"OLF_5",NA
+"Niches","rna_Hk1","metabo_C5H12NO6P-H",-0.51680098739549,39,"RNA","Metabo",NA,NA,NA,"OLF_5",NA
+"Niches","rna_Pde1a","metabo_C5H8O6-H",0.548776252572453,35,"RNA","Metabo",NA,NA,NA,"OLF_5",NA
+"Niches","rna_Map2","metabo_C6H12O6+Cl",0.536719477738409,34,"RNA","Metabo",NA,NA,NA,"CEAl_1",NA
+"Niches","rna_Ogt","metabo_C10H17N3O6S-H",0.549753429592729,32,"RNA","Metabo",NA,NA,NA,"CEAl_1",NA
+"Niches","rna_Syn1","metabo_C10H17NO7+Cl",0.530378683592265,30,"RNA","Metabo",NA,NA,NA,"CEAl_1",NA
+"Niches","rna_Tubb3","metabo_H4O7P2-H",-0.628740811019959,31,"RNA","Metabo",NA,NA,NA,"CEAl_1",NA
+"Niches","rna_Ntrk2","metabo_C6H10O6+Cl",0.655873674960433,31,"RNA","Metabo",NA,NA,NA,"VL_3",NA
+"Niches","rna_Psap","metabo_C5H10N2O3-H",0.711208217146778,45,"RNA","Metabo",NA,NA,NA,"VL_3",NA
+"Niches","rna_Psap","metabo_C4H7NO4-H",0.571093242655072,45,"RNA","Metabo",NA,NA,NA,"VL_3",NA
+"Niches","rna_Gpx3","metabo_C7H14OS2+Cl",0.513137278435294,38,"RNA","Metabo",NA,NA,NA,"CTXsp_4",NA
+"Niches","rna_Nos1","metabo_C6H12O6+Cl",0.502943708913052,46,"RNA","Metabo",NA,NA,NA,"CTXsp_4",NA
+"Niches","rna_Nos1","metabo_C5H9NO4-H",-0.524219509016833,46,"RNA","Metabo",NA,NA,NA,"CTXsp_4",NA
+"Niches","rna_Dhcr24","metabo_C6H12O6+Cl",0.511808166241339,32,"RNA","Metabo",NA,NA,NA,"RHP_1",NA
+"Niches","rna_Gpx3","metabo_C4H7NO3-H",0.502301012218665,30,"RNA","Metabo",NA,NA,NA,"DMHa_3",NA
+"Niches","rna_Slc17a6","metabo_C5H8O5-H",0.53296226793647,33,"RNA","Metabo",NA,NA,NA,"DMHa_3",NA
+"Niches","rna_Pde1a","metabo_H3O4P+Cl",-0.520192021403863,39,"RNA","Metabo",NA,NA,NA,"LHA_6",NA
+"Niches","rna_Prps2","metabo_C2H5O5P-H",-0.563956372241554,37,"RNA","Metabo",NA,NA,NA,"LHA_6",NA
+"Niches","rna_Psap","metabo_C6H9NO5-H",0.526360498906929,177,"RNA","Metabo",NA,NA,NA,"LHA_6",NA
+"Niches","rna_Psap","metabo_C2H7NO3S-H",-0.521253245027369,177,"RNA","Metabo",NA,NA,NA,"LHA_6",NA
+"Niches","rna_Psap","metabo_C5H9NO4-H",0.502071553118235,177,"RNA","Metabo",NA,NA,NA,"LHA_6",NA
+"Niches","rna_Psap","metabo_C5H10N2O3-H",0.542780957745414,177,"RNA","Metabo",NA,NA,NA,"LHA_6",NA
+"Niches","rna_Psap","metabo_C4H7NO4-H",0.523288921855747,177,"RNA","Metabo",NA,NA,NA,"LHA_6",NA
+"Niches","rna_Tubb3","metabo_C8H15NO9S-H",-0.518957101771007,65,"RNA","Metabo",NA,NA,NA,"LHA_6",NA
+"Niches","rna_Nefh","metabo_C2H6O8P2-H",0.533015980978934,30,"RNA","Metabo",NA,NA,NA,"MEAad_5",NA
+"Niches","rna_Npy2r","metabo_C6H9NO5-H",-0.51761809335383,32,"RNA","Metabo",NA,NA,NA,"MEAad_5",NA
+"Niches","rna_Hmgcr","metabo_C5H5N5O+Cl",0.611336918102508,30,"RNA","Metabo",NA,NA,NA,"MEAad_6",NA
+"Niches","rna_Ntrk2","metabo_C4H7NO3-H",-0.535508584013964,31,"RNA","Metabo",NA,NA,NA,"LHA_7",NA
+"Niches","rna_Slc17a6","metabo_C6H9NO5-H",-0.503339362643069,60,"RNA","Metabo",NA,NA,NA,"LHA_7",NA
+"Niches","rna_Hmgcr","metabo_C5H4N4O2-H",0.540334724937724,40,"RNA","Metabo",NA,NA,NA,"CA3sp_1",NA
+"Niches","rna_Npy2r","metabo_C3H8NO6P-H",-0.511828496710998,38,"RNA","Metabo",NA,NA,NA,"CA3sp_1",NA
+"Niches","rna_Psap","metabo_C5H10NO7P-H",-0.534356518834871,33,"RNA","Metabo",NA,NA,NA,"CA3sp_1",NA
+"Niches","rna_Rbfox3","metabo_C5H7NO4-H",-0.526213572204841,34,"RNA","Metabo",NA,NA,NA,"CA3sp_1",NA
+"Niches","rna_Gda","metabo_C5H4N4O2-H",0.516429248138771,39,"RNA","Metabo",NA,NA,NA,"Isocortex_22",NA
+"Niches","rna_Ogt","metabo_C2H8NO4P+Cl",0.509013998325716,31,"RNA","Metabo",NA,NA,NA,"DMHp_2",NA
+"Niches","rna_Nefh","metabo_C3H7NO3-H",0.568962902101199,30,"RNA","Metabo",NA,NA,NA,"Isocortex_7",NA
+"Niches","rna_Slc17a7","metabo_C8H11NO5-H",0.515076558087142,30,"RNA","Metabo",NA,NA,NA,"Isocortex_7",NA
+"Niches","rna_Hmgcr","metabo_C6H7O6-H",-0.513930942925047,42,"RNA","Metabo",NA,NA,NA,"CTXsp_12",NA
+"Niches","rna_Tubb3","metabo_H4O7P2+Cl",-0.504827923949793,35,"RNA","Metabo",NA,NA,NA,"CTXsp_12",NA
+"Niches","rna_Hk1","metabo_C28H39NO4-H",0.507182518801226,30,"RNA","Metabo",NA,NA,NA,"Isocortex_4",NA
+"Niches","rna_Nos1","metabo_H2Na2O7P2+Cl",0.596426756970566,37,"RNA","Metabo",NA,NA,NA,"Isocortex_4",NA
+"Niches","rna_Prps2","metabo_C10H17N3O6S-H",0.54953703046509,34,"RNA","Metabo",NA,NA,NA,"Isocortex_4",NA
+"Niches","rna_Syn1","metabo_C4H9N3O2+Cl",-0.521556285471284,31,"RNA","Metabo",NA,NA,NA,"CEAm_2",NA
+"Niches","rna_Bdnf","metabo_C6H8O5-H",0.529048974395157,40,"RNA","Metabo",NA,NA,NA,"CTXsp_11",NA
+"Niches","rna_Aldh2","metabo_C6H8O7-H",0.547685624130693,45,"RNA","Metabo",NA,NA,NA,"OLF_6",NA
+"Niches","rna_Enpp2","metabo_C6H9NO5-H",-0.720259259942121,32,"RNA","Metabo",NA,NA,NA,"OLF_6",NA
+"Niches","rna_Enpp2","metabo_C5H9NO4-H",-0.622944537744438,32,"RNA","Metabo",NA,NA,NA,"OLF_6",NA
+"Niches","rna_Enpp2","metabo_C3H7O5P-H",0.551942777604715,32,"RNA","Metabo",NA,NA,NA,"OLF_6",NA
+"Niches","rna_Gfap","metabo_C2H7NO3S-H",-0.671013519251643,30,"RNA","Metabo",NA,NA,NA,"OLF_6",NA
+"Niches","rna_Gfap","metabo_C5H10N2O3-H",0.604204353139864,30,"RNA","Metabo",NA,NA,NA,"OLF_6",NA
+"Niches","rna_Ust","metabo_C6H8O7-H",0.568918108217872,34,"RNA","Metabo",NA,NA,NA,"OLF_6",NA
+"Niches","rna_Map2","metabo_C3H7O6P-H",-0.522025132996873,44,"RNA","Metabo",NA,NA,NA,"OLF_7",NA
+"Niches","rna_Neurod1","metabo_H4O7P2-H",-0.512754246509385,37,"RNA","Metabo",NA,NA,NA,"OLF_7",NA
+"Niches","rna_Ntrk2","metabo_C3H7O6P-H",0.521678516641288,41,"RNA","Metabo",NA,NA,NA,"OLF_7",NA
+"Niches","rna_Pcp4","metabo_C4H7NO4-H",-0.544215012109668,128,"RNA","Metabo",NA,NA,NA,"OLF_7",NA
+"Niches","rna_Pde7b","metabo_H2Na2O7P2+Cl",-0.510680203570905,34,"RNA","Metabo",NA,NA,NA,"OLF_7",NA
+"Niches","rna_Man2b1","metabo_C5H5N5+Cl",0.600750094815799,30,"RNA","Metabo",NA,NA,NA,"OLF_8",NA
+"Niches","rna_Fdft1","metabo_CH3O5P+Cl",0.516189547165456,47,"RNA","Metabo",NA,NA,NA,"Isocortex_23",NA
+"Niches","rna_Nos1","metabo_C2H8NO4P-H",0.568987441162749,36,"RNA","Metabo",NA,NA,NA,"Isocortex_23",NA
+"Niches","rna_Soat1","metabo_C2H8NO4P+Cl",-0.506868762928485,38,"RNA","Metabo",NA,NA,NA,"Isocortex_23",NA
+"Niches","rna_Soat1","metabo_C6H5O4+Cl",-0.506868762928485,38,"RNA","Metabo",NA,NA,NA,"Isocortex_23",NA
+"Niches","rna_Aldoc","metabo_C23H46NO7P-H",-0.578762571317704,31,"RNA","Metabo",NA,NA,NA,"CP_6",NA
+"Niches","rna_Tubb3","metabo_C18H34O2-H",0.516369946902988,34,"RNA","Metabo",NA,NA,NA,"CP_6",NA
+"Niches","rna_Pde7b","metabo_C3H7O4P-H",0.504212217449801,32,"RNA","Metabo",NA,NA,NA,"CEAc_2",NA
+"Niches","rna_Man2b1","metabo_C5H5N5-H",-0.515520735042821,40,"RNA","Metabo",NA,NA,NA,"OLF_9",NA
+"Niches","rna_Ptgs2","metabo_C4H9N3O2-H",-0.512458255180983,30,"RNA","Metabo",NA,NA,NA,"OLF_9",NA
+"Niches","rna_Pcp4","metabo_C6H12O6+Cl",0.653092823833116,37,"RNA","Metabo",NA,NA,NA,"CP_8",NA
+"Niches","rna_Syn1","metabo_C6H12O6+Cl",-0.714445741684958,48,"RNA","Metabo",NA,NA,NA,"CP_8",NA
+"Niches","rna_Gpx3","metabo_C2H8NO4P+Cl",-0.526994558578004,34,"RNA","Metabo",NA,NA,NA,"CTXsp_5",NA
+"Niches","rna_Gpx3","metabo_C6H5O4+Cl",-0.526994558578004,34,"RNA","Metabo",NA,NA,NA,"CTXsp_5",NA
+"Niches","rna_Inpp4b","metabo_H3O4P+Cl",0.643275433877263,36,"RNA","Metabo",NA,NA,NA,"CTXsp_5",NA
+"Niches","rna_Inpp4b","metabo_CH3O5P+Cl",0.551799316011745,36,"RNA","Metabo",NA,NA,NA,"CTXsp_5",NA
+"Niches","rna_Aldh2","metabo_C6H8O6-H",0.502994113776734,31,"RNA","Metabo",NA,NA,NA,"DG-sg_1",NA
+"Niches","rna_Aldoc","metabo_C5H5N5O+Cl",-0.507338846397648,54,"RNA","Metabo",NA,NA,NA,"DG-sg_1",NA
+"Niches","rna_Gda","metabo_C5H5N5O+Cl",0.568055480720894,36,"RNA","Metabo",NA,NA,NA,"DG-mo_1",NA
+"Niches","rna_Hmgcr","metabo_H4O7P2-H",0.62049198295669,34,"RNA","Metabo",NA,NA,NA,"DG-mo_1",NA
+"Niches","rna_Map2","metabo_C5H5N5-H",0.539137413738994,53,"RNA","Metabo",NA,NA,NA,"DG-mo_1",NA
+"Niches","rna_Map2","metabo_C2H8NO4P-H",-0.501377554049816,53,"RNA","Metabo",NA,NA,NA,"DG-mo_1",NA
+"Niches","rna_Ntrk2","metabo_C10H14N5O7P-H",-0.590899614348981,33,"RNA","Metabo",NA,NA,NA,"DG-mo_1",NA
+"Niches","rna_Tubb3","metabo_C5H5N5O-H",0.602760734765065,32,"RNA","Metabo",NA,NA,NA,"DG-mo_1",NA
+"Niches","rna_Map2","metabo_C10H17NO7+Cl",0.555390721847319,44,"RNA","Metabo",NA,NA,NA,"VL_4",NA
+"Niches","rna_Tubb3","metabo_C5H9NO4-H",0.585970696984576,38,"RNA","Metabo",NA,NA,NA,"VL_4",NA
+"Niches","rna_Tubb3","metabo_C5H5N5-H",0.651924334649729,38,"RNA","Metabo",NA,NA,NA,"VL_4",NA
+"Niches","rna_Tubb3","metabo_C2H8NO4P-H",-0.670637566271793,38,"RNA","Metabo",NA,NA,NA,"VL_4",NA
+"Niches","rna_Tubb3","metabo_C5H14NO6P-H",-0.647512281889178,38,"RNA","Metabo",NA,NA,NA,"VL_4",NA
+"Niches","rna_Tubb3","metabo_C4H6O5-H",0.630299545054663,35,"RNA","Metabo",NA,NA,NA,"VL_4",NA
+"Niches","rna_Tubb3","metabo_C6H12O9S-H",-0.650464196083326,33,"RNA","Metabo",NA,NA,NA,"VL_4",NA
+"Niches","rna_Tubb3","metabo_C3H7O5P-H",-0.607556437813865,38,"RNA","Metabo",NA,NA,NA,"VL_4",NA
+"Niches","rna_Tubb3","metabo_C5H12NO4P-H",-0.543248164052886,36,"RNA","Metabo",NA,NA,NA,"VL_4",NA
+"Niches","rna_Tubb3","metabo_C5H12NO5P-H",-0.520500469477992,36,"RNA","Metabo",NA,NA,NA,"VL_4",NA
+"Niches","rna_Fdft1","metabo_H3O4P+Cl",-0.514668194108602,48,"RNA","Metabo",NA,NA,NA,"OLF_10",NA
+"Niches","rna_Fdft1","metabo_C6H8O5-H",0.561978042566454,43,"RNA","Metabo",NA,NA,NA,"OLF_10",NA
+"Niches","rna_Gpx3","metabo_C3H8O7P2-H",-0.502529240436437,37,"RNA","Metabo",NA,NA,NA,"OLF_10",NA
+"Niches","rna_Nos1","metabo_C16H12NO3-H",0.540182498187689,37,"RNA","Metabo",NA,NA,NA,"OLF_10",NA
+"Niches","rna_Aldoc","metabo_H3O4P+Cl",0.736996616731439,32,"RNA","Metabo",NA,NA,NA,"ME_1",NA
+"Niches","rna_Aldoc","metabo_C6H9NO5-H",-0.518637733741101,32,"RNA","Metabo",NA,NA,NA,"ME_1",NA
+"Niches","rna_Aldoc","metabo_C5H9NO4-H",-0.656482313022843,32,"RNA","Metabo",NA,NA,NA,"ME_1",NA
+"Niches","rna_Aldoc","metabo_C6H10O6+Cl",0.571223046854194,32,"RNA","Metabo",NA,NA,NA,"ME_1",NA
+"Niches","rna_Aldoc","metabo_C5H10N2O3-H",-0.570003034754907,32,"RNA","Metabo",NA,NA,NA,"ME_1",NA
+"Niches","rna_Aldoc","metabo_C4H7NO4-H",-0.595530856892308,32,"RNA","Metabo",NA,NA,NA,"ME_1",NA
+"Niches","rna_Aldoc","metabo_C2H5O4P-H",0.779953702474872,32,"RNA","Metabo",NA,NA,NA,"ME_1",NA
+"Niches","rna_Aldoc","metabo_C3H7O4P-H",0.689896660060144,32,"RNA","Metabo",NA,NA,NA,"ME_1",NA
+"Niches","rna_Aldoc","metabo_C3H7O5P-H",0.560041812610008,32,"RNA","Metabo",NA,NA,NA,"ME_1",NA
+"Niches","rna_Gad1","metabo_C2H7NO3S-H",0.595328638919548,30,"RNA","Metabo",NA,NA,NA,"ME_1",NA
+"Niches","rna_Gpx3","metabo_H3O4P+Cl",-0.512117211059575,32,"RNA","Metabo",NA,NA,NA,"ME_1",NA
+"Niches","rna_Gpx3","metabo_C5H9O7P-H",0.514989773147941,32,"RNA","Metabo",NA,NA,NA,"ME_1",NA
+"Niches","rna_Ogt","metabo_C2H5O4P-H",-0.569214632512736,31,"RNA","Metabo",NA,NA,NA,"ME_1",NA
+"Niches","rna_Syn1","metabo_C3H7O5P-H",-0.506881183207681,31,"RNA","Metabo",NA,NA,NA,"ME_1",NA
+"Niches","rna_Tubb3","metabo_H3O4P+Cl",-0.537807628320221,33,"RNA","Metabo",NA,NA,NA,"ME_1",NA
+"Niches","rna_Tubb3","metabo_C5H10N2O3-H",0.53487489525809,33,"RNA","Metabo",NA,NA,NA,"ME_1",NA
+"Niches","rna_Tubb3","metabo_C4H4O4-H",-0.584387769759881,33,"RNA","Metabo",NA,NA,NA,"ME_1",NA
+"Niches","rna_Tubb3","metabo_C2H5O4P-H",-0.508305557967424,33,"RNA","Metabo",NA,NA,NA,"ME_1",NA
+"Niches","rna_Tubb3","metabo_C3H7O5P-H",-0.600838695850543,33,"RNA","Metabo",NA,NA,NA,"ME_1",NA
+"Niches","rna_Slc17a7","metabo_C6H8O7-H",0.577392792723548,30,"RNA","Metabo",NA,NA,NA,"VPM_1",NA
+"Niches","rna_Inpp4b","metabo_C16H12NO3-H",0.566357586341414,36,"RNA","Metabo",NA,NA,NA,"TU_4",NA
+"Niches","rna_Slc6a1","metabo_C5H4N4-H",0.551275842532895,31,"RNA","Metabo",NA,NA,NA,"DG-sg_2",NA
+"Niches","rna_Hmgcr","metabo_C6H12O9S-H",0.532861616538453,39,"RNA","Metabo",NA,NA,NA,"CP_11",NA
+"Niches","rna_Prdx6","metabo_C2H5O4P-H",-0.527860380651938,38,"RNA","Metabo",NA,NA,NA,"CP_11",NA
+"Niches","rna_Dhcr24","metabo_C11H16N2O8-H",-0.501775288039522,33,"RNA","Metabo",NA,NA,NA,"OLF_11",NA
+"Niches","rna_Map2","metabo_C3H7O5P-H",0.583207451376468,43,"RNA","Metabo",NA,NA,NA,"RT_1",NA
+"Niches","rna_Pcp4","metabo_C6H12O6+Cl",-0.501831133055471,35,"RNA","Metabo",NA,NA,NA,"RT_1",NA
+"Niches","rna_Tubb3","metabo_C6H5O4+Cl",0.556539556220379,38,"RNA","Metabo",NA,NA,NA,"RT_1",NA
+"Niches","rna_Acaa2","metabo_C3H7O5P-H",0.52187557747274,31,"RNA","Metabo",NA,NA,NA,"OLF_12",NA
+"Niches","rna_Aldoc","metabo_C5H5N5-H",0.506973229489097,38,"RNA","Metabo",NA,NA,NA,"VMHdm_3",NA
+"Niches","rna_Map2","metabo_C6H6O6-H",-0.549070335213127,30,"RNA","Metabo",NA,NA,NA,"VMHdm_3",NA
+"Niches","rna_Aldoc","metabo_C10H17NO7+Cl",-0.548273374559089,37,"RNA","Metabo",NA,NA,NA,"CEAc_3",NA
+"Niches","rna_Aldoc","metabo_C4H9N3O2+Cl",-0.570973105997163,30,"RNA","Metabo",NA,NA,NA,"MH_1",NA
+"Niches","rna_Galntl6","metabo_C5H5N5O-H",-0.575309964664485,31,"RNA","Metabo",NA,NA,NA,"MH_1",NA
+"Niches","rna_Gfap","metabo_C2H7NO3S-H",0.55097094680338,33,"RNA","Metabo",NA,NA,NA,"MH_1",NA
+"Niches","rna_Gfap","metabo_C5H9NO4-H",-0.542800896856084,33,"RNA","Metabo",NA,NA,NA,"MH_1",NA
+"Niches","rna_Rbfox3","metabo_C5H9NO4-H",0.594453723127556,54,"RNA","Metabo",NA,NA,NA,"MH_1",NA
+"Niches","rna_Rbfox3","metabo_C4H7NO4-H",0.527992331479396,54,"RNA","Metabo",NA,NA,NA,"MH_1",NA
+"Niches","rna_Slc17a6","metabo_C4H9NO2-H",0.513912468228557,30,"RNA","Metabo",NA,NA,NA,"MH_1",NA
+"Niches","rna_Aldh2","metabo_C2H7NO3S-H",0.685217910402807,79,"RNA","Metabo",NA,NA,NA,"MEAav_1",NA
+"Niches","rna_Aldh2","metabo_C6H10O6+Cl",-0.528766548936875,79,"RNA","Metabo",NA,NA,NA,"MEAav_1",NA
+"Niches","rna_Aldh2","metabo_C6H8O7+Cl",-0.531631717546473,75,"RNA","Metabo",NA,NA,NA,"MEAav_1",NA
+"Niches","rna_Aldh2","metabo_C4H7NO4-H",-0.548734451197222,79,"RNA","Metabo",NA,NA,NA,"MEAav_1",NA
+"Niches","rna_Aldh2","metabo_C4H8NO7P+Cl",0.546093569450431,56,"RNA","Metabo",NA,NA,NA,"MEAav_1",NA
+"Niches","rna_Aldh2","metabo_C2H8NO4P-H",-0.664352451564576,79,"RNA","Metabo",NA,NA,NA,"MEAav_1",NA
+"Niches","rna_Aldh2","metabo_C4H6O4-H",0.604108214003175,78,"RNA","Metabo",NA,NA,NA,"MEAav_1",NA
+"Niches","rna_Aldh2","metabo_C5H9NO3-H",0.528531746053657,79,"RNA","Metabo",NA,NA,NA,"MEAav_1",NA
+"Niches","rna_Aldh2","metabo_H4O7P2-H",-0.677250769881707,79,"RNA","Metabo",NA,NA,NA,"MEAav_1",NA
+"Niches","rna_Aldh2","metabo_C3H7O4P-H",-0.503179447006621,77,"RNA","Metabo",NA,NA,NA,"MEAav_1",NA
+"Niches","rna_Fdft1","metabo_C5H5N5-H",0.507350931297626,46,"RNA","Metabo",NA,NA,NA,"MEAav_1",NA
+"Niches","rna_Map2","metabo_C2H7NO3S-H",-0.683407794307762,112,"RNA","Metabo",NA,NA,NA,"MEAav_1",NA
+"Niches","rna_Map2","metabo_C5H9NO4-H",0.508642111629415,112,"RNA","Metabo",NA,NA,NA,"MEAav_1",NA
+"Niches","rna_Map2","metabo_C2H8NO4P-H",0.742266219338411,112,"RNA","Metabo",NA,NA,NA,"MEAav_1",NA
+"Niches","rna_Map2","metabo_C4H6O4-H",-0.501781319318933,112,"RNA","Metabo",NA,NA,NA,"MEAav_1",NA
+"Niches","rna_Map2","metabo_C5H9NO3-H",-0.577668199407783,112,"RNA","Metabo",NA,NA,NA,"MEAav_1",NA
+"Niches","rna_Map2","metabo_H4O7P2-H",0.75932153285832,112,"RNA","Metabo",NA,NA,NA,"MEAav_1",NA
+"Niches","rna_Map2","metabo_C6H13O9P-H",0.507495170373047,110,"RNA","Metabo",NA,NA,NA,"MEAav_1",NA
+"Niches","rna_Npy2r","metabo_C2H8NO4P-H",0.52432658903579,46,"RNA","Metabo",NA,NA,NA,"MEAav_1",NA
+"Niches","rna_Npy2r","metabo_C6H8O7-H",0.500852642116732,38,"RNA","Metabo",NA,NA,NA,"MEAav_1",NA
+"Niches","rna_Pcp4","metabo_C6H12O6+Cl",-0.505027237168466,43,"RNA","Metabo",NA,NA,NA,"MEAav_1",NA
+"Niches","rna_Pcp4","metabo_C2H7NO3S-H",0.57327395012051,43,"RNA","Metabo",NA,NA,NA,"MEAav_1",NA
+"Niches","rna_Pcp4","metabo_C6H10O6+Cl",-0.52108808876634,43,"RNA","Metabo",NA,NA,NA,"MEAav_1",NA
+"Niches","rna_Pcp4","metabo_CH5O4P-H",0.566487759593372,34,"RNA","Metabo",NA,NA,NA,"MEAav_1",NA
+"Niches","rna_Prdx6","metabo_C2H7NO3S-H",0.596908612619853,67,"RNA","Metabo",NA,NA,NA,"MEAav_1",NA
+"Niches","rna_Prdx6","metabo_C5H9NO4-H",-0.530145211010752,67,"RNA","Metabo",NA,NA,NA,"MEAav_1",NA
+"Niches","rna_Prdx6","metabo_C6H10O6+Cl",-0.509979126877752,67,"RNA","Metabo",NA,NA,NA,"MEAav_1",NA
+"Niches","rna_Prdx6","metabo_C4H7NO4-H",-0.523587037541156,67,"RNA","Metabo",NA,NA,NA,"MEAav_1",NA
+"Niches","rna_Prdx6","metabo_C4H8NO7P+Cl",0.529109504403989,54,"RNA","Metabo",NA,NA,NA,"MEAav_1",NA
+"Niches","rna_Prdx6","metabo_C2H8NO4P-H",-0.567525017772678,67,"RNA","Metabo",NA,NA,NA,"MEAav_1",NA
+"Niches","rna_Prdx6","metabo_C5H9NO3-H",0.593195338421018,67,"RNA","Metabo",NA,NA,NA,"MEAav_1",NA
+"Niches","rna_Prdx6","metabo_H4O7P2-H",-0.588185835694971,67,"RNA","Metabo",NA,NA,NA,"MEAav_1",NA
+"Niches","rna_Prdx6","metabo_C5H12NO4P-H",-0.529350333176154,59,"RNA","Metabo",NA,NA,NA,"MEAav_1",NA
+"Niches","rna_Soat1","metabo_C6H8O7+Cl",-0.616524320723762,34,"RNA","Metabo",NA,NA,NA,"MEAav_1",NA
+"Niches","rna_Soat1","metabo_C4H8NO7P+Cl",0.572926586440219,30,"RNA","Metabo",NA,NA,NA,"MEAav_1",NA
+"Niches","rna_Ust","metabo_C2H7NO3S-H",0.550461425330992,30,"RNA","Metabo",NA,NA,NA,"MEAav_1",NA
+"Niches","rna_Ust","metabo_C6H10O6+Cl",-0.590286173126297,30,"RNA","Metabo",NA,NA,NA,"MEAav_1",NA
+"Niches","rna_Ust","metabo_C2H8NO4P-H",-0.636470285007696,30,"RNA","Metabo",NA,NA,NA,"MEAav_1",NA
+"Niches","rna_Ust","metabo_H4O7P2-H",-0.563821396216785,30,"RNA","Metabo",NA,NA,NA,"MEAav_1",NA
+"Niches","rna_Ust","metabo_C2H5O4P-H",-0.558510529274056,30,"RNA","Metabo",NA,NA,NA,"MEAav_1",NA
+"Niches","rna_Aldh2","metabo_H4O7P2+Cl",-0.566046684335869,32,"RNA","Metabo",NA,NA,NA,"Isocortex_19",NA
+"Niches","rna_B3galt1","metabo_C4H9NO2-H",-0.531773136642079,38,"RNA","Metabo",NA,NA,NA,"MEAad_7",NA
+"Niches","rna_B3galt1","metabo_C5H9O7P-H",-0.511984326970146,32,"RNA","Metabo",NA,NA,NA,"MEAad_7",NA
+"Niches","rna_Inpp4b","metabo_C5H9O7P-H",0.520396868965511,42,"RNA","Metabo",NA,NA,NA,"MEAad_7",NA
+"Niches","rna_Fdft1","metabo_C2H8NO4P-H",0.517809572330892,33,"RNA","Metabo",NA,NA,NA,"VMHc_3",NA
+"Niches","rna_Fdft1","metabo_C6H8O6-H",-0.507331080541706,33,"RNA","Metabo",NA,NA,NA,"VMHc_3",NA
+"Niches","rna_Gpx3","metabo_C3H8NO5P-H",0.505928282377027,35,"RNA","Metabo",NA,NA,NA,"VMHc_3",NA
+"Niches","rna_Acsbg1","metabo_C4H7NO4-H",-0.511243663441803,35,"RNA","Metabo",NA,NA,NA,"Isocortex_24",NA
+"Niches","rna_Rbfox3","metabo_C3H5O6P-H",-0.522488400939592,33,"RNA","Metabo",NA,NA,NA,"Isocortex_24",NA
+"Niches","rna_Sncg","metabo_C5H9NO4-H",-0.561346085360606,30,"RNA","Metabo",NA,NA,NA,"Isocortex_24",NA
+"Niches","rna_Ntrk2","metabo_C3H5O5P-H",0.536751944165281,37,"RNA","Metabo",NA,NA,NA,"MEAav_2",NA
+"Niches","rna_Slc6a1","metabo_H4O7P2-H",0.531985837289686,35,"RNA","Metabo",NA,NA,NA,"MEAav_2",NA
+"Niches","rna_Syn1","metabo_C4H9N3O2+Cl",0.568474087997957,30,"RNA","Metabo",NA,NA,NA,"MEAav_2",NA
+"Niches","rna_Ogt","metabo_C7H11N3O4-H",0.511791309122168,35,"RNA","Metabo",NA,NA,NA,"DG-sg_4",NA
+"Niches","rna_Dhcr24","metabo_C5H14NO6P-H",-0.505942277532749,31,"RNA","Metabo",NA,NA,NA,"CEAc_4",NA
+"Niches","rna_Slc6a1","metabo_C3H9O6P-H",-0.512254640434304,30,"RNA","Metabo",NA,NA,NA,"VAL_2",NA
+"Niches","rna_Dhcr24","metabo_C5H8O5-H",0.5387525592173,39,"RNA","Metabo",NA,NA,NA,"TU_6",NA
+"Niches","rna_Pde1a","metabo_C6H8O7+Cl",-0.537940202097251,30,"RNA","Metabo",NA,NA,NA,"TU_6",NA
+"Niches","rna_Gda","metabo_C5H9NO3-H",0.521565786665744,30,"RNA","Metabo",NA,NA,NA,"RHP_6",NA
+"Niches","rna_Syn1","metabo_C5H5N5-H",-0.551773760923946,37,"RNA","Metabo",NA,NA,NA,"RHP_6",NA
+"Niches","rna_Gad1","metabo_C5H5N5-H",-0.597529177350239,36,"RNA","Metabo",NA,NA,NA,"MEAav_4",NA
+"Niches","rna_Gad2","metabo_C2H7NO3S-H",0.500789803919982,36,"RNA","Metabo",NA,NA,NA,"MEAav_4",NA
+"Niches","rna_Gpx3","metabo_C10H15N5O10P2-H",0.545710629329719,30,"RNA","Metabo",NA,NA,NA,"MEAav_4",NA
+"Niches","rna_Plce1","metabo_C4H6O4-H",-0.57964102296415,38,"RNA","Metabo",NA,NA,NA,"MEAav_4",NA
+"Niches","rna_Aldoc","metabo_C4H9N3O2+Cl",-0.507176923880876,41,"RNA","Metabo",NA,NA,NA,"VMHc_4",NA
+"Niches","rna_Slc17a6","metabo_C5H5N5-H",0.500217023663002,37,"RNA","Metabo",NA,NA,NA,"VMHc_4",NA
+"Niches","rna_Slc17a6","metabo_C5H14NO6P-H",-0.507321452360303,37,"RNA","Metabo",NA,NA,NA,"VMHc_4",NA
+"Niches","rna_Pde7b","metabo_C4H7NO4-H",-0.509530831317751,44,"RNA","Metabo",NA,NA,NA,"CEAm_4",NA
+"Niches","rna_Pdyn","metabo_C5H7NO3-H",-0.574345953629334,31,"RNA","Metabo",NA,NA,NA,"CP_12",NA
+"Niches","rna_Pcp4","metabo_C6H9NO5-H",0.512965770260938,72,"RNA","Metabo",NA,NA,NA,"CP_13",NA
+"Niches","rna_Pde7b","metabo_C8H15NO9S-H",0.573198734221784,30,"RNA","Metabo",NA,NA,NA,"CP_13",NA
+"Niches","rna_Bdnf","metabo_C5H12NO4P-H",0.506959203803777,34,"RNA","Metabo",NA,NA,NA,"CTXsp_13",NA
+"Niches","rna_Slc6a1","metabo_C6H8N2O4-H",0.590307417090442,31,"RNA","Metabo",NA,NA,NA,"Isocortex_25",NA
+"Niches","rna_Tubb3","metabo_C10H17N3O6S-H",0.542453649444646,31,"RNA","Metabo",NA,NA,NA,"SMT_2",NA
+"Niches","rna_Map2","metabo_C5H7NO3-H",0.567716506366916,30,"RNA","Metabo",NA,NA,NA,"VM_2",NA
+"Niches","rna_Tubb3","metabo_C5H14NO6P-H",0.552959092978403,30,"RNA","Metabo",NA,NA,NA,"VM_2",NA
+"Niches","rna_Pde1a","metabo_C5H10N2O3-H",0.515052366483112,69,"RNA","Metabo",NA,NA,NA,"Isocortex_5",NA
+"Niches","rna_Aldoc","metabo_H5O10P3-H",-0.503543910859168,31,"RNA","Metabo",NA,NA,NA,"MEAav_5",NA
+"Niches","rna_Ogt","metabo_C4H9N3O2+Cl",0.564632211896531,33,"RNA","Metabo",NA,NA,NA,"MEAav_5",NA
+"Niches","rna_Gpx3","metabo_C4H10NO5P-H",0.554506167951521,33,"RNA","Metabo",NA,NA,NA,"VMHdm_4",NA
+"Niches","rna_Rbfox3","metabo_C6H8O5-H",-0.507123651161137,41,"RNA","Metabo",NA,NA,NA,"VMHdm_4",NA
+"Niches","rna_Galntl6","metabo_C3H9O6P-H",0.597499412172278,38,"RNA","Metabo",NA,NA,NA,"Isocortex_6",NA
+"Niches","rna_Nefh","metabo_C2H7NO3S-H",-0.617471803167149,31,"RNA","Metabo",NA,NA,NA,"LD_1",NA
+"Niches","rna_Pvalb","metabo_C6H8O5-H",0.589415529809338,32,"RNA","Metabo",NA,NA,NA,"RT_4",NA
+"Niches","rna_Map2","metabo_H3O4P+Cl",0.512606759719704,31,"RNA","Metabo",NA,NA,NA,"VM_3",NA
+"Niches","rna_Psap","metabo_C3H8NO6P+Cl",0.589400030817781,37,"RNA","Metabo",NA,NA,NA,"VM_3",NA
+"Niches","rna_Gphn","metabo_C2H5O5P-H",-0.603511461668607,32,"RNA","Metabo",NA,NA,NA,"CEAl_2",NA
+"Niches","rna_Map2","metabo_C5H9NO3-H",0.554449999084102,40,"RNA","Metabo",NA,NA,NA,"CEAl_2",NA
+"Niches","rna_Hmgcr","metabo_C3H8NO6P+Cl",0.550846666351791,41,"RNA","Metabo",NA,NA,NA,"PVT_1",NA
+"Niches","rna_Psap","metabo_H3O4P+Cl",-0.549673037867655,42,"RNA","Metabo",NA,NA,NA,"PVT_1",NA
+"Niches","rna_Slc17a6","metabo_H3O4P+Cl",-0.606615333748951,39,"RNA","Metabo",NA,NA,NA,"PVT_1",NA
+"Niches","rna_Slc17a6","metabo_C6H9NO5-H",0.556172026545031,39,"RNA","Metabo",NA,NA,NA,"PVT_1",NA
+"Niches","rna_Slc17a6","metabo_C5H10N2O3-H",0.562817032063079,39,"RNA","Metabo",NA,NA,NA,"PVT_1",NA
+"Niches","rna_Slc17a6","metabo_C2H8NO4P-H",-0.550810075325861,39,"RNA","Metabo",NA,NA,NA,"PVT_1",NA
+"Niches","rna_Slc17a6","metabo_C5H7NO3-H",0.654862260238716,39,"RNA","Metabo",NA,NA,NA,"PVT_1",NA
+"Niches","rna_Slc17a6","metabo_C4H6O5-H",0.526091847214012,39,"RNA","Metabo",NA,NA,NA,"PVT_1",NA
+"Niches","rna_Slc17a6","metabo_C3H7O5P-H",-0.557552636385633,39,"RNA","Metabo",NA,NA,NA,"PVT_1",NA
+"Niches","rna_Syn1","metabo_C12H13N5O2S-H",-0.554362413972399,34,"RNA","Metabo",NA,NA,NA,"PVT_1",NA
+"Niches","rna_Dhcr24","metabo_C4H9NO2-H",0.520966377454931,36,"RNA","Metabo",NA,NA,NA,"DMHa_5",NA
+"Niches","rna_Gphn","metabo_CH4NO5P+Cl",-0.506936914800078,34,"RNA","Metabo",NA,NA,NA,"DMHa_5",NA
+"Niches","rna_Aldh1l1","metabo_C5H7NO3-H",0.536016753108226,32,"RNA","Metabo",NA,NA,NA,"Isocortex_16",NA
+"Niches","rna_Nefh","metabo_C4H7NO4-H",0.504337309299775,60,"RNA","Metabo",NA,NA,NA,"Isocortex_16",NA
+"Niches","rna_Ogt","metabo_C5H9NO4-H",-0.531803727003883,37,"RNA","Metabo",NA,NA,NA,"VPM_2",NA
+"Niches","rna_Ogt","metabo_C3H5O5P-H",0.506306704867339,32,"RNA","Metabo",NA,NA,NA,"GPe_5",NA
+"Niches","rna_Tubb3","metabo_C2H5O4P-H",-0.568920125792253,30,"RNA","Metabo",NA,NA,NA,"GPe_5",NA
+"Niches","rna_Syn1","metabo_C5H12NO5P-H",-0.524963292087969,38,"RNA","Metabo",NA,NA,NA,"VPL_4",NA
+"Niches","rna_Ogt","metabo_C6H13O9P-H",0.531597958435751,36,"RNA","Metabo",NA,NA,NA,"VAL_3",NA
+"Niches","rna_Hmgcr","metabo_C5H5N5-H",-0.547735820992716,31,"RNA","Metabo",NA,NA,NA,"CA1sp_1",NA
+"Niches","rna_Rbfox3","metabo_C5H7NO3-H",0.520097343296062,32,"RNA","Metabo",NA,NA,NA,"CA1sp_1",NA
+"Niches","rna_Syn1","metabo_C6H8O7-H",-0.521126802764989,30,"RNA","Metabo",NA,NA,NA,"CA1sp_1",NA
+"Niches","rna_Aldh2","metabo_C8H13NO5-H",-0.552650833972652,30,"RNA","Metabo",NA,NA,NA,"LHA_11",NA
+"Niches","rna_Gda","metabo_C3H9O6P-H",0.509461222204183,34,"RNA","Metabo",NA,NA,NA,"LHA_11",NA
+"Niches","rna_Hk1","metabo_C4H7NO3-H",-0.538455983650207,50,"RNA","Metabo",NA,NA,NA,"LHA_11",NA
+"Niches","rna_Tubb3","metabo_C5H10NO7P-H",0.53798932236093,31,"RNA","Metabo",NA,NA,NA,"LHA_11",NA
+"Niches","rna_Aldh2","metabo_C6H10O6+Cl",0.502912980204777,33,"RNA","Metabo",NA,NA,NA,"Isocortex_9",NA
+"Niches","rna_Rbfox3","metabo_C5H5N5-H",0.508299791665417,30,"RNA","Metabo",NA,NA,NA,"VPM_4",NA
+"Niches","rna_Gphn","metabo_C4H10NO5P-H",0.612987807422407,30,"RNA","Metabo",NA,NA,NA,"VPL_5",NA
+"Niches","rna_Inpp4b","metabo_C6H13O9P-H",0.539158105342076,35,"RNA","Metabo",NA,NA,NA,"MH_2",NA
+"Niches","rna_Prdx6","metabo_C5H10N2O3-H",0.594926064002043,37,"RNA","Metabo",NA,NA,NA,"VL_5",NA
+"Niches","rna_Prdx6","metabo_C4H7NO4-H",0.507233790870064,37,"RNA","Metabo",NA,NA,NA,"VL_5",NA
+"Niches","rna_Prdx6","metabo_C3H7O5P-H",-0.519201896693168,37,"RNA","Metabo",NA,NA,NA,"VL_5",NA
+"Niches","rna_Slc6a1","metabo_C6H9NO5-H",0.538101016909705,38,"RNA","Metabo",NA,NA,NA,"VL_5",NA
+"Niches","rna_Ogt","metabo_C5H10N2O3-H",0.513661421679989,39,"RNA","Metabo",NA,NA,NA,"GPe_6",NA
+"Niches","rna_Ogt","metabo_C2H8NO4P-H",-0.521995444818525,39,"RNA","Metabo",NA,NA,NA,"GPe_6",NA
+"Niches","rna_Slc6a1","metabo_C3H7O4P-H",-0.627844141863251,40,"RNA","Metabo",NA,NA,NA,"GPe_6",NA
+"Niches","rna_Tubb3","metabo_C5H10N2O3-H",0.511763622339049,34,"RNA","Metabo",NA,NA,NA,"GPe_6",NA
+"Niches","rna_Psap","metabo_C6H12O6+Cl",0.588000415348684,32,"RNA","Metabo",NA,NA,NA,"VM_5",NA
+"Niches","rna_Dhcr24","metabo_C5H14NO6P-H",-0.510832720146369,35,"RNA","Metabo",NA,NA,NA,"MDm_5",NA
+"Niches","rna_Dhcr24","metabo_C10H17NO7+Cl",0.633233744757958,35,"RNA","Metabo",NA,NA,NA,"MDm_5",NA
+"Niches","rna_Gphn","metabo_C10H17NO7+Cl",0.544207087912872,41,"RNA","Metabo",NA,NA,NA,"MDm_5",NA
+"Niches","rna_Ogt","metabo_C5H14NO6P-H",-0.585341684244438,48,"RNA","Metabo",NA,NA,NA,"MDm_5",NA
+"Niches","rna_Slc17a6","metabo_C6H9NO5-H",0.659833022012945,35,"RNA","Metabo",NA,NA,NA,"MDm_5",NA
+"Niches","rna_Slc17a6","metabo_C5H9NO4-H",0.654243136855779,35,"RNA","Metabo",NA,NA,NA,"MDm_5",NA
+"Niches","rna_Slc17a6","metabo_C6H10O6+Cl",-0.543868418044558,35,"RNA","Metabo",NA,NA,NA,"MDm_5",NA
+"Niches","rna_Slc17a6","metabo_C5H14NO6P-H",-0.505048311357385,35,"RNA","Metabo",NA,NA,NA,"MDm_5",NA
+"Niches","rna_Slc17a6","metabo_C10H17N3O6S-H",0.502942156634531,35,"RNA","Metabo",NA,NA,NA,"MDm_5",NA
+"Niches","rna_Syn1","metabo_C5H7NO3-H",0.715128868240858,36,"RNA","Metabo",NA,NA,NA,"MDm_5",NA
+"Niches","rna_Syn1","metabo_C5H12NO4P-H",-0.523650660240703,35,"RNA","Metabo",NA,NA,NA,"MDm_5",NA
+"Niches","rna_Tubb3","metabo_C5H12NO5P-H",0.520678427517058,34,"RNA","Metabo",NA,NA,NA,"SMT_3",NA
+"Niches","rna_Aldh1l1","metabo_C5H5N5+Cl",-0.522817995614855,30,"RNA","Metabo",NA,NA,NA,"Isocortex_10",NA
+"Niches","rna_Gad1","metabo_C6H12O9S-H",-0.508004043238618,33,"RNA","Metabo",NA,NA,NA,"Isocortex_10",NA
+"Niches","rna_Pde1a","metabo_C3H8O7P2-H",0.516230150811214,38,"RNA","Metabo",NA,NA,NA,"Isocortex_10",NA
+"Niches","rna_Pvalb","metabo_C6H12O9S-H",-0.515859970627021,31,"RNA","Metabo",NA,NA,NA,"Isocortex_10",NA
+"Niches","rna_Slc17a6","metabo_C6H12O6+Cl",0.574858345526312,37,"RNA","Metabo",NA,NA,NA,"Isocortex_10",NA
+"Niches","rna_Map2","metabo_C3H8O7P2-H",0.601633018730293,32,"RNA","Metabo",NA,NA,NA,"SMT_4",NA
+"Niches","rna_Ogt","metabo_C3H8O7P2-H",0.647316362590912,32,"RNA","Metabo",NA,NA,NA,"SMT_4",NA
+"Niches","rna_Tubb3","metabo_C3H8O7P2-H",0.608434461895287,31,"RNA","Metabo",NA,NA,NA,"SMT_4",NA
+"Niches","rna_Npy2r","metabo_C5H5N5-H",-0.529278847045852,79,"RNA","Metabo",NA,NA,NA,"DG-sg_5",NA
+"Niches","rna_Pde7b","metabo_C6H8O7-H",0.521638521055522,31,"RNA","Metabo",NA,NA,NA,"DG-sg_5",NA
+"Niches","rna_Rbfox3","metabo_C12H13N5O2S-H",-0.589949177487038,35,"RNA","Metabo",NA,NA,NA,"VPM_5",NA
+"Niches","rna_Plp1","metabo_C16H12NO3-H",0.526602012782793,32,"RNA","Metabo",NA,NA,NA,"RT_6",NA
+"Niches","rna_Pvalb","metabo_C2H7NO3S-H",-0.505255499361029,42,"RNA","Metabo",NA,NA,NA,"RT_6",NA
+"Niches","rna_Syn1","metabo_CH3O5P+Cl",0.520715345947365,38,"RNA","Metabo",NA,NA,NA,"LD_5",NA
+"Niches","rna_Nefh","metabo_C2H8NO4P-H",0.651937672429789,33,"RNA","Metabo",NA,NA,NA,"RT_8",NA
+"Niches","rna_Bdnf","metabo_C5H10N2O3+Cl",0.528252158703747,33,"RNA","Metabo",NA,NA,NA,"CA2sp_1",NA
+"Niches","rna_Hk1","metabo_C4H8NO7P+Cl",-0.515425407448511,31,"RNA","Metabo",NA,NA,NA,"CA2sp_1",NA
+"Niches","rna_Map2","metabo_C6H13O9P-H",0.602515025786098,33,"RNA","Metabo",NA,NA,NA,"IMD_3",NA
+"Niches","rna_Syn1","metabo_C2H7NO3S-H",0.515377852605022,33,"RNA","Metabo",NA,NA,NA,"VAL_5",NA
+"Niches","rna_Aldh2","metabo_C3H7O5P-H",0.570576026925207,35,"RNA","Metabo",NA,NA,NA,"MH_4",NA
+"Niches","rna_Pcp4","metabo_H4O7P2-H",0.507089424400558,49,"RNA","Metabo",NA,NA,NA,"VPM_6",NA
+"Niches","rna_Pde7b","metabo_C5H10N2O3-H",0.550427140379273,32,"RNA","Metabo",NA,NA,NA,"VPM_6",NA
+"Niches","rna_Syn1","metabo_C6H10O8S-H",0.582325530348278,32,"RNA","Metabo",NA,NA,NA,"VPM_6",NA
+"Niches","rna_Ogt","metabo_C3H7O4P-H",0.546257655106468,39,"RNA","Metabo",NA,NA,NA,"RT_2",NA
+"Niches","rna_Map2","metabo_H4O7P2-H",-0.502981168484616,30,"RNA","Metabo",NA,NA,NA,"CL_1",NA
+"Niches","rna_Syn1","metabo_C10H17NO7+Cl",0.597378685188286,30,"RNA","Metabo",NA,NA,NA,"CL_1",NA
+"Niches","rna_Tubb3","metabo_C10H17NO7+Cl",0.501556472569559,30,"RNA","Metabo",NA,NA,NA,"CL_1",NA
+"Niches","rna_Ntrk2","metabo_C12H13N5O2S-H",0.53944516289882,30,"RNA","Metabo",NA,NA,NA,"VAL_6",NA
+"Niches","rna_Syn1","metabo_C6H9NO5-H",-0.526810283006085,31,"RNA","Metabo",NA,NA,NA,"VAL_6",NA
+"Niches","rna_Pcp4","metabo_C4H9N3O2-H",0.593107655324016,31,"RNA","Metabo",NA,NA,NA,"LD_6",NA
+"Niches","rna_Nefh","metabo_C4H7NO4-H",0.592474217000606,46,"RNA","Metabo",NA,NA,NA,"Isocortex_27",NA
+"Niches","rna_Gphn","metabo_C2H8NO4P-H",-0.519714986882993,39,"RNA","Metabo",NA,NA,NA,"DG-mo_4",NA
+"Niches","rna_Ntrk2","metabo_C12H13N5O2S-H",-0.555204605053574,32,"RNA","Metabo",NA,NA,NA,"DG-mo_4",NA
+"Niches","rna_Tubb3","metabo_C4H10NO5P-H",0.562362790261356,32,"RNA","Metabo",NA,NA,NA,"VPM_7",NA
+"Niches","rna_Hk1","metabo_C5H8O5-H",0.543558004313897,32,"RNA","Metabo",NA,NA,NA,"LD_7",NA
+"Niches","rna_Dhcr24","metabo_C12H13N5O2S-H",0.532254164704983,39,"RNA","Metabo",NA,NA,NA,"MDm_6",NA
+"Niches","rna_Syn1","metabo_C6H12O6+Cl",-0.507165209061379,42,"RNA","Metabo",NA,NA,NA,"MDm_6",NA
+"Niches","rna_Gda","metabo_C5H10NO7P-H",0.501032765236967,35,"RNA","Metabo",NA,NA,NA,"DG-sg_6",NA
+"Niches","rna_Map2","metabo_C4H9N3O2-H",0.513691881981008,30,"RNA","Metabo",NA,NA,NA,"CA1sp_3",NA
+"Niches","rna_Hk1","metabo_C3H9O6P-H",0.512094399264896,31,"RNA","Metabo",NA,NA,NA,"CA2sp_2",NA
+"Niches","rna_Gda","metabo_C10H17NO7+Cl",0.50659569897919,38,"RNA","Metabo",NA,NA,NA,"CA1sp_5",NA
+"Niches","rna_Ntrk2","metabo_C5H5N5-H",-0.528480141748867,38,"RNA","Metabo",NA,NA,NA,"CA1sp_5",NA
+"Niches","rna_Ntrk2","metabo_C3H8NO6P-H",0.505218970721386,30,"RNA","Metabo",NA,NA,NA,"CA1sp_5",NA
+"Niches","rna_Ogt","metabo_C5H14NO6P-H",0.50666208604287,33,"RNA","Metabo",NA,NA,NA,"CA1sp_5",NA
+"Niches","rna_Pde1a","metabo_C6H10O6+Cl",-0.519372090382051,39,"RNA","Metabo",NA,NA,NA,"CA1sp_5",NA
+"Cell_type_and_Region","rna_Hmgcr","metabo_Gluconolactone*+Cl",0.540688753869237,32,"RNA","Metabo",NA,NA,NA,NA,"Astrocytes.TU"
+"Cell_type_and_Region","rna_Psap","metabo_Triphosphate-H",0.568724457967323,33,"RNA","Metabo",NA,NA,NA,NA,"Astrocytes.TU"
+"Cell_type_and_Region","rna_Slc6a1","metabo_N-Acetylasparagine*-H",-0.518843992214219,34,"RNA","Metabo",NA,NA,NA,NA,"Astrocytes.TU"
+"Cell_type_and_Region","rna_Acaa2","metabo_N-Lactoyl ethanolamine phosphate-H",-0.503912677598537,52,"RNA","Metabo",NA,NA,NA,NA,"Astrocytes.Uncertain"
+"Cell_type_and_Region","rna_Hk1","metabo_2-hydroxy-3-oxobutyl phosphate*-H",0.52194332767996,30,"RNA","Metabo",NA,NA,NA,NA,"Astrocytes.Uncertain"
+"Cell_type_and_Region","rna_Man1a","metabo_Taurine-H",0.542544338760472,32,"RNA","Metabo",NA,NA,NA,NA,"Astrocytes.Uncertain"
+"Cell_type_and_Region","rna_Ntrk2","metabo_Anserine-H",0.531082534977582,30,"RNA","Metabo",NA,NA,NA,NA,"Astrocytes.Uncertain"
+"Cell_type_and_Region","rna_Sncg","metabo_N-Acetylaspartylglutamic acid-H",-0.511585906143249,30,"RNA","Metabo",NA,NA,NA,NA,"Astrocytes.Uncertain"
+"Cell_type_and_Region","rna_Ust","metabo_Taurine-H",0.503280771879714,80,"RNA","Metabo",NA,NA,NA,NA,"Astrocytes.Uncertain"
+"Cell_type_and_Region","rna_Npy2r","metabo_Glutamine*-H",0.568808220045029,44,"RNA","Metabo",NA,NA,NA,NA,"Excit_HPF.CA3so"
+"Cell_type_and_Region","rna_Slc17a7","metabo_O-Phosphoethanolamine-H",0.509359318439173,69,"RNA","Metabo",NA,NA,NA,NA,"Excit_HPF.CA3so"
+"Cell_type_and_Region","rna_Acaa2","metabo_N-Acetylglutamine-H",0.56703965493946,31,"RNA","Metabo",NA,NA,NA,NA,"Astrocytes.OLF"
+"Cell_type_and_Region","rna_Hmgcr","metabo_Pyrophosphate+Cl",0.521572311226283,53,"RNA","Metabo",NA,NA,NA,NA,"Astrocytes.OLF"
+"Cell_type_and_Region","rna_Map2","metabo_2-iodophenol*-H",0.513245113335505,36,"RNA","Metabo",NA,NA,NA,NA,"Astrocytes.OLF"
+"Cell_type_and_Region","rna_Soat1","metabo_LysoPA(18:0)*-H",0.508601773724982,39,"RNA","Metabo",NA,NA,NA,NA,"Astrocytes.OLF"
+"Cell_type_and_Region","rna_Aldoc","metabo_Glutathione-H",0.57656034791782,42,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.DMHp"
+"Cell_type_and_Region","rna_Rbfox3","metabo_Guanine-H",0.525374289473805,34,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.DMHp"
+"Cell_type_and_Region","rna_Aldh1l1","metabo_Taurine-H",0.619514515260799,31,"RNA","Metabo",NA,NA,NA,NA,"Ventricular systems Glial cells.Uncertain"
+"Cell_type_and_Region","rna_Aldh1l1","metabo_4-O-(beta-L-Araf)-cis-L-Hyp zwitterion+Cl",-0.51158450260504,31,"RNA","Metabo",NA,NA,NA,NA,"Ventricular systems Glial cells.Uncertain"
+"Cell_type_and_Region","rna_Aldoc","metabo_Lycobetaine-H",0.527420631380488,43,"RNA","Metabo",NA,NA,NA,NA,"Ventricular systems Glial cells.Uncertain"
+"Cell_type_and_Region","rna_Enpp2","metabo_Taurine-H",-0.54138351015364,70,"RNA","Metabo",NA,NA,NA,NA,"Ventricular systems Glial cells.Uncertain"
+"Cell_type_and_Region","rna_Gphn","metabo_Adenosine monophosphate*-H",0.500508360477183,31,"RNA","Metabo",NA,NA,NA,NA,"Ventricular systems Glial cells.Uncertain"
+"Cell_type_and_Region","rna_Prdx6","metabo_N-Acetyl-L-aspartic acid-H",0.559813777888037,81,"RNA","Metabo",NA,NA,NA,NA,"Ventricular systems Glial cells.Uncertain"
+"Cell_type_and_Region","rna_Prdx6","metabo_Glutamine*-H",-0.501250266635637,77,"RNA","Metabo",NA,NA,NA,NA,"Ventricular systems Glial cells.Uncertain"
+"Cell_type_and_Region","rna_Prdx6","metabo_Succinic acid*-H",-0.580707875310086,78,"RNA","Metabo",NA,NA,NA,NA,"Ventricular systems Glial cells.Uncertain"
+"Cell_type_and_Region","rna_Prdx6","metabo_phosphonoacetaldehyde-H",-0.543973742451496,81,"RNA","Metabo",NA,NA,NA,NA,"Ventricular systems Glial cells.Uncertain"
+"Cell_type_and_Region","rna_Prdx6","metabo_Asparagine*-H",-0.608449453617157,32,"RNA","Metabo",NA,NA,NA,NA,"Ventricular systems Glial cells.Uncertain"
+"Cell_type_and_Region","rna_Npy2r","metabo_2-amino-5-phosphonopentanoic acid-H",0.648656442979943,31,"RNA","Metabo",NA,NA,NA,NA,"Inhib_CTX.VMHc"
+"Cell_type_and_Region","rna_Slc17a6","metabo_2-(phosphinomethylidene)succinic acid-H",-0.530024972713754,33,"RNA","Metabo",NA,NA,NA,NA,"Inhib_CTX.VMHc"
+"Cell_type_and_Region","rna_B3gat1","metabo_Taurine-H",0.580559327375416,31,"RNA","Metabo",NA,NA,NA,NA,"Astrocytes.Isocortex"
+"Cell_type_and_Region","rna_Tubb3","metabo_LysoPE(18:1)-H",-0.581161427346903,33,"RNA","Metabo",NA,NA,NA,NA,"Astrocytes.Isocortex"
+"Cell_type_and_Region","rna_Hcn1","metabo_D-xyluronic acid*-H",0.669000923845494,32,"RNA","Metabo",NA,NA,NA,NA,"Excit_CTX.CTXsp"
+"Cell_type_and_Region","rna_Pdyn","metabo_6-deoxy-6-sulfoglucono-1,5-lactone*-H",-0.553989462619726,31,"RNA","Metabo",NA,NA,NA,NA,"Inhib_CTX.CEAm"
+"Cell_type_and_Region","rna_Pcp4","metabo_1-alkyl-2-acylglycerophosphoethanolamine-H",0.503195294925223,31,"RNA","Metabo",NA,NA,NA,NA,"Inhib_CTX.MEAad"
+"Cell_type_and_Region","rna_Ak7","metabo_Aspartic acid*-H",-0.506125510776576,38,"RNA","Metabo",NA,NA,NA,NA,"Ventricular systems Glial cells.VMHdm"
+"Cell_type_and_Region","rna_Ak7","metabo_N-Acetylaspartylglutamic acid-H",0.503726208855848,30,"RNA","Metabo",NA,NA,NA,NA,"Ventricular systems Glial cells.VMHdm"
+"Cell_type_and_Region","rna_Aldh2","metabo_N,N-dimethylethanolamine phosphate-H",-0.535992845296432,33,"RNA","Metabo",NA,NA,NA,NA,"Ventricular systems Glial cells.VMHdm"
+"Cell_type_and_Region","rna_Aldoc","metabo_phosphonoacetaldehyde-H",-0.507204568081446,31,"RNA","Metabo",NA,NA,NA,NA,"Ventricular systems Glial cells.VMHdm"
+"Cell_type_and_Region","rna_Ogt","metabo_Mesaconic acid*-H",-0.52885640461339,40,"RNA","Metabo",NA,NA,NA,NA,"Ventricular systems Glial cells.VMHdm"
+"Cell_type_and_Region","rna_Gfap","metabo_Taurine-H",0.550430972735411,30,"RNA","Metabo",NA,NA,NA,NA,"Inhib_CTX.Uncertain"
+"Cell_type_and_Region","rna_Npy","metabo_Glycylproline*-H",0.504374223468811,35,"RNA","Metabo",NA,NA,NA,NA,"Inhib_CTX.Uncertain"
+"Cell_type_and_Region","rna_Aldoc","metabo_Citric acid+Cl",-0.516537497140341,32,"RNA","Metabo",NA,NA,NA,NA,"Thalamic Neurons.SMT"
+"Cell_type_and_Region","rna_Aldh2","metabo_Adenine-H",0.582808130500187,39,"RNA","Metabo",NA,NA,NA,NA,"Microglia.Uncertain"
+"Cell_type_and_Region","rna_Gda","metabo_Adenine+Cl",0.503494390921807,45,"RNA","Metabo",NA,NA,NA,NA,"Microglia.Uncertain"
+"Cell_type_and_Region","rna_Hmgcr","metabo_phosphinomethylisomalic acid*-H",0.503691314901749,37,"RNA","Metabo",NA,NA,NA,NA,"Microglia.Uncertain"
+"Cell_type_and_Region","rna_Pde1a","metabo_N-Acetyl-L-aspartic acid-H",-0.605126587610321,57,"RNA","Metabo",NA,NA,NA,NA,"Microglia.Uncertain"
+"Cell_type_and_Region","rna_Plp1","metabo_LysoPE(18:1)-H",0.622689540784989,34,"RNA","Metabo",NA,NA,NA,NA,"Microglia.Uncertain"
+"Cell_type_and_Region","rna_Tubb3","metabo_LysoPE(18:1)-H",-0.577817860376448,42,"RNA","Metabo",NA,NA,NA,NA,"Microglia.Uncertain"
+"Cell_type_and_Region","rna_Gfap","metabo_Glutamic acid*-H",-0.561530580131418,32,"RNA","Metabo",NA,NA,NA,NA,"Ventricular systems Glial cells.VL"
+"Cell_type_and_Region","rna_Gfap","metabo_Gluconolactone*+Cl",0.611834273034527,32,"RNA","Metabo",NA,NA,NA,NA,"Ventricular systems Glial cells.VL"
+"Cell_type_and_Region","rna_Gfap","metabo_Aspartic acid*-H",-0.553396631599862,32,"RNA","Metabo",NA,NA,NA,NA,"Ventricular systems Glial cells.VL"
+"Cell_type_and_Region","rna_Gfap","metabo_fosfomycin*-H",0.552596654637117,32,"RNA","Metabo",NA,NA,NA,NA,"Ventricular systems Glial cells.VL"
+"Cell_type_and_Region","rna_Ndst4","metabo_Lycobetaine-H",-0.503957527827016,32,"RNA","Metabo",NA,NA,NA,NA,"Inhib_CTX.ARH"
+"Cell_type_and_Region","rna_Gphn","metabo_Guanine+Cl",0.510690783417471,36,"RNA","Metabo",NA,NA,NA,NA,"Inhib_CTX.ZI"
+"Cell_type_and_Region","rna_Slc17a6","metabo_N-Acetyl-L-aspartic acid-H",-0.500682677839869,31,"RNA","Metabo",NA,NA,NA,NA,"Inhib_CTX.VMHvl"
+"Cell_type_and_Region","rna_Enpp2","metabo_Glutathione-H",0.537632887303385,30,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.LHA"
+"Cell_type_and_Region","rna_Man2b1","metabo_Phosphonoacetate-H",0.516305418372405,45,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.MEAad"
+"Cell_type_and_Region","rna_Map2","metabo_1-oleylglycerone 3-phosphate*-H",0.540281574992268,78,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.MEAad"
+"Cell_type_and_Region","rna_Plce1","metabo_dihydroclavaminic acid-H",-0.542615594219113,30,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.MEAad"
+"Cell_type_and_Region","rna_Bdnf","metabo_D-glucose 6-sulfate*-H",-0.549978337701535,32,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.TU"
+"Cell_type_and_Region","rna_Galntl6","metabo_Guanine-H",-0.523250929505113,31,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.TU"
+"Cell_type_and_Region","rna_Gpx3","metabo_D-glucose 6-sulfate*-H",-0.501045592992633,75,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.TU"
+"Cell_type_and_Region","rna_Hk1","metabo_N-acetyl-2,7-anhydro-alpha-neuraminic acid*-H",0.526215947540049,33,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.TU"
+"Cell_type_and_Region","rna_Slc6a1","metabo_D-Glucose*+Cl",-0.537483660512501,95,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.TU"
+"Cell_type_and_Region","rna_Slc6a1","metabo_Taurine-H",0.595502353100035,95,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.TU"
+"Cell_type_and_Region","rna_Tubb3","metabo_Ascorbic acid-H",-0.502485766146989,112,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.TU"
+"Cell_type_and_Region","rna_Psap","metabo_Adenine+Cl",-0.626606887818696,38,"RNA","Metabo",NA,NA,NA,NA,"Inhib_CTX.VL"
+"Cell_type_and_Region","rna_Ogt","metabo_dihydroclavaminic acid-H",-0.569267392588474,33,"RNA","Metabo",NA,NA,NA,NA,"Astrocytes.DMHa"
+"Cell_type_and_Region","rna_Plce1","metabo_D-glucose 6-sulfate*-H",-0.507689361204133,41,"RNA","Metabo",NA,NA,NA,NA,"Astrocytes.DMHa"
+"Cell_type_and_Region","rna_Soat1","metabo_Phosphoserine-H",0.541545829154337,38,"RNA","Metabo",NA,NA,NA,NA,"Inhib_CTX.CTXsp"
+"Cell_type_and_Region","rna_Cyp51","metabo_Oleic acid*-H",0.500833372874375,30,"RNA","Metabo",NA,NA,NA,NA,"Excit_CTX.OLF"
+"Cell_type_and_Region","rna_Pde7b","metabo_medronic acid+Cl",0.510283485917735,36,"RNA","Metabo",NA,NA,NA,NA,"Excit_CTX.OLF"
+"Cell_type_and_Region","rna_Plce1","metabo_FAHFA*-H",0.570587126022439,32,"RNA","Metabo",NA,NA,NA,NA,"Excit_CTX.OLF"
+"Cell_type_and_Region","rna_Aldoc","metabo_2-hydroxypropyl dihydrogen phosphate*-H",0.508524309299469,32,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.Uncertain"
+"Cell_type_and_Region","rna_Bdnf","metabo_sulfoacetic acid*-H",0.522990361171945,33,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.Uncertain"
+"Cell_type_and_Region","rna_Fos","metabo_N-Acetyl-L-aspartic acid-H",0.510059240244537,31,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.Uncertain"
+"Cell_type_and_Region","rna_Pcp4","metabo_Ascorbic acid-H",-0.557296012355035,37,"RNA","Metabo",NA,NA,NA,NA,"Inhib_CTX.CEAl"
+"Cell_type_and_Region","rna_Map2","metabo_medronic acid+Cl",0.506776916090265,46,"RNA","Metabo",NA,NA,NA,NA,"Thalamic Neurons.VPL"
+"Cell_type_and_Region","rna_Slc17a7","metabo_2-(phosphinomethylidene)succinic acid-H",0.503285526496694,34,"RNA","Metabo",NA,NA,NA,NA,"Microglia.CTXsp"
+"Cell_type_and_Region","rna_Aldh2","metabo_Phosphoserine+Cl",0.554343093909161,35,"RNA","Metabo",NA,NA,NA,NA,"Excit_CTX.RHP"
+"Cell_type_and_Region","rna_Inpp4b","metabo_Glutamic acid*-H",-0.503424707935193,39,"RNA","Metabo",NA,NA,NA,NA,"Excit_CTX.RHP"
+"Cell_type_and_Region","rna_Ntrk2","metabo_2-(phosphinomethylidene)succinic acid-H",0.557346239117992,31,"RNA","Metabo",NA,NA,NA,NA,"Excit_CTX.RHP"
+"Cell_type_and_Region","rna_Pde1a","metabo_N-Acetyl-L-aspartic acid-H",-0.502298858788564,110,"RNA","Metabo",NA,NA,NA,NA,"Excit_CTX.RHP"
+"Cell_type_and_Region","rna_Soat1","metabo_N-Acetyl-L-aspartic acid-H",0.503983020995564,30,"RNA","Metabo",NA,NA,NA,NA,"Excit_CTX.RHP"
+"Cell_type_and_Region","rna_Bdnf","metabo_Succinic acid*-H",0.533179723005907,33,"RNA","Metabo",NA,NA,NA,NA,"Inhib_CTX.Isocortex"
+"Cell_type_and_Region","rna_Npy2r","metabo_Phosphate+Cl",0.535928008939598,66,"RNA","Metabo",NA,NA,NA,NA,"Inhib_CTX.Isocortex"
+"Cell_type_and_Region","rna_Syn1","metabo_1-stearoylglycerone 3-phosphate*-H",0.539697266000468,30,"RNA","Metabo",NA,NA,NA,NA,"Inhib_CTX.Isocortex"
+"Cell_type_and_Region","rna_Syn1","metabo_Glutamic acid*-H",0.565005495414791,119,"RNA","Metabo",NA,NA,NA,NA,"Excit_CTX.CP"
+"Cell_type_and_Region","rna_Lpl","metabo_N-Acetylglutamine-H",0.504018642450241,30,"RNA","Metabo",NA,NA,NA,NA,"Excit_HPF.CA3sp"
+"Cell_type_and_Region","rna_Prdx6","metabo_2-oxoglutarate(2-)-H",0.521550165686353,38,"RNA","Metabo",NA,NA,NA,NA,"Excit_HPF.CA3sp"
+"Cell_type_and_Region","rna_Gphn","metabo_Oleic acid*-H",0.581790821611536,32,"RNA","Metabo",NA,NA,NA,NA,"Oligodendrocytes.Isocortex"
+"Cell_type_and_Region","rna_Galntl6","metabo_Gluconolactone*+Cl",-0.519023997353386,30,"RNA","Metabo",NA,NA,NA,NA,"Inhib_CTX.GPe"
+"Cell_type_and_Region","rna_Galntl6","metabo_O-Phosphoethanolamine-H",-0.502676242850027,30,"RNA","Metabo",NA,NA,NA,NA,"Inhib_CTX.GPe"
+"Cell_type_and_Region","rna_Gda","metabo_Glutamic acid*-H",0.524560441939636,54,"RNA","Metabo",NA,NA,NA,NA,"Inhib_CTX.GPe"
+"Cell_type_and_Region","rna_Pde1a","metabo_D-Glucose*+Cl",0.53006403531591,41,"RNA","Metabo",NA,NA,NA,NA,"Inhib_CTX.GPe"
+"Cell_type_and_Region","rna_Pde1a","metabo_Taurine-H",-0.502753351127132,41,"RNA","Metabo",NA,NA,NA,NA,"Inhib_CTX.GPe"
+"Cell_type_and_Region","rna_Ogt","metabo_Glycerylphosphorylethanolamine-H",0.532364612390372,37,"RNA","Metabo",NA,NA,NA,NA,"Astrocytes.CEAm"
+"Cell_type_and_Region","rna_Aldoc","metabo_ADP*-H",0.594625679032221,35,"RNA","Metabo",NA,NA,NA,NA,"Thalamic Neurons.Uncertain"
+"Cell_type_and_Region","rna_B3galt1","metabo_N-Acetyl-L-aspartic acid-H",-0.547125713083802,33,"RNA","Metabo",NA,NA,NA,NA,"Thalamic Neurons.Uncertain"
+"Cell_type_and_Region","rna_Gpx3","metabo_D-Glucose*+Cl",0.720364816332673,32,"RNA","Metabo",NA,NA,NA,NA,"Thalamic Neurons.Uncertain"
+"Cell_type_and_Region","rna_Prps2","metabo_N-Acetyl-L-aspartic acid-H",-0.538249112138134,30,"RNA","Metabo",NA,NA,NA,NA,"Thalamic Neurons.Uncertain"
+"Cell_type_and_Region","rna_Prps2","metabo_D-Glucose*+Cl",0.505600659049186,32,"RNA","Metabo",NA,NA,NA,NA,"Thalamic Neurons.Uncertain"
+"Cell_type_and_Region","rna_Prps2","metabo_Taurine-H",0.619393599264114,32,"RNA","Metabo",NA,NA,NA,NA,"Thalamic Neurons.Uncertain"
+"Cell_type_and_Region","rna_Aldoc","metabo_acetyl diphosphate-H",0.537382875209097,30,"RNA","Metabo",NA,NA,NA,NA,"Astrocytes.MEAad"
+"Cell_type_and_Region","rna_Hk1","metabo_Maleic acid*-H",0.527909537127404,33,"RNA","Metabo",NA,NA,NA,NA,"Astrocytes.MEAad"
+"Cell_type_and_Region","rna_Hk1","metabo_phosphinothricin-H",0.532361452129169,38,"RNA","Metabo",NA,NA,NA,NA,"Astrocytes.MEAad"
+"Cell_type_and_Region","rna_Dhcr24","metabo_6-Phosphonoglucono-D-lactone-H",-0.509733195408271,32,"RNA","Metabo",NA,NA,NA,NA,"Excit_HPF.DG-sg"
+"Cell_type_and_Region","rna_Psap","metabo_2-acetamido-5-oxopentanoic acid*-H",-0.541455370908209,34,"RNA","Metabo",NA,NA,NA,NA,"Excit_HPF.DG-mo"
+"Cell_type_and_Region","rna_Hcn1","metabo_Glutamic acid*-H",-0.522939865261447,41,"RNA","Metabo",NA,NA,NA,NA,"Excit_CTX.Uncertain"
+"Cell_type_and_Region","rna_Lpl","metabo_hydroxyacetone phosphate*-H",-0.514004468685008,38,"RNA","Metabo",NA,NA,NA,NA,"Excit_CTX.Uncertain"
+"Cell_type_and_Region","rna_Nefh","metabo_LysoPA(18:0)*-H",0.532317147102994,31,"RNA","Metabo",NA,NA,NA,NA,"Excit_CTX.Uncertain"
+"Cell_type_and_Region","rna_Neurod1","metabo_Phosphoserine-H",-0.575821135973101,34,"RNA","Metabo",NA,NA,NA,NA,"Excit_CTX.Uncertain"
+"Cell_type_and_Region","rna_Aldh2","metabo_N-Acetylaspartylglutamic acid-H",-0.544684225828605,33,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.ZI"
+"Cell_type_and_Region","rna_Tubb3","metabo_Maleic acid*-H",0.563930015604108,41,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.ZI"
+"Cell_type_and_Region","rna_Aldoc","metabo_Phosphate+Cl",0.558998435532031,31,"RNA","Metabo",NA,NA,NA,NA,"Inhib_CTX.ME"
+"Cell_type_and_Region","rna_Aldoc","metabo_Glutamic acid*-H",-0.606988529399916,31,"RNA","Metabo",NA,NA,NA,NA,"Inhib_CTX.ME"
+"Cell_type_and_Region","rna_Aldoc","metabo_Aspartic acid*-H",-0.591832731716475,31,"RNA","Metabo",NA,NA,NA,NA,"Inhib_CTX.ME"
+"Cell_type_and_Region","rna_Aldoc","metabo_phosphonoacetaldehyde-H",0.683814046819707,31,"RNA","Metabo",NA,NA,NA,NA,"Inhib_CTX.ME"
+"Cell_type_and_Region","rna_Aldoc","metabo_fosfomycin*-H",0.593979882023815,31,"RNA","Metabo",NA,NA,NA,NA,"Inhib_CTX.ME"
+"Cell_type_and_Region","rna_Gad1","metabo_Taurine-H",0.594098871255754,32,"RNA","Metabo",NA,NA,NA,NA,"Inhib_CTX.ME"
+"Cell_type_and_Region","rna_Psap","metabo_Pyroglutamic acid*-H",-0.578117445013979,32,"RNA","Metabo",NA,NA,NA,NA,"Inhib_CTX.ME"
+"Cell_type_and_Region","rna_Aldoc","metabo_D-Glucose*+Cl",-0.522778756283771,53,"RNA","Metabo",NA,NA,NA,NA,"Astrocytes.VPM"
+"Cell_type_and_Region","rna_Ntrk2","metabo_ST 28:6;O2;Gly-H",-0.507377394123659,30,"RNA","Metabo",NA,NA,NA,NA,"Astrocytes.VPM"
+"Cell_type_and_Region","rna_Psap","metabo_Gluconolactone*+Cl",-0.511893066711319,43,"RNA","Metabo",NA,NA,NA,NA,"Astrocytes.VL"
+"Cell_type_and_Region","rna_Gphn","metabo_3-Hydroxyglutaric acid*-H",-0.554014959933829,37,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.RE"
+"Cell_type_and_Region","rna_Hk1","metabo_Succinic acid*-H",-0.601311164926881,36,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.RE"
+"Cell_type_and_Region","rna_Ogt","metabo_Gluconolactone*+Cl",0.503712892938353,39,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.RE"
+"Cell_type_and_Region","rna_Slc6a1","metabo_Adenine-H",0.567108015133109,31,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.RE"
+"Cell_type_and_Region","rna_Tubb3","metabo_Glutamic acid*-H",0.501029518771646,39,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.RE"
+"Cell_type_and_Region","rna_Pde1a","metabo_Glutamic acid*-H",-0.533840615719949,67,"RNA","Metabo",NA,NA,NA,NA,"Excit_HPF.Uncertain"
+"Cell_type_and_Region","rna_Tubb3","metabo_D-Glucose*+Cl",-0.542785845146324,176,"RNA","Metabo",NA,NA,NA,NA,"Excit_HPF.Uncertain"
+"Cell_type_and_Region","rna_Tubb3","metabo_Pyrophosphate+Cl",-0.509162978654874,42,"RNA","Metabo",NA,NA,NA,NA,"Excit_HPF.Uncertain"
+"Cell_type_and_Region","rna_Ust","metabo_Pyrophosphate-H",-0.513364055198033,30,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.VMHvl"
+"Cell_type_and_Region","rna_Map2","metabo_N-Acetyl-beta-alanine*-H",-0.500654005227313,34,"RNA","Metabo",NA,NA,NA,NA,"Astrocytes.VMHdm"
+"Cell_type_and_Region","rna_Dhcr24","metabo_Oleic acid*-H",0.516831302351017,31,"RNA","Metabo",NA,NA,NA,NA,"Inhib_CTX.VMHdm"
+"Cell_type_and_Region","rna_Adcyap1","metabo_D-xyluronic acid*-H",0.521999999217756,33,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.DMHa"
+"Cell_type_and_Region","rna_Nos1","metabo_Asparagine*-H",0.524164132787462,30,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.DMHa"
+"Cell_type_and_Region","rna_Psap","metabo_2-oxoglutarate(2-)-H",0.507863164540419,62,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.DMHa"
+"Cell_type_and_Region","rna_Ndnf","metabo_Glycerylphosphorylethanolamine-H",0.618601558353246,33,"RNA","Metabo",NA,NA,NA,NA,"Inhib_CTX.OLF"
+"Cell_type_and_Region","rna_Rbfox3","metabo_Erythronic acid*-H",0.560449126691999,30,"RNA","Metabo",NA,NA,NA,NA,"Inhib_CTX.OLF"
+"Cell_type_and_Region","rna_Slc6a1","metabo_Phosphoglycolic acid+Cl",-0.55004365121644,31,"RNA","Metabo",NA,NA,NA,NA,"Inhib_CTX.OLF"
+"Cell_type_and_Region","rna_Aldoc","metabo_1-oleylglycerone 3-phosphate*-H",-0.550242415782818,34,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.MH"
+"Cell_type_and_Region","rna_Nos1","metabo_Mesaconic acid*-H",-0.52191153742046,36,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.MH"
+"Cell_type_and_Region","rna_Tubb3","metabo_Serine*-H",0.538036733470328,34,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.MH"
+"Cell_type_and_Region","rna_Npy2r","metabo_N-Acetyl-L-aspartic acid-H",-0.513253630881677,31,"RNA","Metabo",NA,NA,NA,NA,"Inhib_CTX.MEAav"
+"Cell_type_and_Region","rna_Pde1a","metabo_Guanine-H",0.550486709083642,31,"RNA","Metabo",NA,NA,NA,NA,"Inhib_CTX.MEAav"
+"Cell_type_and_Region","rna_Aldh2","metabo_monodehydro-L-ascorbic acid-H",0.51000726548718,36,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.VMHc"
+"Cell_type_and_Region","rna_Prps2","metabo_Glutamine*-H",0.575203196098021,36,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.VMHc"
+"Cell_type_and_Region","rna_Sncg","metabo_N-Acetyl-L-aspartic acid-H",-0.643200025415593,31,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.VMHc"
+"Cell_type_and_Region","rna_Sncg","metabo_D-Glucose*+Cl",-0.557303837235665,31,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.VMHc"
+"Cell_type_and_Region","rna_Sncg","metabo_Glutamic acid*-H",-0.549490955488279,31,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.VMHc"
+"Cell_type_and_Region","rna_Sncg","metabo_Pyroglutamic acid*-H",-0.546264112487491,31,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.VMHc"
+"Cell_type_and_Region","rna_Gfap","metabo_1-alkyl-2-acylglycerophosphoethanolamine-H",-0.506324750851603,41,"RNA","Metabo",NA,NA,NA,NA,"Oligodendrocytes.Uncertain"
+"Cell_type_and_Region","rna_Hk1","metabo_glyphosate*-H",-0.505950149695699,42,"RNA","Metabo",NA,NA,NA,NA,"Oligodendrocytes.Uncertain"
+"Cell_type_and_Region","rna_Ust","metabo_Methylphosphate-H",-0.581266724839345,34,"RNA","Metabo",NA,NA,NA,NA,"Oligodendrocytes.Uncertain"
+"Cell_type_and_Region","rna_Aldh2","metabo_Taurine-H",0.664443476473657,53,"RNA","Metabo",NA,NA,NA,NA,"Astrocytes.MEAav"
+"Cell_type_and_Region","rna_Aldh2","metabo_Gluconolactone*+Cl",-0.590877474014483,53,"RNA","Metabo",NA,NA,NA,NA,"Astrocytes.MEAav"
+"Cell_type_and_Region","rna_Aldh2","metabo_Citric acid+Cl",-0.550787203636957,50,"RNA","Metabo",NA,NA,NA,NA,"Astrocytes.MEAav"
+"Cell_type_and_Region","rna_Aldh2","metabo_L-Aspartyl-4-phosphate+Cl",0.501144317144425,45,"RNA","Metabo",NA,NA,NA,NA,"Astrocytes.MEAav"
+"Cell_type_and_Region","rna_Aldh2","metabo_O-Phosphoethanolamine-H",-0.626391433917587,53,"RNA","Metabo",NA,NA,NA,NA,"Astrocytes.MEAav"
+"Cell_type_and_Region","rna_Aldh2","metabo_Succinic acid*-H",0.501211720990124,52,"RNA","Metabo",NA,NA,NA,NA,"Astrocytes.MEAav"
+"Cell_type_and_Region","rna_Aldh2","metabo_Pyrophosphate-H",-0.592092468116612,53,"RNA","Metabo",NA,NA,NA,NA,"Astrocytes.MEAav"
+"Cell_type_and_Region","rna_Aldh2","metabo_phosphonoformic acid*+Cl",-0.554166741153316,52,"RNA","Metabo",NA,NA,NA,NA,"Astrocytes.MEAav"
+"Cell_type_and_Region","rna_Aldoc","metabo_Taurine-H",-0.53167338710753,75,"RNA","Metabo",NA,NA,NA,NA,"Astrocytes.MEAav"
+"Cell_type_and_Region","rna_Aldoc","metabo_Pyrophosphate-H",0.520577930049343,75,"RNA","Metabo",NA,NA,NA,NA,"Astrocytes.MEAav"
+"Cell_type_and_Region","rna_Aldoc","metabo_D-myo-Inositol 3-phosphate*-H",0.51309729586138,72,"RNA","Metabo",NA,NA,NA,NA,"Astrocytes.MEAav"
+"Cell_type_and_Region","rna_Gfap","metabo_Taurine-H",0.625088206660807,52,"RNA","Metabo",NA,NA,NA,NA,"Astrocytes.MEAav"
+"Cell_type_and_Region","rna_Gfap","metabo_Glutamic acid*-H",-0.555021174181257,52,"RNA","Metabo",NA,NA,NA,NA,"Astrocytes.MEAav"
+"Cell_type_and_Region","rna_Gfap","metabo_Aspartic acid*-H",-0.579073936464285,52,"RNA","Metabo",NA,NA,NA,NA,"Astrocytes.MEAav"
+"Cell_type_and_Region","rna_Gfap","metabo_L-Aspartyl-4-phosphate+Cl",0.624984366599901,48,"RNA","Metabo",NA,NA,NA,NA,"Astrocytes.MEAav"
+"Cell_type_and_Region","rna_Gfap","metabo_Adenine-H",0.587613998773141,52,"RNA","Metabo",NA,NA,NA,NA,"Astrocytes.MEAav"
+"Cell_type_and_Region","rna_Gfap","metabo_O-Phosphoethanolamine-H",-0.599373898134626,52,"RNA","Metabo",NA,NA,NA,NA,"Astrocytes.MEAav"
+"Cell_type_and_Region","rna_Gfap","metabo_Succinic acid*-H",0.585523033298708,52,"RNA","Metabo",NA,NA,NA,NA,"Astrocytes.MEAav"
+"Cell_type_and_Region","rna_Gfap","metabo_N-Acetyl-beta-alanine*-H",0.524182262459993,51,"RNA","Metabo",NA,NA,NA,NA,"Astrocytes.MEAav"
+"Cell_type_and_Region","rna_Gfap","metabo_Pyrophosphate-H",-0.644124182930888,52,"RNA","Metabo",NA,NA,NA,NA,"Astrocytes.MEAav"
+"Cell_type_and_Region","rna_Gfap","metabo_fosfomycin*-H",-0.528359567934439,50,"RNA","Metabo",NA,NA,NA,NA,"Astrocytes.MEAav"
+"Cell_type_and_Region","rna_Gfap","metabo_phosphinothricin-H",-0.551433996532925,44,"RNA","Metabo",NA,NA,NA,NA,"Astrocytes.MEAav"
+"Cell_type_and_Region","rna_Gfap","metabo_fosmidomycin-H",-0.617593290032979,42,"RNA","Metabo",NA,NA,NA,NA,"Astrocytes.MEAav"
+"Cell_type_and_Region","rna_Gfap","metabo_phosphonoformic acid*+Cl",-0.582245472879703,51,"RNA","Metabo",NA,NA,NA,NA,"Astrocytes.MEAav"
+"Cell_type_and_Region","rna_Gfap","metabo_D-myo-Inositol 3-phosphate*-H",-0.55780624327261,49,"RNA","Metabo",NA,NA,NA,NA,"Astrocytes.MEAav"
+"Cell_type_and_Region","rna_Map2","metabo_Taurine-H",-0.74684806895984,73,"RNA","Metabo",NA,NA,NA,NA,"Astrocytes.MEAav"
+"Cell_type_and_Region","rna_Map2","metabo_Glutamic acid*-H",0.509958001980203,73,"RNA","Metabo",NA,NA,NA,NA,"Astrocytes.MEAav"
+"Cell_type_and_Region","rna_Map2","metabo_Gluconolactone*+Cl",0.630461871857322,73,"RNA","Metabo",NA,NA,NA,NA,"Astrocytes.MEAav"
+"Cell_type_and_Region","rna_Map2","metabo_Citric acid+Cl",0.528088512906599,70,"RNA","Metabo",NA,NA,NA,NA,"Astrocytes.MEAav"
+"Cell_type_and_Region","rna_Map2","metabo_Aspartic acid*-H",0.611333058130421,73,"RNA","Metabo",NA,NA,NA,NA,"Astrocytes.MEAav"
+"Cell_type_and_Region","rna_Map2","metabo_L-Aspartyl-4-phosphate+Cl",-0.506850254952507,60,"RNA","Metabo",NA,NA,NA,NA,"Astrocytes.MEAav"
+"Cell_type_and_Region","rna_Map2","metabo_O-Phosphoethanolamine-H",0.714378799621652,73,"RNA","Metabo",NA,NA,NA,NA,"Astrocytes.MEAav"
+"Cell_type_and_Region","rna_Map2","metabo_Succinic acid*-H",-0.615062073213864,73,"RNA","Metabo",NA,NA,NA,NA,"Astrocytes.MEAav"
+"Cell_type_and_Region","rna_Map2","metabo_Pyrophosphate-H",0.719642462012435,73,"RNA","Metabo",NA,NA,NA,NA,"Astrocytes.MEAav"
+"Cell_type_and_Region","rna_Map2","metabo_phosphonoformic acid*+Cl",0.687372734262283,72,"RNA","Metabo",NA,NA,NA,NA,"Astrocytes.MEAav"
+"Cell_type_and_Region","rna_Map2","metabo_D-myo-Inositol 3-phosphate*-H",0.554868567980717,71,"RNA","Metabo",NA,NA,NA,NA,"Astrocytes.MEAav"
+"Cell_type_and_Region","rna_Ntrk2","metabo_Taurine-H",-0.633165209146903,77,"RNA","Metabo",NA,NA,NA,NA,"Astrocytes.MEAav"
+"Cell_type_and_Region","rna_Ntrk2","metabo_Gluconolactone*+Cl",0.510019581492982,77,"RNA","Metabo",NA,NA,NA,NA,"Astrocytes.MEAav"
+"Cell_type_and_Region","rna_Ntrk2","metabo_O-Phosphoethanolamine-H",0.679335117637826,77,"RNA","Metabo",NA,NA,NA,NA,"Astrocytes.MEAav"
+"Cell_type_and_Region","rna_Ntrk2","metabo_Pyrophosphate-H",0.576637171206687,77,"RNA","Metabo",NA,NA,NA,NA,"Astrocytes.MEAav"
+"Cell_type_and_Region","rna_Ntrk2","metabo_fosfomycin*-H",0.536311556957698,75,"RNA","Metabo",NA,NA,NA,NA,"Astrocytes.MEAav"
+"Cell_type_and_Region","rna_Ntrk2","metabo_phosphonoformic acid*+Cl",0.63141471707262,76,"RNA","Metabo",NA,NA,NA,NA,"Astrocytes.MEAav"
+"Cell_type_and_Region","rna_Galntl6","metabo_N-acetyl-2,7-anhydro-alpha-neuraminic acid*-H",0.515670539844946,30,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.MEAav"
+"Cell_type_and_Region","rna_Nefh","metabo_Gluconolactone*-H",0.556883559210667,33,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.MEAav"
+"Cell_type_and_Region","rna_Fos","metabo_N-Acetyl-L-aspartic acid-H",-0.557883330836822,35,"RNA","Metabo",NA,NA,NA,NA,"Thalamic Neurons.VAL"
+"Cell_type_and_Region","rna_Plp1","metabo_L-Glutamic acid 5-phosphate-H",0.511149984100582,34,"RNA","Metabo",NA,NA,NA,NA,"Thalamic Neurons.VAL"
+"Cell_type_and_Region","rna_Enpp2","metabo_Taurine-H",-0.559274154757485,36,"RNA","Metabo",NA,NA,NA,NA,"Ventricular systems Glial cells.MH"
+"Cell_type_and_Region","rna_Hk1","metabo_O-Phosphoethanolamine-H",0.512909137595437,30,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.OLF"
+"Cell_type_and_Region","rna_Ogt","metabo_hydroxyacetone phosphate*-H",-0.549324319737052,32,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.OLF"
+"Cell_type_and_Region","rna_Pcp4","metabo_D-Glucose*+Cl",-0.584940828924709,31,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.OLF"
+"Cell_type_and_Region","rna_Psap","metabo_D-Glucose*+Cl",0.529025616167715,34,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.OLF"
+"Cell_type_and_Region","rna_Psap","metabo_Taurine-H",-0.549601734312633,34,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.OLF"
+"Cell_type_and_Region","rna_Psap","metabo_Oxoadipic acid-H",0.539698024309707,32,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.OLF"
+"Cell_type_and_Region","rna_Hk1","metabo_2-oxoglutarate(2-)-H",-0.569104849930394,34,"RNA","Metabo",NA,NA,NA,NA,"Excit_CTX.DG-sg"
+"Cell_type_and_Region","rna_Hmgcr","metabo_D-Glucose*+Cl",-0.630581688433092,31,"RNA","Metabo",NA,NA,NA,NA,"Microglia.OLF"
+"Cell_type_and_Region","rna_Tubb3","metabo_Pyrophosphate-H",-0.513628326851927,41,"RNA","Metabo",NA,NA,NA,NA,"Microglia.OLF"
+"Cell_type_and_Region","rna_Psap","metabo_fosfomycin*-H",0.51355953656235,32,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.SMT"
+"Cell_type_and_Region","rna_Psap","metabo_Citric acid+Cl",0.577770245037443,74,"RNA","Metabo",NA,NA,NA,NA,"Inhib_Interneurons.Uncertain"
+"Cell_type_and_Region","rna_Psap","metabo_1-oleylglycerone 3-phosphate*-H",0.625496143377083,43,"RNA","Metabo",NA,NA,NA,NA,"Inhib_Interneurons.Uncertain"
+"Cell_type_and_Region","rna_Rbfox3","metabo_Phosphate+Cl",0.561232708142124,34,"RNA","Metabo",NA,NA,NA,NA,"Inhib_Interneurons.Uncertain"
+"Cell_type_and_Region","rna_Slc6a1","metabo_D-Glucose*+Cl",-0.545702715329584,69,"RNA","Metabo",NA,NA,NA,NA,"Inhib_Interneurons.Uncertain"
+"Cell_type_and_Region","rna_Slc6a1","metabo_Gluconolactone*+Cl",-0.50878256143461,69,"RNA","Metabo",NA,NA,NA,NA,"Inhib_Interneurons.Uncertain"
+"Cell_type_and_Region","rna_Slc6a1","metabo_LysoPE(18:1)-H",-0.5633955384691,44,"RNA","Metabo",NA,NA,NA,NA,"Inhib_Interneurons.Uncertain"
+"Cell_type_and_Region","rna_Slc6a1","metabo_D-glucose 6-sulfate*-H",-0.500860581302591,57,"RNA","Metabo",NA,NA,NA,NA,"Inhib_Interneurons.Uncertain"
+"Cell_type_and_Region","rna_Pcp4","metabo_Guanine-H",0.53999689117655,45,"RNA","Metabo",NA,NA,NA,NA,"Thalamic Neurons.VM"
+"Cell_type_and_Region","rna_Ogt","metabo_Aconitic acid*-H",-0.565830095386533,31,"RNA","Metabo",NA,NA,NA,NA,"Thalamic Neurons.LD"
+"Cell_type_and_Region","rna_Gpx3","metabo_Gluconolactone*+Cl",0.557503417841125,32,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.CTXsp"
+"Cell_type_and_Region","rna_Gpx3","metabo_Adenine-H",0.640044358500829,32,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.CTXsp"
+"Cell_type_and_Region","rna_Gpx3","metabo_Methylthiomethyl 2-methylbutanethiolate+Cl",0.565028764851527,30,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.CTXsp"
+"Cell_type_and_Region","rna_Hmgcr","metabo_Ascorbic acid-H",0.541604091833949,33,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.CTXsp"
+"Cell_type_and_Region","rna_Ntrk2","metabo_fosmidomycin-H",0.534465115684564,33,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.CTXsp"
+"Cell_type_and_Region","rna_Ogt","metabo_fosmidomycin-H",0.644561347826977,33,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.CTXsp"
+"Cell_type_and_Region","rna_Ogt","metabo_3-[hydroxy(oxido)phosphoranyl]pyruvic acid-H",0.524440295236095,30,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.CTXsp"
+"Cell_type_and_Region","rna_Pcp4","metabo_N-Acetyl-L-aspartic acid-H",-0.603822623785672,34,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.CTXsp"
+"Cell_type_and_Region","rna_Pcp4","metabo_Aspartic acid*-H",-0.560239756528902,34,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.CTXsp"
+"Cell_type_and_Region","rna_Pde1a","metabo_4-O-(beta-L-Araf)-cis-L-Hyp zwitterion+Cl",0.595736335082482,30,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.CTXsp"
+"Cell_type_and_Region","rna_Psap","metabo_D-Glucose*+Cl",0.507932988392843,39,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.CTXsp"
+"Cell_type_and_Region","rna_Psap","metabo_Taurine-H",-0.578757802734672,39,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.CTXsp"
+"Cell_type_and_Region","rna_Rbfox3","metabo_Glycerol 3-phosphate-H",0.572406528496358,38,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.CTXsp"
+"Cell_type_and_Region","rna_Hk1","metabo_D-Glucose*+Cl",-0.581709517912077,30,"RNA","Metabo",NA,NA,NA,NA,"Oligodendrocytes.VAL"
+"Cell_type_and_Region","rna_Hk1","metabo_Pyroglutamic acid*-H",0.506185731394985,30,"RNA","Metabo",NA,NA,NA,NA,"Oligodendrocytes.VAL"
+"Cell_type_and_Region","rna_Hmgcr","metabo_Pyroglutamic acid*-H",0.667306469277185,37,"RNA","Metabo",NA,NA,NA,NA,"Oligodendrocytes.VAL"
+"Cell_type_and_Region","rna_Nefh","metabo_Adenosine monophosphate*-H",0.558511717010647,39,"RNA","Metabo",NA,NA,NA,NA,"Oligodendrocytes.VAL"
+"Cell_type_and_Region","rna_Nos1","metabo_2-oxoglutaramic acid*-H",0.527526780416884,39,"RNA","Metabo",NA,NA,NA,NA,"Excit_HPF.CA1sp"
+"Cell_type_and_Region","rna_Npy2r","metabo_Oxoglutaric acid*-H",0.701328790663824,30,"RNA","Metabo",NA,NA,NA,NA,"Excit_HPF.CA1sp"
+"Cell_type_and_Region","rna_Psap","metabo_Phosphate+Cl",-0.607768552158971,35,"RNA","Metabo",NA,NA,NA,NA,"Inhib_Interneurons.CTXsp"
+"Cell_type_and_Region","rna_Psap","metabo_Pyroglutamic acid*-H",0.512442639379709,35,"RNA","Metabo",NA,NA,NA,NA,"Inhib_Interneurons.CTXsp"
+"Cell_type_and_Region","rna_Psap","metabo_phosphonoformic acid*+Cl",-0.500877368434691,35,"RNA","Metabo",NA,NA,NA,NA,"Inhib_Interneurons.CTXsp"
+"Cell_type_and_Region","rna_Tubb3","metabo_Glycerol 3-phosphate-H",0.589509645531568,33,"RNA","Metabo",NA,NA,NA,NA,"Inhib_Interneurons.CTXsp"
+"Cell_type_and_Region","rna_Psap","metabo_Phosphate+Cl",0.500184096503252,32,"RNA","Metabo",NA,NA,NA,NA,"Astrocytes.LD"
+"Cell_type_and_Region","rna_Plp1","metabo_Succinic acid*-H",-0.504814421374018,39,"RNA","Metabo",NA,NA,NA,NA,"Oligodendrocytes.OLF"
+"Cell_type_and_Region","rna_Plp1","metabo_Pyrophosphate-H",0.550829436907845,39,"RNA","Metabo",NA,NA,NA,NA,"Oligodendrocytes.OLF"
+"Cell_type_and_Region","rna_Plp1","metabo_Phosphoserine-H",0.532187620489071,32,"RNA","Metabo",NA,NA,NA,NA,"Oligodendrocytes.OLF"
+"Cell_type_and_Region","rna_Aldh2","metabo_N-Acetylasparagine*-H",0.569851839242475,30,"RNA","Metabo",NA,NA,NA,NA,"Excit_HPF.CA2sp"
+"Cell_type_and_Region","rna_Gda","metabo_allyl diphosphate-H",-0.572186590539112,31,"RNA","Metabo",NA,NA,NA,NA,"Excit_HPF.CA2sp"
+"Cell_type_and_Region","rna_Pde1a","metabo_dihydroclavaminic acid-H",0.508884318886136,41,"RNA","Metabo",NA,NA,NA,NA,"Excit_HPF.CA2sp"
+"Cell_type_and_Region","rna_Plp1","metabo_fosfomycin*-H",0.513807836024478,33,"RNA","Metabo",NA,NA,NA,NA,"Oligodendrocytes.TU"
+"Cell_type_and_Region","rna_Psap","metabo_fosfomycin*-H",-0.548407081027073,32,"RNA","Metabo",NA,NA,NA,NA,"Oligodendrocytes.TU"
+"Cell_type_and_Region","rna_Ogt","metabo_Pyroglutamic acid*-H",0.5070072055233,38,"RNA","Metabo",NA,NA,NA,NA,"Oligodendrocytes.MDm"
+"Cell_type_and_Region","rna_Cyp51","metabo_phosphinothricin-H",0.555861560473682,31,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.MDm"
+"Cell_type_and_Region","rna_Inpp4b","metabo_LysoPE(18:1)-H",-0.603445576440694,37,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.MDm"
+"Cell_type_and_Region","rna_Inpp4b","metabo_ST 28:6;O2;Gly-H",-0.565984201334689,38,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.MDm"
+"Cell_type_and_Region","rna_Nefh","metabo_Glutamic acid*-H",-0.578406763511905,71,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.MDm"
+"Cell_type_and_Region","rna_Nefh","metabo_Gluconolactone*+Cl",0.549757520892233,71,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.MDm"
+"Cell_type_and_Region","rna_Nefh","metabo_Glycerylphosphorylethanolamine-H",0.523189079231303,71,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.MDm"
+"Cell_type_and_Region","rna_Nefh","metabo_D-glucose 6-sulfate*-H",0.650707839439382,40,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.MDm"
+"Cell_type_and_Region","rna_Pcp4","metabo_D-Glucose*+Cl",-0.525801200050856,77,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.MDm"
+"Cell_type_and_Region","rna_Pde7b","metabo_Oxoadipic acid-H",-0.542952529076501,30,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.MDm"
+"Cell_type_and_Region","rna_Pde7b","metabo_Ascorbic acid-H",-0.571010813254243,30,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.MDm"
+"Cell_type_and_Region","rna_Slc17a6","metabo_Adenine-H",0.5267440005088,111,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.MDm"
+"Cell_type_and_Region","rna_Hmgcr","metabo_Adenine-H",0.507990205612729,33,"RNA","Metabo",NA,NA,NA,NA,"Oligodendrocytes.CP"
+"Cell_type_and_Region","rna_Hmgcr","metabo_phosphonoacetaldehyde-H",-0.500210359251909,39,"RNA","Metabo",NA,NA,NA,NA,"Oligodendrocytes.CP"
+"Cell_type_and_Region","rna_Ogt","metabo_Triphosphate-H",-0.508645898357803,32,"RNA","Metabo",NA,NA,NA,NA,"Thalamic Neurons.PCN"
+"Cell_type_and_Region","rna_Rbfox3","metabo_Phosphonoacetate-H",-0.515121484117779,43,"RNA","Metabo",NA,NA,NA,NA,"Thalamic Neurons.PCN"
+"Cell_type_and_Region","rna_Ntrk2","metabo_Pyrophosphate-H",0.5091319395632,31,"RNA","Metabo",NA,NA,NA,NA,"Astrocytes.DG-mo"
+"Cell_type_and_Region","rna_Pcp4","metabo_Malic acid-H",0.50064441810856,53,"RNA","Metabo",NA,NA,NA,NA,"Thalamic Neurons.CM"
+"Cell_type_and_Region","rna_Aldoc","metabo_Phosphate+Cl",0.560199580284168,37,"RNA","Metabo",NA,NA,NA,NA,"Thalamic Neurons.Isocortex"
+"Cell_type_and_Region","rna_Ogt","metabo_O-Phosphoethanolamine-H",-0.533151471738082,35,"RNA","Metabo",NA,NA,NA,NA,"Thalamic Neurons.Isocortex"
+"Cell_type_and_Region","rna_Pcp4","metabo_phosphonoformic acid*+Cl",-0.597348386866777,34,"RNA","Metabo",NA,NA,NA,NA,"Thalamic Neurons.RT"
+"Cell_type_and_Region","rna_Psap","metabo_Methylthiomethyl 2-methylbutanethiolate+Cl",-0.543572484585176,34,"RNA","Metabo",NA,NA,NA,NA,"Thalamic Neurons.RT"
+"Cell_type_and_Region","rna_Aldoc","metabo_N-Acetyl-beta-alanine*-H",-0.520185174761544,36,"RNA","Metabo",NA,NA,NA,NA,"Oligodendrocytes.CTXsp"
+"Cell_type_and_Region","rna_Dhcr24","metabo_N-Acetyl-L-aspartic acid-H",0.52006428584079,36,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.PVT"
+"Cell_type_and_Region","rna_Gpx3","metabo_N-Acetyl-L-aspartic acid-H",0.518154050394567,37,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.PVT"
+"Cell_type_and_Region","rna_Hmgcr","metabo_N-Acetyl-L-aspartic acid-H",0.67426510744015,47,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.PVT"
+"Cell_type_and_Region","rna_Hmgcr","metabo_Taurine-H",-0.575765285182039,47,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.PVT"
+"Cell_type_and_Region","rna_Hmgcr","metabo_Aspartic acid*-H",-0.684793075609971,47,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.PVT"
+"Cell_type_and_Region","rna_Hmgcr","metabo_Phosphoserine+Cl",0.535156355445821,46,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.PVT"
+"Cell_type_and_Region","rna_Hmgcr","metabo_Lycobetaine-H",0.526417021533495,45,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.PVT"
+"Cell_type_and_Region","rna_Inpp4b","metabo_N-Acetyl-beta-alanine*-H",0.565114212808704,41,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.PVT"
+"Cell_type_and_Region","rna_Ntrk2","metabo_N-Acetyl-L-aspartic acid-H",0.541385866979679,44,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.PVT"
+"Cell_type_and_Region","rna_Pcp4","metabo_Phosphate+Cl",0.50690235966049,32,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.PVT"
+"Cell_type_and_Region","rna_Pcp4","metabo_N-Acetyl-L-aspartic acid-H",-0.887155299595074,32,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.PVT"
+"Cell_type_and_Region","rna_Pcp4","metabo_Taurine-H",0.764303206301775,32,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.PVT"
+"Cell_type_and_Region","rna_Pcp4","metabo_Glutamic acid*-H",0.567965036532016,32,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.PVT"
+"Cell_type_and_Region","rna_Pcp4","metabo_Citric acid+Cl",-0.63384204621885,32,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.PVT"
+"Cell_type_and_Region","rna_Pcp4","metabo_Aspartic acid*-H",0.862003370588531,32,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.PVT"
+"Cell_type_and_Region","rna_Pcp4","metabo_4-O-(beta-L-Araf)-cis-L-Hyp zwitterion+Cl",-0.722275988318733,32,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.PVT"
+"Cell_type_and_Region","rna_Slc17a6","metabo_N-Acetyl-L-aspartic acid-H",0.73773360012403,49,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.PVT"
+"Cell_type_and_Region","rna_Slc17a6","metabo_Taurine-H",-0.508048546639903,49,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.PVT"
+"Cell_type_and_Region","rna_Slc17a6","metabo_Citric acid+Cl",0.628356885655713,49,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.PVT"
+"Cell_type_and_Region","rna_Slc17a6","metabo_Aspartic acid*-H",-0.688671446492323,49,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.PVT"
+"Cell_type_and_Region","rna_Tubb3","metabo_N-Acetyl-L-aspartic acid-H",0.6891960676775,52,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.PVT"
+"Cell_type_and_Region","rna_Tubb3","metabo_Aspartic acid*-H",-0.59291592197316,52,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.PVT"
+"Cell_type_and_Region","rna_Tubb3","metabo_4-O-(beta-L-Araf)-cis-L-Hyp zwitterion+Cl",0.616403149204299,52,"RNA","Metabo",NA,NA,NA,NA,"Excit_VGLUT2.PVT"
+"Cell_type_and_Region","rna_Nefh","metabo_D-myo-Inositol 3-phosphate*-H",0.500566175992427,47,"RNA","Metabo",NA,NA,NA,NA,"Thalamic Neurons.CL"
+"Cell_type_and_Region","rna_Psap","metabo_medronic acid+Cl",0.50205492430663,32,"RNA","Metabo",NA,NA,NA,NA,"Excit_HPF.Isocortex"
+"Cell_type_and_Region","rna_Pcp4","metabo_phosphonoformic acid*+Cl",0.516361448856872,37,"RNA","Metabo",NA,NA,NA,NA,"Oligodendrocytes.VPL"
+"Cell_type_and_Region","rna_Tubb3","metabo_4-O-(beta-L-Araf)-cis-L-Hyp zwitterion+Cl",-0.54276324587161,32,"RNA","Metabo",NA,NA,NA,NA,"Thalamic Neurons.LHA"
+"Cell_type_and_Region","rna_Syn1","metabo_N-Acetyl-beta-alanine*-H",-0.505853651981738,35,"RNA","Metabo",NA,NA,NA,NA,"Excit_CTX.CA1so"
+"Cell_type_and_Region","rna_Dhcr24","metabo_Taurine-H",0.52044128021835,35,"RNA","Metabo",NA,NA,NA,NA,"Oligodendrocytes.ZI"
+"Cell_type_and_Region","rna_Psap","metabo_Mesaconic acid*-H",-0.535118965056868,34,"RNA","Metabo",NA,NA,NA,NA,"Oligodendrocytes.LD"
+"Cell_type_and_Region","rna_Gphn","metabo_1-oleylglycerone 3-phosphate*-H",0.503828837478444,48,"RNA","Metabo",NA,NA,NA,NA,"Oligodendrocytes.cc"
+"Cell_type_and_Region","rna_Ntrk2","metabo_Phosphoserine-H",0.593364958586869,30,"RNA","Metabo",NA,NA,NA,NA,"Excit_CTX.CA1sp"
+"Cell_type_and_Region","rna_Rbfox3","metabo_O-Phosphoethanolamine+Cl",-0.5554379239576,32,"RNA","Metabo",NA,NA,NA,NA,"Excit_CTX.CA3sp"
